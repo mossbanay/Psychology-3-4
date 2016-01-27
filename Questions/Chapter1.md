@@ -87,12 +87,81 @@ If these variables aren't controlled for they may render the experiment and its 
 ---
 
 A researcher is planning an experiment to investigate the rate of forgetting (how much time it takes) and amount of forgetting (how much information) that occurs when new information (e.g. a list of nonsense 'words' such as qab and jir) is learned.
-### Identify the IV(s) and DV(s)
+
+#### Identify the IV(s) and DV(s)
 - *IV*: Whether normal english words or made up words are used in the test
 - *DV*: The time and amount of forgetting that occurs
 
-### Identify two extraneous or potential confounding variables that could affect the DV (in addition to the IV) and therefore need to be controlled
+#### Identify two extraneous or potential confounding variables that could affect the DV (in addition to the IV) and therefore need to be controlled
 A possible confounding variable would be that some individuals have a better memory than others and would therefore be able to remember more words. A possible extraneous variable would be that the made up words sound or look similar to english words.
 
-### Suggest a way that each variable reffered to in part (b) could be controlled
+#### Suggest a way that each variable reffered to in part (b) could be controlled
 Use a suitable sampling method to ensure both the control and experimental group are equally balanced in terms of baseline memory. Ensure that all the nonsense words given to the experimental group are the same.
+
+---
+
+An experiment was conducted to test whether people make fewer errors in detecting spelling errors in an interesting text than in a boring one. Two groups of randomly selected and allocated participants were used. Group 1 looked for errors in a physics text on string theory (a boring task) and Group 2 looked for errors in the script of a Twilight move (an interesting task). The results showed that Group 1 detected significantly fewer spelling errors than did Group 2.
+
+#### Identity the IV, DV and a potential confounding variable in the experiment.
+- *IV*: Whether the participant was given an interesting or boring text to check for spelling errors
+- *DV*: The number of spelling errors found by the participant
+- *Confounding variable*: What one person finds interesting another people may find boring. For example in this exact choice of books (string theory and Twilight), if a physics professor participated in the experiment, the choice of books would be inappropriate as the professor would find the string theory book interesting and the Twilight book boring.
+
+# Learning Activity 1.7
+
+#### What is a placebo in relation to experimental research?
+A placebo is the the effect of a participant believing that something should happen
+#### Define the term placebo effect with reference to an example not used in the text.
+The placebo effect is the effect of someone believing that an event will occur, and therefore they will believe that it has occured
+#### Explain why the placebo effect is a potential confounding variable.
+In instances where the placebo effect has a noticeable and measureable effect on the DV, it may lessen the apparent effect of manipulating the IV. (i.e you are setting an inaccurate baseline)
+
+---
+
+#### Define the meaning of the term experimenter effect.
+*Experimenter effect*: defn
+
+#### What is experimenter expectancy and how can it produce
+- a self-fufilling prophecy?
+- experimenter bias?
+
+#### Explain why experimenter effects are potential confounding variables.
+explan
+
+---
+
+#### Suggest a way of controlling or minising the influence of a placebo effect
+#### Suggest a way of controlling or minising the influence of an experimenter effect
+
+
+# Learning Activity 1.8
+# Learning Activity 1.10 q1-5a
+# Learning Activity 1.12
+# Learning Activity 1.14
+# Learning Activity 1.15
+# Learning Activity 1.16
+# Learning Activity 1.26
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
