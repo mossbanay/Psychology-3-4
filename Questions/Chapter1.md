@@ -128,11 +128,11 @@ In instances where the placebo effect has a noticeable and measureable effect on
 #### What is experimenter expectancy
 Experimenter expectancy is the bias made by an experimenter when conducting an experiment. It may involve misreading data or misintrepreting reactions/results so that their expectations remina true.
 
-##### How can experimenter expectancy produce ...
-###### a self-fulfilling prophecy?
+#### How can experimenter expectancy produce ...
+##### a self-fulfilling prophecy?
 An experimenter may hint a participant towards looking at something more closely or by giving them more attention over others. This may lead to them doing what the experimenter 'wanted' to see, creating a self-fulfilling prophecy.
 
-###### experimenter bias?
+##### experimenter bias?
 
 
 #### Explain why experimenter effects are potential confounding variables.
@@ -148,6 +148,32 @@ Use a double-blind procedure
 
 
 # Learning Activity 1.8
+
+##### Explain the meaning of the order effect
+The order effect is the influence that the sequence of trials can have when using a repeated measured experimental design.
+
+##### Distinguish between practice effects and carry-over effects with refrences to how these order effects can lead to higher or lower scores on a measure of the DV
+Practice effects refer to the participant getting better at completing a task by having completed it in a past trial, often leading to a better score.
+
+Carry-over effects refer to the influence of previous trials or treatments on the current trial. For example if testing the effects of a new drug on focus when completing a crossword, it is important that the participants are given the drug after having completed a control.
+
+##### Explain why order effects are potential confounding variables
+Since order effects can influence a participants performance on the DV, it makes it harder for experimenters to determine the degree to which the IV changed the DV.
+
+---
+
+##### Explain the meaning of the term non-standardised in relation to research procedures
+An experiment has non-standardised procedures when the procedures used for all participants is not uniform.
+
+##### Give an example of an instruction to participants and one or more experimental procedures that would be considered to be non-standardised
+During an experiment on the effects of ambient noise on reaction time, one participant is instructed to press a button when they hear a particular name. Another participant is instructed to press a button when they hear any name.
+
+During an experiment it is important that participants all complete tasks under the same conditions. For example in an experiment measuring the effect of something on balance, it is best to have all participants complete their trial when it is not windy.
+
+##### Explain why non-standardised instructions and procedures are potentially confounding variables
+
+As non-standardised instructions and procedures can have a measureable influence on the DV, they become confounding variables if introduced into a study.
+
 # Learning Activity 1.10 q1-5a
 # Learning Activity 1.12
 # Learning Activity 1.14

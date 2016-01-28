@@ -1,3 +1,11 @@
+### Carry-over effects
+##### See also order effects
+
+The influence of the effects made by a previous treatment or task on a participants performance as measured by the DV.
+
+Examples include:
+- In an experiment concerning the affect of alcohol on driving performance, it is important to give the participants alcohol after the sober test but before the second test.
+
 ### Confounding variables
 ##### See also extraneous variables
 
@@ -62,11 +70,11 @@ Examples include:
 ### Order effect
 ##### See also confounding variables
 
-The order effect occurs when the chronological order of events has some sort of effect on the DV.
 "An order effect is an influence on a particular trial that arises from its position in a sequence of trials" (Heiman, 2002)
 
 Examples include:
 - The order of questions on a survey
+- In an experiment concerning the affect of alcohol on driving performance, it is important to give the participants alcohol after the sober test but before the second test.
 
 ### Placebo
 ##### See also placebo effect
@@ -81,6 +89,16 @@ The placebo effect refers to a change in results due to a participants belief th
 An example of the placebo effect is in an experiment where people are given a sugar pill (which is completely inactive) and told that it is a powerful study-aid tablet, they will often report feeling more alert and focussed, even thought the tablet did nothing.
 
 It is important that for in the example above that both groups are given a tablet that looks legitimate so that both groups experience an placebo effect, and therefore it cannot be a confounding variable.
+
+
+### Practice effects
+##### See also order effect
+
+The influence on performance that occurs by a participant having previously completed a task
+
+Examples include:
+- Playing a video game level under two conditions without taking a break
+- Solving a sudoku under two conditions without taking a break
 
 ### Self-fulfilling prophecy
 ##### See also experimenter effect
