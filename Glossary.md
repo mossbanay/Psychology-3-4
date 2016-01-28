@@ -1,6 +1,12 @@
 ### Confounding variables
 ##### See also extraneous variables
 
+When an experimenter cannot differentiate between the effects of different factors when establishing a cause for a change in the DV.
+
+Examples include:
+- In an experiment looking at the difficulty of two video game levels, participants are asked to play both levels taking a short break between. However when playing level 1, the participants sat only 3m away from the tv, while when playing level they sat 6m away from the tv. The mean score for level 1 was higher than the mean score for level 2. However, the distance that the participants sat from the tv is a confounding variable, and the experimenters have no way of telling to what degree sitting further away from the tv made.
+- If a repeated measures experimental design has been used but proper counterbalancing wasn't used.
+
 ### Experimenter bias
 ##### See also experimenter effect
 
@@ -17,6 +23,7 @@ The experimenter effect refers to the possiblility of actions, biases or expecta
 
 Notable studies:
 - Lenore Jacobson (1968)
+- Clever Hans: the intelligent horse
 
 ### Experimenter expectancy
 ##### See also experimenter effect
@@ -26,10 +33,15 @@ Certain cues or hints made by an experimenter towards a participant that could l
 Examples include:
 - Particular facial expressions made towards one group but not another
 - Giggling or particular interest for one group
-- Any difference in behaviour made by the experimenter between the two groups
+- Any difference in behaviour made by the experimenter between a control and experimental group
 
 ### Extraneous variables
 ##### See also confounding variables
+
+A variable that relates to the IV or the DV and may have an effect on them.
+
+Examples include:
+- Individual participant differences
 
 ### Individual participant differences
 ##### See also confounding variables, extraneous variables
@@ -46,6 +58,15 @@ Examples include:
 - Ethnicity
 - Mood
 - Physical health
+
+### Order effect
+##### See also confounding variables
+
+The order effect occurs when the chronological order of events has some sort of effect on the DV.
+"An order effect is an influence on a particular trial that arises from its position in a sequence of trials" (Heiman, 2002)
+
+Examples include:
+- The order of questions on a survey
 
 ### Placebo
 ##### See also placebo effect

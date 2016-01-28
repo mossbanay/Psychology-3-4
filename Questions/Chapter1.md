@@ -75,11 +75,11 @@ The researcher measured a baseline to be able to differentiate between any preex
 # Learning Activity 1.5
 
 ### Define the meaning of the terms extraneous variable and confounding variable.
-- *extraneous variable*: Any varible other than the IV that _can_ cause a change in the DV.
+- *extraneous variable*: Any varible outside the scope of the experiment that has an affect on the IV or the DV.
 - *confounding variable*: Any variable other than the IV that _has_ an unwanted affect on the DV, making it impossible to determine which of the variables has produced the change in the DV.
 
 ### In what key way are extraneous and confounding variables similar and different?
-They both are unwanted in experiments, but only confounding variables affect the experiments results
+Extraneous and confounding variables both variables outside the scope of the experiment that potentially affect either the IV or DV in an experiment. Confounding variables are extraneous variables that _have_ caused a change in the DV.
 
 ### Give two reasons to explain why it is essential to control extraneous and potentially confounding variables in research.
 If these variables aren't controlled for they may render the experiment and its reseults invalid and therefore unusable. They also can lead to inaccurate conclusions in research.
@@ -111,27 +111,40 @@ An experiment was conducted to test whether people make fewer errors in detectin
 
 #### What is a placebo in relation to experimental research?
 A placebo is the the effect of a participant believing that something should happen
+
 #### Define the term placebo effect with reference to an example not used in the text.
 The placebo effect is the effect of someone believing that an event will occur, and therefore they will believe that it has occured
+
 #### Explain why the placebo effect is a potential confounding variable.
 In instances where the placebo effect has a noticeable and measureable effect on the DV, it may lessen the apparent effect of manipulating the IV. (i.e you are setting an inaccurate baseline)
 
 ---
 
 #### Define the meaning of the term experimenter effect.
-*Experimenter effect*: defn
+*Experimenter effect*: The experimenter effect refers to the possiblility of actions, biases or expectations made by an experimenter causing a change in a participants response. This is a potentially confounding variable if not controlled for.
 
-#### What is experimenter expectancy and how can it produce
-- a self-fufilling prophecy?
-- experimenter bias?
+---
+
+#### What is experimenter expectancy
+Experimenter expectancy is the bias made by an experimenter when conducting an experiment. It may involve misreading data or misintrepreting reactions/results so that their expectations remina true.
+
+##### How can experimenter expectancy produce ...
+###### a self-fulfilling prophecy?
+An experimenter may hint a participant towards looking at something more closely or by giving them more attention over others. This may lead to them doing what the experimenter 'wanted' to see, creating a self-fulfilling prophecy.
+
+###### experimenter bias?
+
 
 #### Explain why experimenter effects are potential confounding variables.
-explan
+If not properly controlled for by using a double-blind procedure, it is impossible to determine the degree to which the experimenter effects changed the DV. Therefore it is impossible to reliably measure any change that the IV has made on the DV.
 
 ---
 
 #### Suggest a way of controlling or minising the influence of a placebo effect
+Use a double-blind procedure
+
 #### Suggest a way of controlling or minising the influence of an experimenter effect
+Use a double-blind procedure
 
 
 # Learning Activity 1.8
@@ -141,27 +154,3 @@ explan
 # Learning Activity 1.15
 # Learning Activity 1.16
 # Learning Activity 1.26
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
