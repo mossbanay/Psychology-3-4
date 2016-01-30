@@ -175,7 +175,70 @@ During an experiment it is important that participants all complete tasks under 
 As non-standardised instructions and procedures can have a measureable influence on the DV, they become confounding variables if introduced into a study.
 
 # Learning Activity 1.10 q1-5a
+
+#### What are random sampling, stratified sampling and random-stratified sampling?
+- *random sampling*: Random sampling is selecting a sample of a set size at random from a population without any consideration for the characteristics of the sample
+- *stratified sampling*: Stratified sampling involves breaking down a population into groups sharing a particular characteristic called strata. Participants are then sampled from each of the strata.
+- *random-stratified sampling*: Similar to stratified sampling, although the selection from each strata is random
+
+#### In what way is a random sample and a stratified sample alike? In what way are they different?
+A random sample and a stratified sample both contain the same sample size, however a stratified sample shares the same proportion of each strata as the total population.
+
+---
+
+Suppose that you are required to determine the sleep patterns (e.g. the amount of sleep of student at your school or college)
+
+##### Briefly describe a convenience sampling, random sampling and random-stratified sampling procedure for selecting research participants.
+- Convenience sampling - Put a poster up and accept participants who express interest
+- Random sampling - Put a poster up and record participants who express interest for a particular period. After applications have closed, randomly select a number of participants.
+- Stratified-random sampling - Put a poster up and record participants who express interest for a particular period. After applications have closed, group participants into strata (perhaps by age or year level) and then randomly select participants in the same proportions as the school or college.
+
+##### Explain which of the three sampling procedures would result in the more representative sample
+Stratified-random sampling is the most representative procedure to use as it constructs a sample in the same proportions as the testable population.
+
+##### Are any of the three procedures unnecessary for this particular research? Briefly explain your answer.
+The stratification of the population may not be needed for this research as there are no groups that require controlling for.
+
+---
+
+The rating of a TV show is determined by the size of the audience who watches it. The rating is based on data from an electronic recording device attached to a TV set in a viewer's home. The device automatically records which TV show is being watched and for how long. Viewers also indicate who in the household is watching. Suppose you are responsible for determing the TV ratings of the viewing audiene in Melbourne for a one-week period.
+
+##### Briefly describe the sampling procedure you could use to select the participants who will receive a recording device
+Break the testable population down into groups of strata, based on their age-group. Then, randomly select a sample from each strata in the same proportions as previous market research.
+
+##### Explain how your procedure would ensure a representative sample of the viewing population
+By making use of previous market research, the interest by age-group in the TV show is already known. This allows us to construct the most representative sample by choosing our sample for the research in the same proportions
+
+---
+
+#### Explain why each of the following research studies is likely to haev a sample bias:
+##### A survey on binge-drinking behaviour in a popular teenager's magazine
+Since the audience of a popular teenager's magazine aren't likely to be the same group that engage in binge-drinking, the result from the study will be an biased and underestimate the amount of individuals engaging in binge-drinking
+
+##### A television or radio call-in survey
+Those who call-in obviously show some interest in the topic and therefore my themselves be biased when compared to a population
+
+##### A telephone survey at 6pm on weeknights using landlines to people's homes
+This would underrepresent people who may not be home at 6pm on a weeknight and those who don't pick up or own a landline phone.
+
 # Learning Activity 1.12
+
+#### What is the main difference between participant selection and participant allocation?
+
+Participant selection is the process of selecting a partcipant to be part of the study, while participant allocation decides the experimental group they will be in.
+
+#### What is random allocation and why is it used in an experiment?
+
+Random allocation is the process of randomly assigning participants in the sample to an experimental group. It is used to minimise bias from either group.
+
+#### How are random allocation and random sampling different?
+
+Random allocation is the process of randomly allocating participants in the sample to an experimental group. Random sampling is the process of randomly selecting participants from a population to be in the sample
+
+#### What is an experimental group? A control group?
+- *experimental group*: The experimental group is the group in which the IV is manipulated to test the hypothesis in the experiment
+- *control group*: The control group is the group in which the IV is not changed and serves to give a baseline response which is needed in order to measure the change manipulating the IV makes
+
 # Learning Activity 1.14
 # Learning Activity 1.15
 # Learning Activity 1.16
