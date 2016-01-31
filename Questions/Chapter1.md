@@ -243,3 +243,27 @@ Random allocation is the process of randomly allocating participants in the samp
 # Learning Activity 1.15
 # Learning Activity 1.16
 # Learning Activity 1.26
+
+#### Consider the following fictitious examples of research studies and identify any ethical issues
+
+###### A psychology lecturer at a university was studying techniques for reducing fear of spiders. He asked a research assistant to telephone students in the first-year psychology course he was teaching to determine their willingness to participate. The research was unaware that the asssistant told participants they had to participate.
+
+Although it was not the intention of the lecturer, the ethical principle of voluntary participation was breached. The students were not given an option to not participate and were told they have to. It can be reasonably assumed that they would not be allowed to withdraw from the experiment either, this is another ethical violation.
+
+---
+
+###### A researcher was interested in factors influencing cheating. She gave participants an exam, then collected and photocopied their answers. The participants were not informated about the photocopying. The answers were returned unmarked and the participants were given the opportunity to cheat while marking their own papers. The answers were collected again and compared with the photocopies.
+
+There is a reasonable use of deception in this experiment, as the knowledge that their papers would be photocopied before marking would influence the decisions of the participants. However the use of deception should be properly described when debriefing the participants following the experiment, the reasons for the use of deception should be described.
+
+---
+
+###### An experiment was conducted to assess driver reaction to a stressful situation. Each participant was asked to drive a car past a construction site. The researcher rigged a human-looking dummy in such a way that it would be propelled in front of the car, making it impossible for the participant to avoid hitting it. The participants reacted as expected. When they learned the situation was faked, they informed the researcher of their displeasure. Despite their complaints, the researcher continued testing further participants (adapted from Wood, 1981).
+
+In this experiment participants are obviously affected by the thought of having a human propelled into their car and likely killed in the process. The researcher has a responsiblity to ensure that there is no permanent harm that arises to any participant from a result of taking part in the experiment. The researcher is therefore violating the no-harm principle, and continuing to run the experiment with more participants with the knowledge that it causes harm to them, is a violation of ethical guidelines. The researcher should additionally supply counselling services to those who have already been harmed in the experiment.
+
+---
+
+###### A VCE Psychology student was required to undertake a research investigation to satisfy the course requirements. The student researcher replicated an experiment on learning that involved classical conditioning of an eye-blink response using two preschool children and two adults as participants. The student researcher thought that the adult participants' knowledge of the conditioning procedure would affect the results in an unwanted way and decided not to seek their informed consent. The student researcher also based their decision on the belief that the condition procedure was physiologically and psychologically harmless. The student researcher did, however obtain informed written consent form both parents of each child.
+
+If the student can be sure that no harm arises from the use of deception in the experiment and the adults are both properly debriefed on the reasons and details of the use of deception then no ethical guidelines were violated.
