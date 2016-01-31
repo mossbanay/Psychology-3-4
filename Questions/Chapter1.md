@@ -247,6 +247,7 @@ Counter balancing is used on experiments with a repeated measures design and att
 For example the process for an experiment may go something like this.
 
 Group 1 --> Treatment A --> Treatment B --> Post test
+
 Group 2 --> Treatment B --> Treatment A --> Post test
 
 ---
