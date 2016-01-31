@@ -240,7 +240,81 @@ Random allocation is the process of randomly allocating participants in the samp
 - *control group*: The control group is the group in which the IV is not changed and serves to give a baseline response which is needed in order to measure the change manipulating the IV makes
 
 # Learning Activity 1.14
+
+#### Explain what the counterbalancing procedure is and what it attempts to control
+Counter balancing is used on experiments with a repeated measures design and attempts to control for order effects. It does this by splitting the sample into two groups, and exposing each group to both treatments in different orders.
+
+For example the process for an experiment may go something like this.
+
+Group 1 --> Treatment A --> Treatment B --> Post test
+Group 2 --> Treatment B --> Treatment A --> Post test
+
+---
+
+#### A researcher believes that the gender of participants is a pontential confounding variable. Explain how counterbalancing could be used to control this variable.
+
+#### The researcher will use a number of research assistants to conduct the student and also believes that their gender is a potential confounding variable. Explain how counterbalancing could be used to control this variable.
+
+---
+
+#### Suggest a randomisation or random allocation procedure that could be used to counterbalance order effects in an experiment.
+
+For each participant in the sample, flip a coin. If the coin lands on heads, the participant joins group 1. If the coin lands on tails, the participant joins group 2. Group 1 will be exposed to treatment A first, then treatment B. Group 2 will be exposed to treatment B first, then treatment A.
+
+---
+
+#### In what way is the single-blind procedure similar and different to the double-blind procedure?
+
+A similarity between the single-blind and double-blind procedures is that they will minimise the biases made by either the participants or the experimenters. Although in a double-blind procedure the biases for both participants and experimenters are controlled for.
+
+#### Which of the two procedures is more advantageous and why?
+
+The double blind procedure is more advantageous as it also minimises biases made by both the experimenters (experimenter effects for example) and the participants (confirmation bias).
+
+---
+
+#### What is a placebo?
+
+A placebo is an inert or nullled treatment given to a participant that is designed to be indistinguishable from a real treatment.
+
+#### Explain how a placebo can be used to control or minimise the influence of expectations or beliefs associated with the specific treatment received by participants in experimental and control groups.
+
+Since the groups cannot distinguish between the experimental exposure and the control exposure any influence the placebo would of made will cancel out as it would apply to both groups.
+
+---
+
+#### What are standardised instructions and procedures? Explain with reference to relevant examples.
+
+Standardised instructions and procedures are instructions and procedures that are the same for all participants in a study. For example, experimenters may be given a script to ensure they say the exact same thing to all participants. There also may be a set of conditions that the experiment is undertaken, for example in a experiment studying concentration, all the experiments should be taken indoors in a quiet area.
+
+#### Explain how standardised instructions and procedures can be used to control or minimise the influence of participant variables and experimenter effects
+
+Using standardisted instructions and procedures minimises any influence that phrasing or experimental conditions (like time of day or ambient noise) may have on the results of an experiment. Giving an experimenter a script reduces the possiblity of them changing how they explain the experiment for the experimental group.
+
 # Learning Activity 1.15
+
+Mardi conducts an experiment to find out if colour preference can be influenced by associating a colour with a pleasant experience such as eating. She delivers a supply of red, orange, yellow, green and blue feeding bottles to some mothers of newborn infants and the regular transparent feeding bottles to the mothers of other newborn infants in the sample. The mother have consented to let their infants be participants in Mardi's experiment.
+
+#### What is the IV in Mardi's experiment?
+The IV was whether or not a coloured bottle was given to the newborn infant
+
+#### How many experimental groups does Mardi have in her experiment?
+Mardi has 5 experimental groups, one for each bottle colour
+
+#### Which participants make up the control group?
+The control group is made up of the newborn infants given transparent bottles
+
+#### What is the DV?
+The newborn infants colour preference
+
+#### How could Mardi randomly allocate the participants to different groups?
+Mardi could use a computer program to randomly allocate each participant in the sample to a group. Alternatively, Mardi could roll a dice for each participant and allocate them based on the number rolled.
+
+#### Identify two extraneous or potential confounding variables that should be controlled and explain why
+Gender could be a potential confounding variable as some research shows that different genders may have preferences to different colours.
+
+The type of food given to each baby could be an extraneous variable. Some babies may prefer other foods, and if given a food they don't like associate the colour of their bottle with a negative experience.
+
 # Learning Activity 1.16
 # Learning Activity 1.26
 
