@@ -317,6 +317,13 @@ Gender could be a potential confounding variable as some research shows that dif
 The type of food given to each baby could be an extraneous variable. Some babies may prefer other foods, and if given a food they don't like associate the colour of their bottle with a negative experience.
 
 # Learning Activity 1.16
+
+| Experimental design  | Feature                                                                                                              | Strengths                                                                         | Limitations                        |
+|----------------------|----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|------------------------------------|
+| Repeated-measures    | Each participant is involved in both the experimental and control groups; that is, all conditions of the experiment. | aefihaefio                                                                        | aeiohfoiaehfioaehfoiahefhioaef     |
+| Matched-participants | blah                                                                                                                 | aeoihf aeiof oaeh hi                                                              | something interesting goes in here |
+| Independent-groups   | oaefhoiaehf                                                                                                          | aeoifeaf aef ihoaef aef ae  aeo fohoaef ioh aefhoioiheaf iefi oefha ifeao o eaf o | blaeh aeofuh                       |
+
 # Learning Activity 1.26
 
 #### Consider the following fictitious examples of research studies and identify any ethical issues
