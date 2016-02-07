@@ -324,6 +324,48 @@ The type of food given to each baby could be an extraneous variable. Some babies
 | Matched-participants | Pairs of participants are matched on the basis of an important characteristic(s) that can influence the DV. One member of each pair is then randomly allocated to either the experimental or control group to ensure the groups are equivalent. | Controls well for individual participant differences | More expensive and time-consuming to organise as it requires more work to be able to establish the characteristic(s) of each participant |
 | Independent-groups   | Each participant is randomly allocated to either the experimental or control group and is in one group only.                                                                                                                                    | Very easy to organise, cheap                         | Generally only an option with a larger samples                                                                                           |
 
+---
+
+#### For each of the following extraneous or potential confounding variables, rank the three experimental designed from 1 to 3 to indicate the extent to which the design controls the variables, as compared to the other designs. A ranking of 1 indicates greatest control. If appropriate, more than one design may be given the same ranking. Explain your choice of rankings.
+
+##### Individual participant differences
+1. *Matched-participants*. Matched-participants is the best experimental design as you can pair participants based on characteristics that may affect the DV.
+2. *Repeated-measures* and *Individual-groups*. Neither of these designs provide much control for individual participant differences.
+
+##### Placebo effect
+1. *Individual-groups*. An individual groups experimental design means that participants will only be exposed to either the control or experimental condition. This allows for any influence made by the placebo effect to be influence both groups, effectively controlling it.
+2. *Matched-participants*. In matched-participants, participants also are only exposed to one condition, although it is more difficult to organise than an individual-groups design.
+3. *Repeated-measures*. In a repeated-measures design, participants are exposed to both conditions, and the placebo effect is more difficult to control for even with counterbalancing to negate any order effects.
+
+##### Order effects
+1. *Matched-participants* and *Individual-groups*. In both of these designs, there are no order effects present as groups experience different conditions seperately.
+2. *Repeated-measures*. In repeated-measures, since participants are exposed to both experimental conditions, there may be lingering effects from a previous exposure that influence a later condtion. Examples of this include carry-over and practice effects.
+
+##### Experimenter effects
+1. *Individual-groups* or *Matched-participants*. This allows the researchers to use a single or double blind procedure. Although if not using blind procedures, the experiment is still open the possiblity of experimenter effects.
+2. *Repeated-measures*. Using a repeated measures design could potentially allow the researcher to become more excited on one of the trials.
+
+---
+
+A researcher wants to investigate the effects on agressive behaviour of observing violence on teleivison. The researcher is specifically interested in the effects on young children who watch violent scenes in cartoons during after-school viewing hours.
+
+#### Identify the IV(s) and DV.
+- *IV*: Whether a child watches violent cartoons in after-school hours
+- *DV*: The level of agressive behaviour a child has
+
+#### Briefly descirbe an appropriate participant selection procedure and explain why the researcher should use this procedure
+The researcher should use stratified random sampling, to control for extraneous variables like socio-economic background. If stratification was not used then the experiment may accidently use a biased sample, which would lead to inaccurate conclusions for the population.
+
+#### Briefly describe an appropriate participant allocation procedure and explain why the researcher should us this procedure.
+
+Random allocation should be used, so that each participant has equal chance of being in either the experimental or control group.
+
+#### Identify three participant characteristics that would need to be controlled and explain your choices.
+
+- Age, older children may be more affected by puberty or other factors
+- Socio-economic background, children from poorer areas may be more violent than children from wealthier areas
+- Gender, boys may be more violent than girls
+
 # Learning Activity 1.26
 
 #### Consider the following fictitious examples of research studies and identify any ethical issues
