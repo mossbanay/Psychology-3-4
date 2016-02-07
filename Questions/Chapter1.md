@@ -141,11 +141,10 @@ If not properly controlled for by using a double-blind procedure, it is impossib
 ---
 
 #### Suggest a way of controlling or minising the influence of a placebo effect
-Use a double-blind procedure
+The researchers could use a single blind procedure in which the participants of an experiment cannot determine whether they are in the control group or the experimental group. Due to this, any effect made by the belief of a participant will be applied to both groups.
 
 #### Suggest a way of controlling or minising the influence of an experimenter effect
-Use a double-blind procedure
-
+Employing the use of double-blind procedures means that neither participants or the researchers know who is in what group, this eliminates any influence caused by the experimenter effect.
 
 # Learning Activity 1.8
 
