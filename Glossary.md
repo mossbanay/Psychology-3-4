@@ -9,7 +9,9 @@ Examples include:
 ### Confounding variables
 ##### See also extraneous variables
 
-When an experimenter cannot differentiate between the effects of different factors when establishing a cause for a change in the DV.
+A confounding variable refers to any variable other than the IV that has an unwanted effect on the DV, *making it impossible to determine what has caused the DV.*
+
+A confounding variable is different to an EV as it has a systematic/measureable effect.
 
 Examples include:
 - In an experiment looking at the difficulty of two video game levels, participants are asked to play both levels taking a short break between. However when playing level 1, the participants sat only 3m away from the tv, while when playing level they sat 6m away from the tv. The mean score for level 1 was higher than the mean score for level 2. However, the distance that the participants sat from the tv is a confounding variable, and the experimenters have no way of telling to what degree sitting further away from the tv made.
@@ -33,6 +35,9 @@ Notable studies:
 - Lenore Jacobson (1968)
 - Clever Hans: the intelligent horse
 
+Examples include:
+- When marking an multiple choice test, the researcher may be more leniently when marking one group vs another
+
 ### Experimenter expectancy
 ##### See also experimenter effect
 
@@ -47,6 +52,7 @@ Examples include:
 ##### See also confounding variables
 
 A variable that relates to the IV or the DV and may have an effect on them.
+
 
 Examples include:
 - Individual participant differences
