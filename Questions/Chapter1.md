@@ -328,8 +328,9 @@ The type of food given to each baby could be an extraneous variable. Some babies
 #### For each of the following extraneous or potential confounding variables, rank the three experimental designed from 1 to 3 to indicate the extent to which the design controls the variables, as compared to the other designs. A ranking of 1 indicates greatest control. If appropriate, more than one design may be given the same ranking. Explain your choice of rankings.
 
 ##### Individual participant differences
-1. *Matched-participants*. Matched-participants is the best experimental design as you can pair participants based on characteristics that may affect the DV.
-2. *Repeated-measures* and *Individual-groups*. Neither of these designs provide much control for individual participant differences.
+1. *Repeated-measures*. Since the participants used in the experiment are the same for all trials, individual participant differences are mitigated.
+2. *Matched-participants*. In a matched-participants design you are able to pair participants based on characteristics that may affect the DV.
+3. *Individual-groups*. Neither of these designs provide much control for individual participant differences.
 
 ##### Placebo effect
 1. *Individual-groups*. An individual groups experimental design means that participants will only be exposed to either the control or experimental condition. This allows for any influence made by the placebo effect to be influence both groups, effectively controlling it.
