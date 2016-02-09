@@ -365,6 +365,26 @@ Random allocation should be used, so that each participant has equal chance of b
 - Socio-economic background, children from poorer areas may be more violent than children from wealthier areas
 - Gender, boys may be more violent than girls
 
+# Learning Activity 1.17
+
+##### Experiment 1: Independent groups
+##### Experiment 2: Independent groups
+##### Experiment 3: Repeated-measures
+
+# Learning Activity 1.19
+
+#### Define and distinguish between qualitative data and quantative data with reference to an example that's not used in the text.
+
+Quantitative data refers to quantities or measureable amounts of what is being studied (e.g reaction time), whereas qualitative data refers to informations about particular characteristics or qualities (e.g someones opinion on a topic).
+
+#### Identify whether the data collected in each of the following research studies are likely to be qualitative or quantative. Explain your answers.
+
+##### A researcher compares the detail in paintings by people with a phobia and people with paranoid schizophrenia.
+This experiment is likely to collect qualitative data as there isn't a way to quantify the detail in a painting.
+
+##### A researcher compares the differences in visual perceptual abilities of kittens with and without damage to the visual cortex in the brain.
+This experiment is likely to collect quantitative data about speed of recognition and whether they passed a certain test.
+
 # Learning Activity 1.26
 
 #### Consider the following fictitious examples of research studies and identify any ethical issues
