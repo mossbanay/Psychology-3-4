@@ -253,6 +253,8 @@ Group 2 --> Treatment B --> Treatment A --> Post test
 
 #### A researcher believes that the gender of participants is a pontential confounding variable. Explain how counterbalancing could be used to control this variable.
 
+A researcher could split the two groups to have equal ratio of boys to girls, and then order each of the groups so that the first group completes the control condition followed by the experimental condition, and vice versa for the other group.
+
 #### The researcher will use a number of research assistants to conduct the student and also believes that their gender is a potential confounding variable. Explain how counterbalancing could be used to control this variable.
 
 ---
