@@ -1,12 +1,12 @@
 # Learning Activity 1.1
 
 ### What are two features that best distinguish an experiment from other research methods?
-Experiments involve the manipulation of two seperate variables and make the best attempt to isolate any other possiblities that might change a measured outcome.
+Experiments involve the manipulation of two seperate variables in order to test a cause-effect relationship, while making the best attempt to isolate any other variables that might influence a measured outcome.
 
 ### Write a definition of each of the following terms as they apply to an experiment:
 - *variable*: Any factor that can change or vary in amount or type over time.
-- *independent variable*: The variable that is systematically manipulated for the purposes of the experiment in order to gauge a change in the dependent variable.
-- *dependent variable*: The variable that is measured and shows any effects of the independent variable.
+- *independent variable*: A variable that is systematically manipulated for the purposes of the experiment in order to gauge a change in the dependent variable.
+- *dependent variable*: A variable that is measured and expected to change as a result of the manipulation of an IV.
 
 ### What do researchers expect to happen to DVs when they manipulate IVs?
 Researchers expect a hypothesis or prediction to hold, i.e they expect some sort of change that they have predicted to occur
@@ -75,14 +75,14 @@ The researcher measured a baseline to be able to differentiate between any preex
 # Learning Activity 1.5
 
 ### Define the meaning of the terms extraneous variable and confounding variable.
-- *extraneous variable*: Any varible outside the scope of the experiment that has an affect on the IV or the DV.
-- *confounding variable*: Any variable other than the IV that _has_ an unwanted affect on the DV, making it impossible to determine which of the variables has produced the change in the DV.
+- *extraneous variable*: Any varible other than the IV that has an unwanted effect on the DV.
+- *confounding variable*: Any varible other than the IV that has an unwanted effect on the DV, making it impossible to determine which of the variables caused a change in the DV.
 
 ### In what key way are extraneous and confounding variables similar and different?
-Extraneous and confounding variables both variables outside the scope of the experiment that potentially affect either the IV or DV in an experiment. Confounding variables are extraneous variables that _have_ caused a change in the DV.
+Both extraneous and confounding variables can cause unwanted effect on the DV, although with extraneous variables you may still be able to determine the effect that the IV while with confounding variables the difference is indistinguishable.
 
 ### Give two reasons to explain why it is essential to control extraneous and potentially confounding variables in research.
-If these variables aren't controlled for they may render the experiment and its reseults invalid and therefore unusable. They also can lead to inaccurate conclusions in research.
+If these variables aren't controlled for it becomes difficult to isolate the effects of the IV, and may render the experiment and its results invalid.
 
 ---
 
@@ -95,17 +95,18 @@ A researcher is planning an experiment to investigate the rate of forgetting (ho
 #### Identify two extraneous or potential confounding variables that could affect the DV (in addition to the IV) and therefore need to be controlled
 A possible confounding variable would be that some individuals have a better memory than others and would therefore be able to remember more words. A possible extraneous variable would be that the made up words sound or look similar to english words.
 
-#### Suggest a way that each variable reffered to in part (b) could be controlled
-Use a suitable sampling method to ensure both the control and experimental group are equally balanced in terms of baseline memory. Ensure that all the nonsense words given to the experimental group are the same.
+#### Suggest a way that each variable refered to in part (b) could be controlled
+Use random stratified sampling to ensure both the control and experimental group are equally balanced in terms of baseline memory. Ensure that all the nonsense words given to the both groups are the same.
 
 ---
 
-An experiment was conducted to test whether people make fewer errors in detecting spelling errors in an interesting text than in a boring one. Two groups of randomly selected and allocated participants were used. Group 1 looked for errors in a physics text on string theory (a boring task) and Group 2 looked for errors in the script of a Twilight move (an interesting task). The results showed that Group 1 detected significantly fewer spelling errors than did Group 2.
+An experiment was conducted to test whether people make fewer errors in detecting spelling errors in an interesting text than in a boring one. Two groups of randomly selected and allocated participants were used. Group 1 looked for errors in a physics text on string theory (a boring task) and Group 2 looked for errors in the script of a Twilight movie (an interesting task). The results showed that Group 1 detected significantly fewer spelling errors than did Group 2.
 
 #### Identity the IV, DV and a potential confounding variable in the experiment.
-- *IV*: Whether the participant was given an interesting or boring text to check for spelling errors
+- *IV*: Whether the participant was given an interesting or boring text to check for spelling errors (task interest)
 - *DV*: The number of spelling errors found by the participant
 - *Confounding variable*: What one person finds interesting another people may find boring. For example in this exact choice of books (string theory and Twilight), if a physics professor participated in the experiment, the choice of books would be inappropriate as the professor would find the string theory book interesting and the Twilight book boring.
+- *Confounding variable*: With a book that is more niche or difficult to read, it may be more difficult to spot spelling mistakes. In this case, task difficulty would have been confounded with task interest.
 
 # Learning Activity 1.7
 
@@ -113,15 +114,15 @@ An experiment was conducted to test whether people make fewer errors in detectin
 A placebo is the the effect of a participant believing that something should happen
 
 #### Define the term placebo effect with reference to an example not used in the text.
-The placebo effect is the effect of someone believing that an event will occur, and therefore they will believe that it has occured
+The placebo effect is the change in a participants response due to a belief that a treatment will affect their behaviour.
 
 #### Explain why the placebo effect is a potential confounding variable.
-In instances where the placebo effect has a noticeable and measureable effect on the DV, it may lessen the apparent effect of manipulating the IV. (i.e you are setting an inaccurate baseline)
+Since the placebo effect and the IV both have a measureable effect on the DV and it is impossible to distinguish between the two, the placebo effect confounds the IV.
 
 ---
 
 #### Define the meaning of the term experimenter effect.
-*Experimenter effect*: The experimenter effect refers to the possiblility of actions, biases or expectations made by an experimenter causing a change in a participants response. This is a potentially confounding variable if not controlled for.
+*Experimenter effect*: The experimenter effect refers to a change in the participants response due to actions, biases or expectations made by an experimenter.
 
 ---
 
@@ -133,6 +134,7 @@ Experimenter expectancy is the bias made by an experimenter when conducting an e
 An experimenter may hint a participant towards looking at something more closely or by giving them more attention over others. This may lead to them doing what the experimenter 'wanted' to see, creating a self-fulfilling prophecy.
 
 ##### experimenter bias?
+Expectations made by the experimenter can lead to unintentional biases being made on when processing and analysing data.
 
 
 #### Explain why experimenter effects are potential confounding variables.
@@ -210,7 +212,7 @@ By making use of previous market research, the interest by age-group in the TV s
 
 ---
 
-#### Explain why each of the following research studies is likely to haev a sample bias:
+#### Explain why each of the following research studies is likely to have a sample bias:
 ##### A survey on binge-drinking behaviour in a popular teenager's magazine
 Since the audience of a popular teenager's magazine aren't likely to be the same group that engage in binge-drinking, the result from the study will be an biased and underestimate the amount of individuals engaging in binge-drinking
 
