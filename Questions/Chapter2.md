@@ -16,3 +16,37 @@ In a psychological sense, you may see changes in judgement, cognitive abilities.
 
 ### Could we experience two different states of consciousness simultaneously?
 No?
+
+# Learning activity 2.5
+
+### Define the meaning of normal waking consciousness.
+
+Normal waking consciousness is when you are alert and aware of your feelings, thoughts and perceptions
+
+### In what ways is the content of consciousness more limited in normal waking consciousness than in an alterted state of consciousness?
+
+Often in an alterted state of consciousness your attention will be divided among multiple stimuli and you will be unable to concerntrate or complete tasks that require a large amount of cognitive effort.
+
+### Distinguish between selective and divided attention with reference to an example not used in the text.
+
+An example of selective attention (where you are only attentive to one stimuli) could be a watch-maker carefully laying down a minute hand into the watch casing, whereas divided attention (attention given to multiple stimuli) could be singing while you clean your room.
+
+---
+
+#### Explain the meaning of controlled and automatic processes in realtion to consciousness, with reference to to examples not used in the text.
+
+Controlled processes are those in which selective attention and a large amount of cognitive effort is required such as balancing on a tightrope. Automatic processes require little cognitive effort and are often completed with divided attention such as talking.
+
+#### Describe two differences between controlled and automatic processes in normal waking consciousness
+
+In controlled processes, your attention will be solely focussed on one stimuli whereas with automatic processes your attention may be split up to more stimuli.
+
+#### According to controlled and automatic processing theory, what level of attention and what type of awareness are required to learn a new task?
+
+Selection attention with normal waking consciousness
+
+---
+
+### When the Stroop task is given to young children who have master their colours, but have not mastered their reading, the Stroop effect is not observed. Exaplin why this occurs with reference to controlled and automatic processing.
+
+Since the children have no semantic meaning for the words, their brains to not require any extra time to process the colour, i.e their attention is selective and not divided.
