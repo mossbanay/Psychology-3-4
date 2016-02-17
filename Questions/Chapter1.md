@@ -439,6 +439,70 @@ During non-participant observation, the participant is unknowningly observed by 
 | Does not require cooperation from participants | Potentially unethical, often due to informed consent |
 | Allows for collection of typical behaviour | Subject to observer bias |
 
+# Learning Activity 1.22
+
+#### What are self-reports?
+Self-reports are the written or spoken responses from a participant to questions or statements given by a researcher
+
+#### What type of data can be collected through self-reports?
+Both quantitative and qualitative data can be collected. Quantitative data my be collected by a fixed-response questions, while qualitative data may be collected by free-response questions.
+
+#### Distinguish between free-response and fixed-response questions with reference to an advantage and a limitation of each question type.
+Fixed-response questions ask participants to choose their answer from a selection of options, whereas free-resposne questions allow an open ended reply from the participant. Free-response questions provide qualitative data but can sometimes be irrelevant to the study. Fixed-response questions are quantifiable but limit the scope of the response.
+
+#### Describe two advantages and two limitations of self-reports
+
+| Advantages | Disadvantages |
+| --- | --- |
+| Useful when using a very large group of participants | They rely on the assumption that participants give honest responses (subject to social desirability bias) |
+| Efficient and cheap | Subject to bad recall on behalf of the participant |
+| Can provide either qualitative or quantitative data | Participants may give misleading answers |
+
+# Learning Activity 1.23
+
+#### A researcher conducts an experiment and obtains statistically significant results. What does the term statistically significant mean?
+When results are statistically significant it is said that the change in response is likely to be due to the manipulation of the IV and not due to random chance.
+
+#### Explain the meaning of the term p-value, with reference to an example.
+The p-value represents the chance that the difference between the control group and the experimental group was due to random chance alone.
+
+#### Write the meaning of the following p-values as they apply to the findings of an experiment: p ≤ 0.001, p ≤ 0.01, p ≤ 0.10
+- p ≤ 0.001 means that the chance that the difference between the groups was not due to the IV must be less than or equal to 1 in 1000
+- p ≤ 0.01 means that the chance that the difference between the groups was not due to the IV must be less than or equal to 1 in 100
+- p ≤ 0.10 means that the chance that the difference between the groups was not due to the IV must be less than or equal to 1 in 10
+
+p ≤ 0.001 is the most significant (as it allows the smallest probablitity of error) while  p ≤ 0.10 is the least significant (as it allows the largest probablitity of error)
+
+#### Suppose you conducted a study and obtained results with a p-value that is not p ≤ 0.05. What would you conclude about the results?
+If the p-value obtained from the results is above the alpha level, the results are deemed not statistically significant and the hypothesis is neither supported nor rejected.
+
+# Learning Activity 1.24
+
+#### What kind of judgement is made about the hypothesis for a study after the results have been obtained and analysed?
+The hypothesis will be either accepted or rejected
+
+---
+
+##### What is the meaning of the term conclusion?
+A judgement drawn from the results of an experiment
+
+##### What must confounding and extraneous variables be considered when drawing a conclusion from results obtained in a study?
+Since they can explain possible faults or holes in the methodology, they must be considered. They can also explain any problems with sampling or representation.
+
+---
+
+##### What is the meaning of the term generalisation?
+A judgement of how valid it is to relate the results of the experiment back to the population of the experiment.
+
+##### What are important considerations in making generalisations from the findings of a study?
+The results must be statistically significant, the direction must match the hypothesis and the sample must be representative of the population. Extraneous variables must be controlled for.
+
+---
+
+#### Distinguish between the terms conclusion and generalisation as they apply in research studies.
+A conclusion relates to the specific results of a study, whereas a generalisation relates to the application of the results to the population from which the sample was drawn.
+
+
 # Learning Activity 1.26
 
 #### Consider the following fictitious examples of research studies and identify any ethical issues
