@@ -390,6 +390,55 @@ This experiment is likely to collect qualitative data as there isn't a way to qu
 ##### A researcher compares the differences in visual perceptual abilities of kittens with and without damage to the visual cortex in the brain.
 This experiment is likely to collect quantitative data about speed of recognition and whether they passed a certain test.
 
+# Learning Activity 1.20
+
+#### What is a case study?
+A case study is retroactive study completed on a patient or patients that usually were involved in some unusual circumstances.
+
+#### What type of data can be collected in a case study?
+Since the study is retroactive, there is usually no quantiative measurements that can be made, more often qualitative data is collected.
+
+#### Suggest a reason why case studies often involve the use of several data-collection techniques.
+Several data-collection techniques are used in order to paint an accurate picture of any causes for the event/behavour being observed.
+
+#### Are experimenter effects relevant to case studies? Explain your answers.
+While the majority of experimenter effects aren't relevant to case studies as the events take place without the observations or guidance of a researcher, there can still be bias introduced when interpreting results.
+
+#### Describe three advantages and three limitations of case studies when used for research purposes.
+
+| Advantages | Disadvantages |
+| --- | --- |
+| Often provide information that would be otherwise impossible to collect | Usually unreplicatable by other researchers |
+| Provide qualitative data | Don't provide quantitative data |
+| Provide a snapshot of an authentic event, often leading to a hypothesis | May be confounded by uncontrollable variables |
+
+# Learning Activity 1.21
+
+#### How is observation defined in psychology? Explain with reference to examples
+Observation is defined as any means that a phenomenon (or observable event) is studied. Examples include recording a score on a memory test or a response to an interview question
+
+#### What is an observational study?
+A observational study involves collecting data by use of observations
+
+#### What type of data can be collected in an observational study?
+Both quantitative and qualitative data can be collected. Quantitative data my be collected by a score on a test, while qualitative data may be in the form of a response to an interview question.
+
+#### What are the key features of naturalistic observation?
+Those who are being observed are not made aware they are being observed. This yields more authentic information as any influence caused by the experimenters being present is removed
+
+#### Distinguish between participant and non-participant observation with reference to examples not used in the text
+During participant observation, the researcher is involved in the group, often interacting with the participant. An example of an experiment using participant observation is Solomon Asch's three line experiement
+
+During non-participant observation, the participant is unknowningly observed by the researcher. An example of an experiment using non-participant observation is watching childrens behaviour through a one-way mirror.
+
+#### Describe three advantages and three limitations of observational studies
+
+| Advantages | Disadvantages |
+| --- | --- |
+| Provides a way to study some behaviours which cannot be reproduced in laboratory conditions | Often cannot be used to determine the causes of what is observed |
+| Does not require cooperation from participants | Potentially unethical, often due to informed consent |
+| Allows for collection of typical behaviour | Subject to observer bias |
+
 # Learning Activity 1.26
 
 #### Consider the following fictitious examples of research studies and identify any ethical issues
