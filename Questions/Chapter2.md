@@ -50,3 +50,22 @@ Selection attention with normal waking consciousness
 ### When the Stroop task is given to young children who have master their colours, but have not mastered their reading, the Stroop effect is not observed. Exaplin why this occurs with reference to controlled and automatic processing.
 
 Since the children have no semantic meaning for the words, their brains to not require any extra time to process the colour, i.e their attention is selective and not divided.
+
+# Learning Activity 2.6
+
+#### Describe a task you have learned that initially involved controlled processing but that you can now perform using automatic processing.
+Typing on a keyboard.
+
+#### What change in level of attention was required to perform the task during learning comapred with after the learning?
+Previously when learning, selective attention was used. After learning both selective and divded attention can be used with typing.
+
+#### How do you know this task now involves automatic processing rather than controlled processing?
+It is easy for me to type and speak or hold a conversation, without losing any accuracy
+
+---
+
+#### Describe a task that you are currently learning that involves controlled processing
+Completing sudoku
+
+#### How will you know when your performance of this task involves automatic processing
+It is unlikely completing a sudoku will become a task that's able to be completed with automatic processing
