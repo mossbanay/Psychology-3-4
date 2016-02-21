@@ -69,3 +69,67 @@ Completing sudoku
 
 #### How will you know when your performance of this task involves automatic processing
 It is unlikely completing a sudoku will become a task that's able to be completed with automatic processing
+
+# Learning Activity 2.7
+
+| Feature | Automatic process | Controlled process |
+| ---| ---| --- |
+| Level of conscious awareness required | Low | High |
+| Level of attention required | Divided attention | Selective attention |
+| Speed at which the processing is performed | Fast | Slow |
+| Task complexity | Low | High |
+| Ability to undertake other tasks simultaneously | Impaired | Retained |
+| Example | Listening to a story | Walking |
+
+# Learning Activity 2.11
+
+#### Define the term altered state of consciousness (ASC)
+An altered state of consciousness is any state of consciousness that is strictly different from normal waking consciousness
+
+#### In what main ways is an ASC different from normal waking consciousness?
+In an ASC content limitations, awareness, self-control and time orientation can all be different than they would be in NWC
+
+#### Can an ASC be experienced during normal waking consciousness? Explain your answer with reference to an example.
+It is possible to experience an ASC during NWC. For example when at school a student my slip into an ASC and begin to daydream.
+
+#### State two naturally occuring ASCs and two purposefully induced ASCs
+| Naturally occuring | Purposefully induced |
+| --- | --- |
+| Sleep | Alcohol-affected |
+| Daydreaming | Anaesthesised |
+
+---
+
+An employer is concenered that one of her employees has been arriving at work in an altered state of consciousness and is not in a fit state to operate the machinery for which he is responseible. She is not sure what the characteristics of different ASCs are and wants to be more confident of her information before discussing the issue with him.
+
+##### Briefly describe four characteristics of ASCs that may be helpful for the employer to know
+
+| Self-control | The employee may have less self-control over themselves. This may include physical self-control (e.g stumbling or less coordination) or emotional self-control (e.g seemingly unexplicable bursts of crying, happiness or anger) |
+| Time orientation | The employee may struggle at gauging the speed at which time passes, perceiving time to either move slower than it actually does or faster. |
+| Distortions in perception and cognition | The employee may begin to hallucinate or perceive sensations to be more vivid. |
+| Emotional awareness | The employee may have a hightened or flat emotional response to events |
+
+# Learning Activity 2.12
+
+#### Define daydreaming
+Daydreaming is an ASC in which we shift away from external stimuli to instead focus on internal thoughts
+
+#### What is a possible explanation for daydreaming occuring more often when alone or doing routine or boring activites?
+It is an attempt by the brain to create a more stimulating mindset that is perhaps more entertaining than the external environment
+
+
+#### List three possible functions or purposes of daydreaming
+- Daydreaming may help approach problems from a different angle
+- Removes distractions when trying to focus
+- To imagine situations that may never occur
+
+---
+
+#### Explain the meaning of alcohol-induced state of consciousness
+An alcohol-induced state is what occurs after consuming alcohol
+
+#### What factors influence the experience of an alcohol state of consciousness
+BAC, gender, weight, food already eaten, amount of alcohol drunk
+
+#### Give three examples of changes in consciousness that may be associated with alcohol consumption
+Impaired emotional awareness, slower reaction times, impaired memory
