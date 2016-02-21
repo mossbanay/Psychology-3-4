@@ -6,6 +6,8 @@ The term used to describe any state of consciousness that is distinctly differen
 ### Automatic processes
 ##### See also controlled processes
 
+Automatic processes are processes that can be completed with divided attention. They generally do not require significant cognitive effort.
+
 ### Carry-over effects
 ##### See also order effects
 
@@ -40,7 +42,12 @@ Since consciousness is described as a continuum, at any particular point you wou
 ### Controlled processes
 ##### See also automatic processes
 
-Requires selective attention.
+Controlled processes are processes that require total concentration and selective attention.
+
+### Daydreaming
+##### See also altered state of consciousness
+
+Daydreaming is an ASC in which an individual shifts away from external stimuli to instead focus on internal thoughts
 
 ### Divided attention
 ##### See also selective attention
