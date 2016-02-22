@@ -133,3 +133,66 @@ BAC, gender, weight, food already eaten, amount of alcohol drunk
 
 #### Give three examples of changes in consciousness that may be associated with alcohol consumption
 Impaired emotional awareness, slower reaction times, impaired memory
+
+# Learning Activity 2.14
+
+Different brain wave patterns are associated with different levels of alertness and states of consciousness. For each of the following activities, state which kind of brain wave pattern would probably be dominant - alpha, beta, theta or delta
+
+##### Lying on the beach, having just fallen asleep
+Theta waves
+
+##### Playing a computer game
+Beta waves
+
+##### Alcohol-induced state with a BAC level of 0.01%
+Alpha waves
+
+##### Alcohol-induced state with a BAC level of 0.4%
+Theta waves
+
+##### Sleepwalking that occurs in the deepest stages of sleep
+Delta waves
+
+##### Learning how to use a mathematical formula for the first time
+Beta waves
+
+##### Watching a Disney 'family' movie
+Alpha waves
+
+##### Watching a suspenseful horror movie
+Beta waves
+
+# Learning activity 2.15
+
+#### Why is consciousness (and any ASC) referred to as a psychological construct?
+There is no way of directly measuring or observing consciousness, so we instead call it a psychological construct
+
+---
+
+##### What is the galvanic skin response (GSR)?
+The galvanic skin response is a psychological response that changes the electrical resistance of the surface of skin
+
+##### Describe the GSR that could be expected of someone in an alcohol-induced state of consciousness
+Lower alertness so decreased GSR
+
+---
+
+Construct a table to summarise the frequency (slow or fast) and amplitude (large or small) of the four different kinds of brain wave patterns. In addition, state whether each brain wave pattern is associated with normal waking consciousness or an ASC
+
+| Brain wave pattern | Frequency | Amplitude | State of consciousness |
+| --- | --- | --- | --- |
+| Beta | Fast | Small | NWC (focused) |
+| Alpha | Fast | Small (bigger than beta) | NWC (relaxed) |
+| Theta | Medium | Mix of small and large | Early sleep |
+| Delta | Low | High | Deep sleep |
+
+---
+
+Construct a table to summarise how heart rate, body temperature and GSR may differ in relation to level of alertness, normal waking consciousness and specific ASCs.
+
+| State of consciousness | Heart rate | Body temperature | GSR |
+| --- | --- | --- | --- |
+| Normal waking consciousness | Normal | Normal | ? |
+| Daydreaming | Normal | Normal | ? |
+| Alcohol-induced state | Lowered | Normal | ? |
+| Sleep | Lowered | Lowered | ? |
