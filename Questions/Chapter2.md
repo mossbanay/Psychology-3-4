@@ -192,7 +192,7 @@ Construct a table to summarise how heart rate, body temperature and GSR may diff
 
 | State of consciousness | Heart rate | Body temperature | GSR |
 | --- | --- | --- | --- |
-| Normal waking consciousness | Normal | Normal | ? |
-| Daydreaming | Normal | Normal | ? |
-| Alcohol-induced state | Lowered | Normal | ? |
-| Sleep | Lowered | Lowered | ? |
+| Normal waking consciousness | Normal | Normal | Normal |
+| Daydreaming | Normal | Normal | Decreased conductivity |
+| Alcohol-induced state | Lowered | Normal | Increased conductivity |
+| Sleep | Lowered | Lowered | Decreased conductivity |
