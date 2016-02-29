@@ -40,11 +40,11 @@ Self-report methods are relatively indirect measurements of sleep patterns. They
 | Type of sleep | EEG records | EOG records | EMG records | Other physiological responses | Duration |
 | --- | --- | --- | --- | --- | --- |
 | Awake | Beta waves |
-| NREM Stage 1 | Mix of alpha and theta waves | --- | --- | Hypnic jerk, blood pressure and body temperature begin to fall | 5-10 minutes |
-| NREM Stage 2 | Mostly theta waves with K-complexes | --- | --- | Sleep spindles, K-complexes, blood pressure and body temperature continue to fall | 10-20 minutes |
-| NREM Stage 3 | Mix of theta and delta waves | --- | --- | Maximum muscle relaxation | 10 minutes |
-| NREM Stage 4 | More than 50% delta waves | --- | --- | Muscles completely relaxed, no physical movement | 10 minutes early during sleep, but can be skipped closer to the morning |
-| REM | Beta-like waves | --- | --- | Blood pressure and heartrate increase, eyes have erratic movement | A few minutes early on in sleep up to an hour in later parts of sleep |
+| NREM Stage 1 | Mix of alpha and theta waves | --- | Slow-rolling eye movements | Hypnic jerk, blood pressure and body temperature begin to fall, individuals don't feel like they've been asleep | 5-10 minutes |
+| NREM Stage 2 | Mostly theta waves with K-complexes | Slow-rolling eye movements | --- | Sleep spindles, K-complexes, blood pressure and body temperature continue to fall | 10-20 minutes |
+| NREM Stage 3 | Mix of theta and delta waves | --- | Little eye movement | More muscle relaxation, much more difficult to wake up, more disoriented upon being woken up, NREM dreams | 10 minutes |
+| NREM Stage 4 | More than 50% delta waves | --- | No eye movement | Muscles completely relaxed, no physical movement, if woken up during this stage, it will take 10 minutes to reestablish their surroundings, sleep walking occurs, NREM dreams | 10 minutes early during sleep, but can be skipped closer to the morning |
+| REM | Beta-like waves | --- | Increased levels of movement | Blood pressure and heartrate increase, eyes have erratic movement, paradoxical sleep, more aware of surroundings, increased GSR, cataplexy, dreaming is more memorable and vivid | A few minutes early on in sleep up to an hour in later parts of sleep |
 
 #### Briefly describe the pattern and proportions of NREM and REM sleep in a typical night's sleep for an adult
 
