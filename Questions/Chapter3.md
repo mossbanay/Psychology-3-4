@@ -59,7 +59,66 @@ During NREM stages 3 and 4, delta waves start to occur. Due to the low frequency
 Traditionally sleep is thought to be a period of low brain activity, but during REM sleep your brain acts like it is fully awake with brain wave patterns similar to those expected in normal waking consciousness.
 
 # Learning Activity 3.3
+
+#### Participant 1
+
+##### Stage of sleep: NREM Stage 2
+##### Evidence:
+
+Multiple indicators suggest that the participant was in NREM Stage 2 sleep. The EEG patterns show K-complexes which are characteristic of NREM Stage 2 sleep. Along with medium amplitude medium frequency theta waves that also characteristic of NREM Stage 2 sleep. The participant is observed to be aware of their surroundings while asleep reporting that they heard a smash on the floor of the researchers office, and they report feeling like they were 'just dozing'.
+
+#### Participant 2
+
+##### Stage of sleep: REM Sleep
+##### Evidence:
+
+Physiological measures including heartrate and blood pressure show that the participant has a high level of activity. The EEG pattern describes beta-like waves. The EOG pattern shows frequent eye movements, a key characteristic of REM sleep. A key observation recorded is that the participant reported vividly detailed dreams.
+
+#### Participant 3
+
+##### Stage of sleep: NREM Stage 4
+##### Evidence:
+
+Physiological signs all report very low levels of activity. The EEG shows high amplitude low frequency delta waves, that most often occur during NREM Stage 4 sleep. Limited eye movement and almost complete muscle relaxation are also associated with Stage 4. The participant was observed to be very difficult to awake, and was seen to be disoriented after being woken. The participant also reports having a limited recall of dreaming.
+
 # Learning Activity 3.5
+
+#### Briefly describe two general trends in the pattern and proportions of NREM and REM sleep across the lifespan.
+
+Both NREM and REM sleep are longest after birth and begin to plateau mid adolescence. REM sleep is longest during infancy and drops off during adolescence. NREM sleep peaks during the largest stage of growth between the ages of 2 to 5 years of age, and remains elevated until the end of puberty. The proportion of REM sleep to NREM sleep tends to stay relatively over adulthood and old age, although total sleep requirement shortens towards old age.
+
+#### Compare and contrast sleep-wake patterns of children, adolescents and adults with reference of two distinguishing features of each lifespan stage.
+
+Adolescents undergo a hormonally induced sleep-wake cycle shift, with their biological clocks moving back by about 1 to 2 hours. As a result of this, adolescents typically find it easier to stay up later but more difficult to wake up in the morning. They require a total of about 9 hours of sleep a night. This is substaintially longer than the 7-8 hours requirement for adults, and shorter than the 8-10 requirement for children.
+
+---
+
+#### Explain the meaning of the term sleep-wake cycle shift
+
+A sleep-wake cycle shift occurs when the bodys biological clock is out of sync with real time
+
+#### Briefly describe the sleep-wake cycle shift that occurs during adolescence
+
+During adolescence, hormonal changes occur that result in melatonin being released later at night than in other stages of development. This leads their biological clock to be able 1-2 hours behind real-time, resulting in them feeling sleepy later than other age groups.
+
+#### What are three potential consequences of this shift?
+
+Adolescents may find it difficult to concerntrate at school as a result of sleep deprivation. They may also be more irritable and more experience drifting off into sleep during the day.
+
+#### To what extent may it be possible to readjust or compensate for this shift? Explain your answer
+
+Engaging in good sleep hygiene trains the body to be closer to real-time and allows adolescence to get off to sleep quicker, resulting in a longer period of sleep. Proposals have been made to also move school start times later in order to compensate for the shifted sleep cycle.
+
+---
+
+#### Explain the meaning of delayed onset of sleep
+
+Delayed onset of sleep is simply a inability to fall asleep at an ideal time whether it be due to hormonal changes, social stimulation or drug use.
+
+#### Explain the meaning of sleep debt
+
+Sleep debt is sleep that has been missed and is now 'owed'.
+
 # Learning Activity 3.6
 # Learning Activity 3.9
 # Learning Activity 3.10
