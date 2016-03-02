@@ -120,6 +120,49 @@ Delayed onset of sleep is simply a inability to fall asleep at an ideal time whe
 Sleep debt is sleep that has been missed and is now 'owed'.
 
 # Learning Activity 3.6
+
+#### Compare and contrast the typical sleep patterns of young adults and elderly people shown in figure 3.19 on page 145. Ensure that you refer to: sleep onset, REM episodes, NREM stages and 2 episodes, awakenings
+
+- Youth go into deep stages of sleep (NREM Stage 4), whereas elderly don't reach stage 4
+- Elderly people wake up much more frequently and for longer periods of time than youth
+- REM episodes are shorter at the start of sleep and longer later in sleep for youth, whereas in the elderly REM episodes are mostly the same length
+- Elderly usually take longer to fall asleep than youth
+
+#### Suggest a possible limitation of the data
+
+The data doesn't account for the napping that elderly persons often have throughout the day
+
+#### Write a conclusion on the typical sleep pattern of young adults and elderly person based on the data
+
+Young adults typically fall asleep quickly, and tend to reach deeper stages of sleep early on (stage 4 within 30 minutes of falling asleep). They then cycle back up and have a short REM episode. This cycle then continues with less slow wave sleep and longer REM episodes as sleep progresses. They are unlikely to wake up and if they do they will often go right back to sleep.
+
+Elderly persons typically take a long period of time to fall asleep (long sleep onset). Once asleep they tend to stay in lighter stages of sleep for the majority of sleep. They rarely dip down to NREM stage 4, but in the first half of the night are likely to experience some NREM stage 3. REM episodes are all approximately constant in length throughout sleep. Elderly people frequently wake up and find it difficult to fall back asleep.
+
 # Learning Activity 3.9
+
+#### What does the term sleep deprivation refer to?
+
+Sleep deprivation refers to any loss of sleep that an individual has had
+
+#### How are partial and total sleep deprivation defined?
+
+Partial sleep deprivation is defined as not having reached the recommend amount of sleep for the last 24 hrs, whereas total sleep deprivation is defined as being a total lack of sleep within the last 24 hrs.
+
+---
+
+#### Describe three relevant ethical guidelines that psychologists must follow when conducting research on sleep deprivation with human participants
+
+- The no-harm principle states that no permanent harm can arise as a result of the participant participating in the experiment, e.g individuals must not be permanently affected by their sleep deprivation
+- Informed consent must be given the participant to ensure that they understand the risks of the experiment, e.g the potential affects of sleep deprivation
+- Participants should be permitted to withdrawl from the experiment at any point if they wish to
+
+#### Prepare a table in which you summarise common psychological and physiological effects on people of partial and total sleep deprivation.
+
+| --- | Partial sleep deprivation | Total sleep deprivation |
+| Psychological effects (Cognitive) | Slower reaction time than normal | Delusions, hallucinations, difficulty with memory |
+| Psychological effects (Affective) | Individuals are more grumpy, irritable | --- |
+| Psychological effects (Behavioural) | --- | --- |
+| Physiological effects | Difficulty staying awake, sleepiness | Lowered body temperature, microsleep |
+
 # Learning Activity 3.10
 # Learning Activity 3.13
