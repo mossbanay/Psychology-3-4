@@ -1,3 +1,7 @@
+### Attention
+##### See also selective attention, divided attention
+Attention is a concentration of mental activity that involves focusing on a specific stimulus while ignoring other stimuli.
+
 ### Altered state of consciousness (ASC)
 ##### See also normal waking consciousness
 
@@ -143,6 +147,10 @@ Examples include:
 - The order of questions on a survey
 - In an experiment concerning the affect of alcohol on driving performance, it is important to give the participants alcohol after the sober test but before the second test.
 
+### Perception
+
+A perception is the result of organisation and interpretation of sensory input. For example when you fall over and hit your knee, you perceive pain.
+
 ### Placebo
 ##### See also placebo effect
 
@@ -194,6 +202,10 @@ A self-fulfilling prophecy occurs when an experimenter collects results that the
 ### Self-report
 
 Self-reports are the written or spoken responses from a participant to questions or statements given by a researcher
+
+### Sensation
+
+A sensation is the information from a sensory input with any interpretation.
 
 ### Sleep
 ##### See also alterted state of consciousness
