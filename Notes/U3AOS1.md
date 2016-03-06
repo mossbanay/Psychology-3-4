@@ -58,16 +58,31 @@ Individuals may struggle to stay standing upright or struggle with movements tha
 As level of awareness changes, different states of consciousness are able to be experienced. This is possible due to the changing aspect of the consciousness experience. Since level of awareness changes over a spectrum, states of consciousness can be generalised on a spectrum from total awareness (focussed attention, NWC) to a complete lack of awareness (anaesthesised state, unconcious).
 
 #### Normal waking consciousness
-
 Normal waking consciousness or NWC refers to the states of consciousness associated with being awake and aware of our thoughts, memories, feelings and the sensations we are experiencing from the outside world.
 
 #### Altered states of consciousness
-
 - Daydreaming
 - Alcohol-induced state
 - Sleep, "purpose of sleep, characteristics and patterns of the stages of sleep including rapid eye movement (REM) and the non-rapid eye movement (NREM) stages of sleep" - vcaa
 
 ### Sleep
+
+#### Purpose of sleep
+The purpose of sleep is a topic in which there are two major theories. Restorative theories that propose that sleep is used to restore and repair the body and survial theories, which propose that sleep is used as a tool that was evolved to restrict activity during times of day when an animal may be more vulunerable.
+
+There is limited evidence for both theories and there are no definite answers to the reasons fro sleep, although both theories provide insights for possiblities as to why we sleep.
+
+##### Survival theories
+Survival theories are also known as adaptive, evolutionary, preservation and protective theories. They revolve around the idea that while asleep animals are less likely to be spotted by predators when moving around. Once an organism has met all the needs for eating, drinking caring for its young, according to survival theories, it will spend the rest of the time inactive.
+
+Supporting evidence for survival theories can be shown by the existing sleep patterns for various species and the characteristics of those species. For example, animals with fewer predators like lions and gorillas typically sleep longer (up to 15 hours). Animals which require more time to eat suffecient amounts of food like cattle and horses and are usually less agile will spend more time alert and awake (usually sleeping only 4 hours).
+
+Considering this from a human perspective, it is possible that humans would sleep at night due to poor eyesight during the night. It may of been safer to sleep in a cave or under shelter than to attempt to find food.
+
+##### Restorative theories
+According to restorative theories, sleep proides an opportunity for the body to replenish the stores of energy that have been depleted during the day. However, recovery that takes place is not only physiologically but also psychological. The main physiological benefits occur during NREM sleep, while REM sleep is associated with psychological repair, including memory consolidation and continuing cognitive robustness.
+
+Evidence for the physiological restorative nature of sleep can be given by Shapiro et al., 1981 which showed that ultra-marathon runners spent a extra 90 minutes asleep over a control group, and additionally tended to stay in slow wave sleep for a longer period of time.
 
 methods used to study the level of alertness in normal waking consciousness and the stages of sleep:
 - polysomnography
