@@ -165,26 +165,33 @@ Partial sleep deprivation is defined as not having reached the recommend amount 
 | Physiological effects | Difficulty staying awake, sleepiness | Lowered body temperature, microsleep |
 
 # Learning Activity 3.10
+
 Adam, whose job which is typically more mundane and boring, is likely to make more errors as a result of sleep deprivation than Sara. Research has shown that sleep deprivation negatively impacts complex and interesting tasks much less than tasks which and repetitive and boring.
 
 # Learning Activity 3.13
 
 #### Briefly describe the purpose of sleep in terms of restorative theories
+
 The purpose of sleep in terms of restorative theories is to restore depleted energy and acculumated fatigue that occurs while awake.
 
 #### Outline the differing restorative effects of NREM and REM sleep
+
 NREM sleep provides mostly physiological recovery while REM sleep provides mostly psychological recovery.
 
 #### Explain the meaning of REM rebound and why it occurs
+
 REM rebound is the phenomenon characterised by an increase in REM duration in the wake of insufficient amounts of REM sleep. REM rebound occurs to 'catch up' on REM sleep that has been lost from previous nights.
 
 #### Outline empirical research in support of restorative theories
+
 Research conducted on marathon runners showed that when allowed to sleep as long as needed, marathon runners slept on average 90 minutes longer than non-marathon runners. They also tended to stay in deeper sleep for longer, suggesting that an increase need for physiological recovery leads to more slow wave sleep.
 
 ---
 
 #### Briefly describe the purpose of sleep in terms of survival theories
+
 The purpose of sleep in terms of survival theories is to reduce activity during times when predators are more likely to attack.
 
 #### Outline empirical research in support of survival theories
+
 Animals with fewer natural predators such as lions and gorillas tend to sleep longer than animals with more predators such as cattle and horses.
