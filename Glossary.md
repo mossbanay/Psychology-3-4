@@ -7,6 +7,13 @@ Attention is a concentration of mental activity that involves focusing on a spec
 
 The term used to describe any state of consciousness that is distinctly different from normal waking consciousness, in terms of level of awareness and experience, and the quality or intensity of sensations, perceptions, thoughts feelings and memories that are experienced.
 
+### Autonomic nervous system
+##### See also peripheral nervous system
+
+The autonomic nervous system is a subsystem of the peripheral nervous system that deals with physiological responses to situations that are potentially dangerous. It connects the CNS to the vital organs like the lungs and heart. It is labelled as being autonomous as the organs it controls are largely involuntarily controlled.
+
+The autonomic nervous system functions at all times, even while asleep.
+
 ### Automatic processes
 ##### See also controlled processes
 
@@ -133,6 +140,16 @@ Examples include:
 - Mood
 - Physical health
 
+### Interneurons
+##### Also known as connecting neurons
+
+Interneurons perform the important function of making the connection between sensory and motor neurons. Interneurons are found exclusively in the CNS, and are most abundant in the brain.
+
+### Motor neurons
+##### Also known as efferent neurons
+
+Motor neurons are specialised nerve cells that carry messages to skeletal muscles causing them to contract or relax. These messages contain only voluntary muscle movements.
+
 ### Normal waking consciousness (NWC)
 ##### See also altered states of consciousness (ASC)
 
@@ -207,10 +224,20 @@ Self-reports are the written or spoken responses from a participant to questions
 
 A sensation is the information from a sensory input with any interpretation.
 
+### Sensory neurons
+##### Also known as afferent neurons
+
+Sensory neurons are specialised nerve cells that recieve and carry sensory messages.
+
 ### Sleep
 ##### See also alterted state of consciousness
 
 Sleep is a naturally occuring ASC often characterised by a loss of conscious awareness. Sleep is often studied by use of polysomnography.
+
+### Somatic nervous system
+##### See also peripheral nervous system
+
+The somatic nervous system is a subsystem of the peripheral nervous system that deals with sending sensory information from muscles and organs to the CNS and receiving motor information from the CNS and passing it onto muscles and organs.
 
 ### State of consciousness
 ##### See also consciousness
