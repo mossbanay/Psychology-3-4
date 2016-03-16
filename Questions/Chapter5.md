@@ -47,5 +47,58 @@ Visceral muscles are continuously regulated whereas skeletal muscles can remain 
 The autonomic nervous system is more important as it aids in preparing the body to flee or flight prey. Heartrate and breathing speed up, preparing the body for physical activity and epinephrine is secreted from the adrenal glands. The central nervous system is unable to make similar changes to the bodys vital organs without communicating with the autonomic nervous system to do so.
 
 # Learning Activity 5.4
+
+- pressing a key to answer a mobile phone call → somatic nervous system
+- eating dinner → somatic nervous system
+- sweating before having to give an important speech → autonomic nervous system
+- clenching your fists while watch a scary movie movie → autonomic nervous system
+- crouching on the blocks awaiting the starting siren before swimming in a 50-metre freestyle final → somatic nervous system
+- washing the dog → somatic nervous system
+- blinking → autonomic nervous system
+- talking on the phone → somatic nervous system
+- laughing at a joke → autonomic nervous system
+- flinching when you hear a loud noise → autonomic nervous system
+
 # Learning Activity 5.5
+
+#### In what main way do the sympathetic nervous system and the parasympathetic nervous system differ?
+
+The sympathetic nervous system responds to threats and dangerous situations whereas the parasympathetic nervous system regulates normal conditions.
+
+---
+
+#### What is the role of the sympathetic nervous system in enhancing survival?
+
+The sympathetic system allows for heightened alterness and immediate responses to danger and threats that may occur. In a evolutionary perspective, if you are able to react quicker to attacks, you are more likely to survive prey.
+
+#### Give three examples of bodily functions that increase their activity as a result of sympathetic nervous system activation.
+
+- Heartrate
+- Epinephrine secretion
+- Breathing rate
+
+#### Give three examples of bodily functions that decrease their activity as a result of sympathetic nervous system activation.
+
+- Stomach digestion
+- Salivation
+- Liver sugar release
+
+---
+
+#### Describe the main roles of the parasympathetic nervous system.
+
+To maintain normal functioning in the body.
+
+#### Give three examples of bodily functions that are affected as a result of the parasympathetic nervous system. Briefly explain the purpose of these changes if resulting from parasympathetic nerous system activation.
+
+- Bile production increases → allows you to digest more food
+- Fat release decreases → prevents wasting energy
+- Decreased sweating → prevents dehydration
+
+---
+
+#### Give two reasons to explain why it takes longer for the parasympathetic nervous system to 'slow down' bodily functions that it does for the sympathetic nervous system to 'speed up' bodily functions.
+
+Hormones like epinephrine that are secreted after activation of the sympathetic nervous system do not disspate immediately and linger around the bloodstream. These hormones prevent the parasympathetic nervous system from taking control. It is often likely for the body to try and 'keep its guard up' and not activate the parasympathetic nervous system until danger has definitely passed.
+
 # Learning Activity 5.6
