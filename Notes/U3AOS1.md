@@ -98,3 +98,85 @@ the effects of total and partial sleep depreviation:
 - loss of REM and NREM sleep
 - sleep recovery patterns including amount of sleep required, REM rebound and microsleeps
 - sleep-wake cycle shifts during adolescence compared with child and adult sleep including delayed onset of sleep and need for sleep
+
+## Brain
+
+### Structure of the brain
+
+At the core of the brain is what is known as the old brain. While still used it is the most generic and oldest part of the brain still present in humans. The limbic system (also known as the midbrain), consisting of the amygdala and hippocampus, is responsible for the regulation of mood and memory consolidation. Finally the outermost layer of the brain is known as the cerebral cortex, and is the main distinguishing feature that differs humans from other animals.
+
+For the purpose of studying and VCE the cerebral cortex is typically split up into four topological sections; the front, parietal, temporal and occipital lobes.
+
+![The four lobes of the brain](https://commons.wikimedia.org/wiki/File%3AGray728.svg)
+
+### Frontal lobe
+
+#### Primary motor cortex
+
+- Controls the muscles
+
+#### Somatosensory cortex
+
+- Deals with information concerning the senses
+
+#### Broca's area
+##### Broca's aphasia
+
+### Parietal lobe
+### Occipital lobe
+
+- The information from each retina gets split up sent to both hemispheres for processing.
+
+#### Primary visual cortex
+
+- Feature detector cells
+
+#### Association area
+
+- Interact with primary visual cortex
+- Causes issues when audio is out of sync with visuals
+- *Integrate* visual information with other information such as memory, language and sounds
+
+### Temporal lobe
+
+- Memory
+- Aspects of visual perception such as ability to identify objects and recognise faces
+- Emotional processing
+
+#### Hippocampus
+#### Amygdala
+#### Primary auditory cortex
+
+- RAI sounds from both ears
+- Verbal sounds are primarlly processed in the left hemisphere
+- Non-verbal sounds are primarlly processed in the right hemisphere
+
+#### Association areas
+
+- What things are, object, face recognition
+- Determining appropriate responses to stimuli
+- Episodic memory
+
+#### Werenicke's area
+
+- In 90% of people, Werenicke's area and Broca's area are both in the left hemisphere
+- Responsible for attaching meaning to what you hear and say
+- Damage to Werenicke's area can result in impediment in speech and listening skills
+
+##### Werenicke's aphasia
+
+---
+
+#### Corpus callosum
+
+The thick band/bridge of nerve tissue that connects the two hemispheres
+
+A.G.C.C
+
+Grows more around age 12
+
+Agenesis of the corpus callosum
+
+### Split brain studies
+
+

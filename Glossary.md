@@ -1,3 +1,11 @@
+### Amygdala
+
+TODO
+
+### Aphasia
+
+TODO
+
 ### Attention
 ##### See also selective attention, divided attention
 Attention is a concentration of mental activity that involves focusing on a specific stimulus while ignoring other stimuli.
@@ -19,6 +27,10 @@ The autonomic nervous system functions at all times, even while asleep.
 
 Automatic processes are processes that can be completed with divided attention. They generally do not require significant cognitive effort.
 
+### Broca's area
+
+TODO
+
 ### Carry-over effects
 ##### See also order effects
 
@@ -26,6 +38,10 @@ The influence of the effects made by a previous treatment or task on a participa
 
 Examples include:
 - In an experiment concerning the affect of alcohol on driving performance, it is important to give the participants alcohol after the sober test but before the second test.
+
+### Cerebral cortex
+
+TODO
 
 ### Cocktail-party effect
 ##### See also selective attention
@@ -42,6 +58,10 @@ A confounding variable is different to an EV as it has a systematic/measureable 
 Examples include:
 - In an experiment looking at the difficulty of two video game levels, participants are asked to play both levels taking a short break between. However when playing level 1, the participants sat only 3m away from the tv, while when playing level they sat 6m away from the tv. The mean score for level 1 was higher than the mean score for level 2. However, the distance that the participants sat from the tv is a confounding variable, and the experimenters have no way of telling to what degree sitting further away from the tv made.
 - If a repeated measures experimental design has been used but proper counterbalancing wasn't used.
+
+### Corpus callosum
+
+A thick band/bridge of nerve tissue that connects the two hemispheres of the brain along the longitudinal fissure.
 
 ### Consciousness
 ##### See also state of consciousness
@@ -124,6 +144,10 @@ A variable that relates to the IV or the DV and may have an effect on them.
 Examples include:
 - Individual participant differences
 
+### Hippocampus
+
+TODO
+
 ### Individual participant differences
 ##### See also confounding variables, extraneous variables
 
@@ -144,6 +168,10 @@ Examples include:
 ##### Also known as connecting neurons
 
 Interneurons perform the important function of making the connection between sensory and motor neurons. Interneurons are found exclusively in the CNS, and are most abundant in the brain.
+
+### Limbic system
+
+TODO
 
 ### Motor neurons
 ##### Also known as efferent neurons
@@ -199,6 +227,10 @@ The influence on performance that occurs by a participant having previously comp
 Examples include:
 - Playing a video game level under two conditions without taking a break
 - Solving a sudoku under two conditions without taking a break
+
+### RAI
+
+Receives analyses interprets.
 
 ### Selective attention
 ##### See also divided attention
@@ -263,3 +295,9 @@ There are also several physiological changes associated with states of conscious
 
 ### Strop effect
 ##### See also controlled processes, selective attention
+
+TODO
+
+### Werenicke's area
+
+TODO
