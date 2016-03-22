@@ -169,6 +169,10 @@ Examples include:
 
 Interneurons perform the important function of making the connection between sensory and motor neurons. Interneurons are found exclusively in the CNS, and are most abundant in the brain.
 
+### Lesion
+
+TODO
+
 ### Limbic system
 
 TODO

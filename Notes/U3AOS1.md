@@ -107,7 +107,7 @@ At the core of the brain is what is known as the old brain. While still used it 
 
 For the purpose of studying and VCE the cerebral cortex is typically split up into four topological sections; the front, parietal, temporal and occipital lobes.
 
-![The four lobes of the brain](https://commons.wikimedia.org/wiki/File%3AGray728.svg)
+![The four lobes of the brain](https://upload.wikimedia.org/wikipedia/commons/1/1a/Gray728.svg)
 
 ### Frontal lobe
 
@@ -121,6 +121,14 @@ For the purpose of studying and VCE the cerebral cortex is typically split up in
 
 #### Broca's area
 ##### Broca's aphasia
+
+- Caused by damage to broca's area
+- Characterised by the impediment of production of speech
+  * Speech lacks grammar
+  * Predominantly nouns and verbs
+- Comprehension can be impaired in some cases
+- Affects ability with written grammar
+- Simple words are much easier to say (e.g yes and no) as opposed to less used words
 
 ### Parietal lobe
 ### Occipital lobe
@@ -160,7 +168,7 @@ For the purpose of studying and VCE the cerebral cortex is typically split up in
 #### Werenicke's area
 
 - In 90% of people, Werenicke's area and Broca's area are both in the left hemisphere
-- Responsible for attaching meaning to what you hear and say
+- Responsible for attaching meaning to what you hear and say (comprehension)
 - Damage to Werenicke's area can result in impediment in speech and listening skills
 
 ##### Werenicke's aphasia
@@ -179,4 +187,24 @@ Agenesis of the corpus callosum
 
 ### Split brain studies
 
+### Hemispheric specialisation
+#### Left hemisphere
 
+- Verbal tasks
+- Logical reasoning
+- Controlling movements and receiving and processing sensations from the right side of the body
+- Analysis of information
+
+#### Right hemisphere
+
+- Non-verbal tasks
+- Thinking holistically globally
+- Processing spatial information
+- Emotion recognition
+- Understanding metaphors and abstract concepts
+- Controlling movements and receiving and processing sensations from the left side of the body
+
+
+Example question: Name one specialiation of the left hemisphere of the brain.
+-> Controlling the movements and receiving the sensations from the right side of the body.
+-> This is the *least* controversial answer, and therefore the hardest to argue against.
