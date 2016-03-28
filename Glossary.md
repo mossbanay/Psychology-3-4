@@ -39,6 +39,11 @@ The influence of the effects made by a previous treatment or task on a participa
 Examples include:
 - In an experiment concerning the affect of alcohol on driving performance, it is important to give the participants alcohol after the sober test but before the second test.
 
+### Central nervous system
+##### Also known as CNS
+
+The CNS is constructed from the brain and the spinal cord. It transmits messages to and from the peripheral nervous system via the spinal cord.
+
 ### Cerebral cortex
 
 TODO
@@ -177,6 +182,14 @@ TODO
 
 TODO
 
+### Longitudinal fissure
+
+The deep groove that appears to seperate the two cerebral hemispheres of the brain.
+
+### Memory
+
+Memory is defined as the processing, storage and retrival of information accquired through learning, i.e a neurological representation of a past event.
+
 ### Motor neurons
 ##### Also known as efferent neurons
 
@@ -199,6 +212,11 @@ Examples include:
 ### Perception
 
 A perception is the result of organisation and interpretation of sensory input. For example when you fall over and hit your knee, you perceive pain.
+
+### Peripheral nervous system
+##### Also known as PNS
+
+Consists of all the nervous system outside of the brain and spinal cord. Responsible for sensation and motor control. Transmits messages to and from the central nervous system via the spinal cord.
 
 ### Placebo
 ##### See also placebo effect
