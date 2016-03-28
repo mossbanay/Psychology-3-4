@@ -102,3 +102,27 @@ To maintain normal functioning in the body.
 Hormones like epinephrine that are secreted after activation of the sympathetic nervous system do not disspate immediately and linger around the bloodstream. These hormones prevent the parasympathetic nervous system from taking control. It is often likely for the body to try and 'keep its guard up' and not activate the parasympathetic nervous system until danger has definitely passed.
 
 # Learning Activity 5.6
+
+##### Which division of the autonomic nervous system is likely to be dominant if you are in each of the following situations?
+
+| Situation | Division |
+| --- | --- |
+| Lying on the beach reading a book | parasympathetic |
+| Waiting for the delivery of your VCE results | sympathetic |
+| Preparing for a blind date | sympathetic |
+| Hearing an unexpected loud knock on the window at 2am while watching TV alone | sympathetic |
+| Eating dinner | parasympathetic |
+| Watching a terrifying scene in a movie | sympathetic |
+| Sitting in class listening to a teacher's explanation | parasympathetic |
+
+---
+
+##### Which division of the autonomic nervous system is likely to be dominant when each of the following physiological responses is observed?
+
+| Physiological response | Division |
+| --- | --- |
+| Increased rate of digestion | parasympathetic |
+| Decreased salivation | sympathetic |
+| Increased pulse rate | sympathetic |
+| Decreased pupil size | parasympathetic |
+| Increased perspiration | sympathetic |
