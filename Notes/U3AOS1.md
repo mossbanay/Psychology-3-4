@@ -171,8 +171,6 @@ For the purpose of studying and VCE the cerebral cortex is typically split up in
 - Responsible for attaching meaning to what you hear and say (comprehension)
 - Damage to Werenicke's area can result in impediment in speech and listening skills
 
-##### Werenicke's aphasia
-
 ---
 
 #### Corpus callosum
@@ -184,6 +182,18 @@ A.G.C.C
 Grows more around age 12
 
 Agenesis of the corpus callosum
+
+#### Broca's aphasia vs. Werenicke's aphasia
+
+| --- | Broca's aphasia | Werenicke's aphasia |
+| --- | --- | --- |
+| Sentence structure | Mainly verbs and nouns | Mostly function words |
+| Example of sentence | "Catch train home now" | "I called mother on the TV and did not understand the door" |
+| Speech patterns | Speech requires effort and is slow and drawn out | Speech is effortless |
+| Meaningfulness of speech | Meaningful | Characeristically incoherent |
+| Patient awareness | Patient is aware of condition | Patient is not aware of condition |
+| Understanding of spoken/written word | Acceptable | Difficulty with both |
+
 
 ### Split brain studies
 
@@ -206,5 +216,5 @@ Agenesis of the corpus callosum
 
 
 Example question: Name one specialiation of the left hemisphere of the brain.
--> Controlling the movements and receiving the sensations from the right side of the body.
--> This is the *least* controversial answer, and therefore the hardest to argue against.
+→ Controlling the movements and receiving the sensations from the right side of the body.
+→ This is the *least* controversial answer, and therefore the hardest to argue against.

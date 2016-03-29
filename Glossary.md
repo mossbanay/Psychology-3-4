@@ -4,7 +4,7 @@ TODO
 
 ### Aphasia
 
-TODO
+A condition characterised by speech impairment. This is often a result of damage to Broca's area or Werenicke's area.
 
 ### Attention
 ##### See also selective attention, divided attention
@@ -29,7 +29,7 @@ Automatic processes are processes that can be completed with divided attention. 
 
 ### Broca's area
 
-TODO
+A small area in the frontal lobe which is reasonable for coordinating the muscles needed speech production. Damage to Broca's area results in Broca's aphasia (also known as expressive aphasia). Broca's area is found in th e left hemisphere for 95% of patients.
 
 ### Carry-over effects
 ##### See also order effects
