@@ -149,6 +149,11 @@ A variable that relates to the IV or the DV and may have an effect on them.
 Examples include:
 - Individual participant differences
 
+### Hemispheric specialisation
+##### Also known as hemispheric lateralisation, hemispheric dominance
+
+The idea that the majority of processing of particular tasks occurs in a particular cerebral hemisphere, i.e one hemisphere has specialised functions, or exerts greater control over a particular function.
+
 ### Hippocampus
 
 TODO

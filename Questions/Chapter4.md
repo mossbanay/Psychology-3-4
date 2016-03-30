@@ -140,6 +140,52 @@ The somatosensory cortex is most likely to have been damaged as Sofia is having 
 The somatosensory cortex is located in the parietal lobe.
 
 # Learning Activity 4.9
+
+#### Explain the meaning of the term hemispheric specialisation (or laterialisation) in relation to the cerebral cortex
+
+Each of the hemispheres of the cerebral cortex have a number of tasks that the majority of processing occurs within that hemisphere. These are called specialisations.
+
+---
+
+| --- | Left hemisphere | Right hemisphere |
+| Cognitive functions | Processes sensory information from right side of the body | Processes sensory information from left side of the body |
+| Behavioural functions | Controls right side of the body | Controls left side of the body |
+| Non-verbal functions | --- | Specialisation in skills that do not require language, e.g spatial thinking, recognition of faces, appreciating music and art, creative thinking, daydreaming, processing facial expressions |
+| Verbal functions | Broca's area, Wernicke's area | --- |
+| Analytical functions | Specialisation in breaking tasks down into key parts, logical reasoning, maths, sequential tasks | --- |
+
+---
+
+#### Identify the hemisphere (left or right) that specialises in these cognitive and behavioural functions:
+
+- Left hemisphere
+  * Listening to someone speak
+  * Applying logic in an argument
+  * Working out if you have enough money for a holiday
+  * Speaking on the telephone
+  * Giving someone the correct change for their purchases
+  * Working out when you have to get up in the morning to get to school on time
+  * Raising your right hand to answer a question in class
+
+- Right hemisphere
+  * Appreciating the beauty of a forest
+  * Kicking a football with the left foot
+  * Daydreaming about being rich and famous
+  * Judging whether a car will fit into a parking space
+  * Finding your way around a maze
+  * Working out the meaning of a grin on someone's face
+  * Arranging a bouquet of flowers
+  * Recognising classmates from an old class photo
+
+- Not sure
+  * Playing golf on a Wii
+  * Playing scrabble on an iPad
+  * Playing Angry Birds on a phone
+
+#### A friend tells you about an internet test that determines hemispheric dominance of the test-taker. The test seems very formal and involves a mixture of verbal and non-verbal tasks. Your friend has performed the test and one of the results indicated that they have no musical ability because of their dominant left hemisphere. List three key arguments that could be used to dispute this result.
+
+Hemispheric lateralisation only shows that the majority of processing occurs in one hemisphere for a particular task. It is invalid to conject that someone has no musical ability because they are left hemisphere dominant as the processing occurs in both hemispheres. The test also is unlikely to be able to properly assess an individual over such a short period of time.
+
 # Learning Activity 4.10
 # Learning Activity 4.12
 # Learning Activity 4.13
