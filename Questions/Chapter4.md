@@ -187,7 +187,35 @@ Each of the hemispheres of the cerebral cortex have a number of tasks that the m
 Hemispheric lateralisation only shows that the majority of processing occurs in one hemisphere for a particular task. It is invalid to conject that someone has no musical ability because they are left hemisphere dominant as the processing occurs in both hemispheres. The test also is unlikely to be able to properly assess an individual over such a short period of time.
 
 # Learning Activity 4.10
+
+The cartoon is inaccurate as it portrays specialisation of a hemisphere as being exclusive of the other. Both hemispheres have their own specialisations, and certainly in no case is there a 'no-brain person'.
+
 # Learning Activity 4.12
+
+#### Describe the two main functions of the spinal cord in terms of the types of messages that travel up and down its length, and the branch of the nervous system to which it connects.
+
+The spinal cords main functions are to relay somatosensory information from the body to the brain, and relay messages from the brain to organs, muscles and other parts of the body. This communication is completed via the peripheral nervous system.
+
+---
+
+#### Describe the role played by the spinal cord in initiating certain types of reflex responses.
+
+The spinal cord is able to respond to certain signals without processing in the brain.
+
+#### Why is this considered to be an 'adaptive' or 'survival' role?
+
+An adaptation to respond quicker to pain or danger occured by reducing the time necessary to respond as the spinal cord was closer and processed faster than the brain.
+
+#### Give an example of a reflex response that you believe may *not* be involved in a spinal reflex arc. Explain your choice of example.
+
+Reflexes like eye dilation are controlled via the brain while the spinal cord is not involved.
+
+---
+
+#### Explain why damage to the spinal cord results in loss of brain-body control
+
+As the ability to transfer sensory information from the body and control muscle, internal organs and glands relies on the nerves in the spinal cord, when damage occurs, those pathways are impaired and leads to a loss of brain-body control.
+
 # Learning Activity 4.13
 # Learning Activity 4.14
 # Learning Activity 4.16
