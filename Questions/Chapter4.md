@@ -217,6 +217,91 @@ Reflexes like eye dilation are controlled via the brain while the spinal cord is
 As the ability to transfer sensory information from the body and control muscle, internal organs and glands relies on the nerves in the spinal cord, when damage occurs, those pathways are impaired and leads to a loss of brain-body control.
 
 # Learning Activity 4.13
+
+#### How is aphasia defined?
+
+Aphasia is defined as a condition in which speech is impaired.
+
+#### Distinguish between fluent and nonfluent aphasia, with reference to examples of speech not used in the text.
+
+With fluent aphasia, a patient tends to have no trouble in pronouncing words and speaking, but experiences difficulty in comprehending the contents of speech. The most common fluent aphasia is Wernicke's aphasia. This is contary to nonfluent aphasias like Broca's aphasia in which comprehension is retained but speech production is impaired.
+
+#### Compare and contrast the differences between Broca's aphasia and Wernicke's aphasia
+
+| | Broca's aphasia | Werenicke's aphasia |
+| --- | --- | --- |
+| Sentence structure | Mainly verbs and nouns | Mostly function words |
+| Example of sentence | "Catch train home now" | "I called mother on the TV and did not understand the door" |
+| Speech patterns | Speech requires effort and is slow and drawn out | Speech is effortless |
+| Meaningfulness of speech | Meaningful | Characeristically incoherent |
+| Patient awareness | Patient is aware of condition | Patient is not aware of condition |
+| Understanding of spoken/written word | Acceptable | Difficulty with both |
+| Brain lobe | Frontal lobe | Temporal lobe |
+
+#### What do studies of people with aphasia indicate about the roles of the different hemispheres in language?
+
+The left hemisphere is the primary processing area for language production and comprehension.
+
+---
+
+Olivia has recently suffered serious head injuries as a result of a car accident. Apparent effects of her injury are in her use of speech and her comprehension of speech. While she strings lengthy sentences together, they make little sense. Likewise, she seems to have great difficulty making sense of what others say.
+
+#### Identify the brain area and brain lobe likely to be damaged and the cause of Olivia's speech problems.
+
+Wernicke's area which is located in the Temporal lobe.
+
+#### Explain the role this area plays in people whose brains are not affected by stroke, injury or disease.
+
+When unaffected by stroke, injury or disease, Wernicke's area is responsible for the cognition of speech and language. It interprets the sound of talking and sight of written words and yields comprehension.
+
+---
+
+Following a stroke, Carlo's speech consisted of very short sentences that were incoherent. For example, the sentences were often made up of a few nouns and verbs that weren't linked properly.
+
+#### Identify the brain area and brain lobe likely to be damaged and the cause of Carlo's speech problems.
+
+Broca's area which is located in the Frontal lobe.
+
+#### Explain the role this area plays in people whose brains are not affected by stroke, injury or disease.
+
+When unaffected by stroke, injury or disease, Broca's area is responsible for the control of the facial muscles that produce speech. When Broca's area is damaged, the ability to pronounce language is impaired as a result of the difficulty to control the mouth.
+
 # Learning Activity 4.14
+
+#### Explain what spatial neglect is with reference to examples of mental processes and behaviour associated with the disorder.
+
+Spatial Neglect is an attentional disorder in which the person affected systematically ignores stimuli on one side. It is common to observe patients affect by spatial neglect as completely ignoring people, objects and events that occur on one side of their visual field (usually the left visual field). Patients my greet only those on their right, or only be able to recall details on the right side of buildings.
+
+#### Give an example of a visual scene that may be reported by an individual with spatial neglect when watching a sports event. The person's spatial neglect is limited to vision. Your example should identify the event and the position where the scene is viewed.
+
+When the patient is seated facing the goals at a soccer game, their position along the row may affect the perceived size of the field. When seated in the middle of the row, the field will appear a similar size as it is really is. However when seated further to the right the perceived size of the field will decrease as less of the field is in the right visual field.
+
+---
+
+#### Which brain area is most commonly associated with spatial neglect?
+
+The right pareital lobe.
+
+#### What does this suggest about the role of that brain area?
+
+This association suggests that the pareital lobe and the right hemisphere of the brain are largely responsible for the processing and attention of spatial information.
+
+---
+
+#### In what way does spatial neglect affect conscious experiences of people with the disorder?
+
+Those with the disorder are unable to understand or be aware of the concept of 'left'. They may also struggle with motor direction (i.e moving muscles to the 'left'). Patients are also unaware of their condition (anosognosia).
+
+---
+
+#### Identify the IV and DV(s) in the experiment conducted by Bisach and Luzzatti (1978) and state these as operational variables.
+
+- IV - Whether or not an individual has spatial neglect as a result of damage to the right pareital lobe.
+- DV - A judgement of memory as measured by a description of popular Milan landmark.
+
+#### In what way do the researcher's results suggest that spatial neglect does not involve memory impairment?
+
+Patients are able to remember details of the objects they recall however these are usually limited to the right side of the object. This suggests that it is not a limitation of memory that is the cause but another factor (spatial neglect).
+
 # Learning Activity 4.16
 # Learning Activity 4.17

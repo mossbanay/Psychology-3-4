@@ -2,6 +2,10 @@
 
 TODO
 
+### Anosognosia
+
+Anosognosia is a deficit of self-awareness, a condition in which a person who suffers some disability seems unaware of the existence of his or her disability.
+
 ### Aphasia
 
 A condition characterised by speech impairment. This is often a result of damage to Broca's area or Werenicke's area.
@@ -297,6 +301,10 @@ Sleep is a naturally occuring ASC often characterised by a loss of conscious awa
 ##### See also peripheral nervous system
 
 The somatic nervous system is a subsystem of the peripheral nervous system that deals with sending sensory information from muscles and organs to the CNS and receiving motor information from the CNS and passing it onto muscles and organs.
+
+### Spatial neglect syndrome
+
+Spatial Neglect is an attentional disorder in which the person affected systematically ignores stimuli on one side. This condition is usually a result of damage to the right parietal lobe.
 
 ### State of consciousness
 ##### See also consciousness
