@@ -304,4 +304,91 @@ Those with the disorder are unable to understand or be aware of the concept of '
 Patients are able to remember details of the objects they recall however these are usually limited to the right side of the object. This suggests that it is not a limitation of memory that is the cause but another factor (spatial neglect).
 
 # Learning Activity 4.16
+
+#### What is split-brain surgery and why is it performed?
+
+Split-brain surgery is surgery that inolves the cutting of the corpus callosum. It may be performed for relief from conditions like epilepsy.
+
+#### What is a split-brain study and why is it conducted?
+
+Split-brain studies are studies on individuals who have their corpus callosum's cut. They are conducted in order to study the hemispheres of the brain seperately.
+
+#### Why is each participant required to focus on a dot in the middle of the screen before the picture appears on the screen?
+
+To ensure that the visual fields line up with the middle of the screen.
+
+#### Describe what happens when a split-brain patient is flashed pictures of objects to the right hemisphere and asked to name them.
+
+The pictures will be flashed in the left visual field and received on the left side of the retina. The right occipital lobe will then process the visual information. The patient will find themseles unable to named the object as the language processing required to name objects is unable to be accomplished as the visual information cannot travel to the left hemisphere of the brain.
+
+#### What conclusion(s) did Sperry draw about how the hemispheres work in a 'normal' brain?
+
+- The hemisphers communicate via the corpus callosum.
+- The left hemisphere is the key hemisphere in language processing and speech.
+
+---
+
+#### What do split-brain studies indicate about ...
+##### cognitive process of the brain?
+
+The research suggests that the hemispheres may have different specialisations.
+
+##### consciousness?
+
+The research suggests that consciousness may be the sum of the experiences from each hemisphere and not from one viewpoint.
+
+---
+
+A doctor injects a sedative drug into the artery leading to your left hemisphere just before a friend visits you in hospital.
+
+#### In what way(s) would you be able to greet your friend?
+
+You would be able to wave to them with your right arm and smile at them.
+
+#### What abilities normally used to greet someone would you be unable to use?
+
+You would find yourself unable to greet them verbally, as language processing and speech production would be impaired as a result of the left hemisphere being sedated.
+
 # Learning Activity 4.17
+
+#### Define the meaning of each of the following ethical principles or practices and explain their relevance in the conduct of psychological research on the brain:
+
+###### Protection and security of participant confidentiality
+
+Results and personal information of participant's must not be released by the researcher's under any circumstances.
+
+###### Voluntary participation
+
+Participants must not be placed under any pressure to involve themselves in a study and must be completely free to reject their place.
+
+###### Informed consent
+
+All participants involved in the research must fully understand the purpose and process of the research. Then, the participant or a suitable legal guardian, must give written consent to the researchers.
+
+###### Integrity
+
+Researchers conducting a study must be committed to performing ethically during all stages of the research.
+
+###### Respect for persons
+
+The researcher is responsible for showing that the welfare, beliefs and rights of the patient have all been respected by the study. This includes the right to withdraw from an experiment, the right to confidentiality, ensuring that the patient understands the experiment (informed consent) and the need for a unabridged debrief following the study.
+
+###### Beneficence
+
+The 'payoff' or benefits of research when compared to the possible harm or discomfort caused to patients must be maximized.
+
+###### Justice
+
+The researcher has a reponsiblity to ensure there is a fair distribution of the benefits and burdens of the research, i.e there is no disadvantaging of a specific population.
+
+---
+
+A researcher plans to conduct an EEG study on patterns of electrical activity in the brain that are associated with tasks involving thinking (e.g solving arithmetic and word problems) as compared with voluntary movements (e.g wiggling the toes, rotating the knee, walking on a treadmill). The research proposes to copmare responses of two groups of participants: people with brain damage to the left hemisphere and people with brain damage to the right hemisphere.
+
+All the brain-damaged participants have been used by the researcher as participants in two previous brain studies (unrelated to the proposed study) and are readily accessible because they reside in special-care accommodation close to the university where the researcher lectures on neuropsychology.
+
+The researcher does not expect any difficulties in obtaining informed consent from the participants' spouses and legal guardians. The researcher expects that the study will advance understanding of hemispheric functioning because the EEG has newly developed electrodes that are renowned for their exceptional sensitivity. The study also provides an opportunity to use the improved EEG technology and possibly refine the technique further.
+
+##### Analyse the ethical acceptability of the proposed study, with reference to each of the thical principles or practices considered above. Comment on whether the proposed study is ethically acceptable in relation to each ethical principle. Give reasons for your judgements.
+
+

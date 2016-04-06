@@ -333,6 +333,10 @@ There are also several physiological changes associated with states of conscious
 
 TODO
 
+### Tachistoscope
+
+A specialised projector used to project images on a screen for a precise period of time.
+
 ### Werenicke's area
 
-TODO
+Wernicke's area is the primary area for the cognition and understanding of language. Damage to Wernicke's area from for example a stroke may result in Wernicke's aphasia.
