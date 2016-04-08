@@ -111,15 +111,30 @@ For the purpose of studying and VCE the cerebral cortex is typically split up in
 
 ### Frontal lobe
 
+The frontal lobe is positioned just behind the forehead and is the largest by volume of the four lobes.
+
 #### Primary motor cortex
 
-- Controls the muscles
+The primary motor cortex is position towards the *back of the frontal lobe* adjacent to the parietal lobe. It is responsible for the communication and control of voluntary movements.
 
-#### Somatosensory cortex
+![Slice of the PMC](http://brainconnection.brainhq.com/wp-content/uploads/2013/03/1b.gif)
 
-- Deals with information concerning the senses
+Throughout the slice of the primary motor cortex, different area control different muscles in the body. Generally the larger the portion of the primary motor cortex devoted to a particular area, the greater the control of that muscle. For example the hands have a disproportionately large number of neurons, indicating very fine control.
+
+It's also notable that the lower a muscle is on the body, the higher up it is in the primary motor cortex.
+
+As with numerous other sections of the brain, the primary motor cortex is *contralaterally organised*, meaning the primary motor cortex in the left cerebral hemisphere controls the right side of the body and vice versa.
 
 #### Broca's area
+
+Broca's area, located slightly forward from the primary motor cortex, is responsible for *production of articulate speech* that is clear and fluent. Specifically, Broca's area has been identified as the major area for organising electrical signals for the control of the muscles around the face used while talking.
+
+For the purposes of VCE, Broca's area is only found in the *left cerebral hemisphere*.
+
+Aside from motor control of the mouth, Broca's area has also been linked to *understanding grammar* and sentence structure as well as syntactic elements such as conjunctions and prepositions.
+
+Damage to Broca's area from, for example a stroke, may lead to *Broca's aphasia*.
+
 ##### Broca's aphasia
 
 - Caused by damage to broca's area
@@ -131,6 +146,11 @@ For the purpose of studying and VCE the cerebral cortex is typically split up in
 - Simple words are much easier to say (e.g yes and no) as opposed to less used words
 
 ### Parietal lobe
+
+#### Somatosensory cortex
+
+- Deals with information concerning the senses
+
 ### Occipital lobe
 
 - The information from each retina gets split up sent to both hemispheres for processing.

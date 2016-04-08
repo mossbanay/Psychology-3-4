@@ -392,3 +392,10 @@ The researcher does not expect any difficulties in obtaining informed consent fr
 ##### Analyse the ethical acceptability of the proposed study, with reference to each of the thical principles or practices considered above. Comment on whether the proposed study is ethically acceptable in relation to each ethical principle. Give reasons for your judgements.
 
 
+- Protection and security of participant confidentiality
+- Voluntary participation
+- Informed consent is given by participants' spouses and legal guardians
+- Integrity
+- Respect for persons
+- The research provides an opportunity to improve the EEG technology, this shows a significant benefit of the research and beneficence
+- The participants have taken part in two previous studies, it may be more ethical to share the burden of the research with other participants. This would illustrate justice
