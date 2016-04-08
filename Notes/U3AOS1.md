@@ -115,7 +115,7 @@ The frontal lobe is positioned just behind the forehead and is the largest by vo
 
 #### Primary motor cortex
 
-The primary motor cortex is position towards the **back of the frontal lobe** adjacent to the parietal lobe. It is responsible for the communication and control of voluntary movements.
+The primary motor cortex (PMC) is position towards the **back of the frontal lobe** adjacent to the parietal lobe. It is responsible for the communication and control of voluntary movements.
 
 ![Slice of the PMC](http://brainconnection.brainhq.com/wp-content/uploads/2013/03/1b.gif)
 
@@ -133,23 +133,37 @@ For the purposes of VCE, Broca's area is only found in the **left cerebral hemis
 
 Aside from motor control of the mouth, Broca's area has also been linked to **understanding grammar** and sentence structure as well as syntactic elements such as conjunctions and prepositions.
 
-Damage to Broca's area from, for example a stroke, may lead to **Broca's aphasia**.
-
 ##### Broca's aphasia
 
-- Caused by damage to broca's area
-- Characterised by the impediment of production of speech
-  * Speech lacks grammar
-  * Predominantly nouns and verbs
-- Comprehension can be impaired in some cases
-- Affects ability with written grammar
-- Simple words are much easier to say (e.g yes and no) as opposed to less used words
+Damage to Broca's area from, for example a stroke, may lead to **Broca's aphasia**. Broca's aphasia is characterised by the **impediment of the production of speech**. Speech will typically lack grammar and predominantly consist of **nouns and verbs**. In some cases comprehension can be impaired, and the condition also affects the ability to understand written grammar.
+
+**Simple words** (that have had repeated stimulation before damage to Broca's area) are much easier to say (e.g yes and no) as opposed to less used words (which have not had as much repeated stimulation through those pathways).
+
+#### Association areas
+
+Typically the frontal lobe is associated with higher order operations and **complex mental functions**. This includes planning, decision making, problem solving and conscious movement.
+
+Other functions of the frontal lobe include **attention, personality and mood, control of emotion** and expression of emotional behaviour. Some of this and particularly mood is a result of the high concerntration of dopamine sensitive neurons, which are key neurotransmitters for reward, attention and short-term memory.
 
 ### Parietal lobe
 
-#### Somatosensory cortex
+The parietal lobe is located behind the frontal lobe and above the occipital lobe, at the top of the skull.
 
-- Deals with information concerning the senses
+#### Primary somatosensory cortex
+
+Located in the postcentral gyrus, the primary somatosensory cortex is the key processing area for sensation and tactile perception. This areas control is **contralateral**.
+
+![A cortical sensory homunculus](https://upload.wikimedia.org/wikipedia/commons/c/c4/1421_Sensory_Homunculus.jpg)
+
+In a similar way to the primary motor cortex, neurons along the primary somatosensory cortex correspond to parts of the body with the lower body parts at the top of the cortical tissue and vice versa.
+
+The size of cortical area devoted to a particular body part is roughly proportionate to the density of nerves in that body part.
+
+#### Association areas
+
+The association areas and general functions of the parietal lobe include **perception of our position in space** (after inclusion of information from the PMC and PAC), **visual attention and spatial reasoning** (estimation of distance from objects).
+
+Typically spatial reasoning only occurs on the right pareital lobe, as a result of damage to right pareital lobe, severe impairment of spatial reasoning can lead to **spatial neglect**.
 
 ### Occipital lobe
 
