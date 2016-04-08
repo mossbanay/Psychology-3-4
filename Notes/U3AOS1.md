@@ -115,7 +115,7 @@ The frontal lobe is positioned just behind the forehead and is the largest by vo
 
 #### Primary motor cortex
 
-The primary motor cortex is position towards the _back of the frontal lobe_ adjacent to the parietal lobe. It is responsible for the communication and control of voluntary movements.
+The primary motor cortex is position towards the **back of the frontal lobe** adjacent to the parietal lobe. It is responsible for the communication and control of voluntary movements.
 
 ![Slice of the PMC](http://brainconnection.brainhq.com/wp-content/uploads/2013/03/1b.gif)
 
@@ -123,17 +123,17 @@ Throughout the slice of the primary motor cortex, different area control differe
 
 It's also notable that the lower a muscle is on the body, the higher up it is in the primary motor cortex.
 
-As with numerous other sections of the brain, the primary motor cortex is _contralaterally organised_, meaning the primary motor cortex in the left cerebral hemisphere controls the right side of the body and vice versa.
+As with numerous other sections of the brain, the primary motor cortex is **contralaterally organised**, meaning the primary motor cortex in the left cerebral hemisphere controls the right side of the body and vice versa.
 
 #### Broca's area
 
-Broca's area, located slightly forward from the primary motor cortex, is responsible for _production of articulate speech_ that is clear and fluent. Specifically, Broca's area has been identified as the major area for organising electrical signals for the control of the muscles around the face used while talking.
+Broca's area, located slightly forward from the primary motor cortex, is responsible for **production of articulate speech** that is clear and fluent. Specifically, Broca's area has been identified as the major area for organising electrical signals for the control of the muscles around the face used while talking.
 
-For the purposes of VCE, Broca's area is only found in the _left cerebral hemisphere_.
+For the purposes of VCE, Broca's area is only found in the **left cerebral hemisphere**.
 
-Aside from motor control of the mouth, Broca's area has also been linked to _understanding grammar_ and sentence structure as well as syntactic elements such as conjunctions and prepositions.
+Aside from motor control of the mouth, Broca's area has also been linked to **understanding grammar** and sentence structure as well as syntactic elements such as conjunctions and prepositions.
 
-Damage to Broca's area from, for example a stroke, may lead to _Broca's aphasia_.
+Damage to Broca's area from, for example a stroke, may lead to **Broca's aphasia**.
 
 ##### Broca's aphasia
 
