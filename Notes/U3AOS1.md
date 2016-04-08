@@ -153,7 +153,7 @@ The parietal lobe is located behind the frontal lobe and above the occipital lob
 
 Located in the postcentral gyrus, the primary somatosensory cortex is the key processing area for sensation and tactile perception. This areas control is **contralateral**.
 
-![A cortical sensory homunculus](https://upload.wikimedia.org/wikipedia/commons/c/c4/1421_Sensory_Homunculus.jpg)
+![A cortical sensory homunculus](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/1421_Sensory_Homunculus.jpg/482px-1421_Sensory_Homunculus.jpg)
 
 In a similar way to the primary motor cortex, neurons along the primary somatosensory cortex correspond to parts of the body with the lower body parts at the top of the cortical tissue and vice versa.
 
