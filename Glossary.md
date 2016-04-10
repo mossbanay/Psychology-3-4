@@ -31,6 +31,11 @@ The autonomic nervous system functions at all times, even while asleep.
 
 Automatic processes are processes that can be completed with divided attention. They generally do not require significant cognitive effort.
 
+### Broca's aphasia
+##### Also known as non-fluent aphasia
+
+A condition in which language production is severely impaired as a result to damage of Broca's area (usually by a stroke).
+
 ### Broca's area
 
 A small area in the frontal lobe which is reasonable for coordinating the muscles needed speech production. Damage to Broca's area results in Broca's aphasia (also known as expressive aphasia). Broca's area is found in th e left hemisphere for 95% of patients.
@@ -47,6 +52,10 @@ Examples include:
 ##### Also known as CNS
 
 The CNS is constructed from the brain and the spinal cord. It transmits messages to and from the peripheral nervous system via the spinal cord.
+
+### Central sulcus
+
+The prominent fold between the frontal and parietal lobe as well as the primary motor cortex from the primary somatosensory cortex.
 
 ### Cerebral cortex
 
@@ -336,6 +345,11 @@ TODO
 ### Tachistoscope
 
 A specialised projector used to project images on a screen for a precise period of time.
+
+### Werenicke's aphasia
+##### Also known as fluent aphasia
+
+A condition in which comprehension of language is severely impaired as a result to damage of Werenicke's area (usually by a stroke).
 
 ### Werenicke's area
 

@@ -163,7 +163,49 @@ The size of cortical area devoted to a particular body part is roughly proportio
 
 The association areas and general functions of the parietal lobe include **perception of our position in space** (after inclusion of information from the PMC and PAC), **visual attention and spatial reasoning** (estimation of distance from objects).
 
-Typically spatial reasoning only occurs on the right pareital lobe, as a result of damage to right pareital lobe, severe impairment of spatial reasoning can lead to **spatial neglect**.
+Typically spatial reasoning only occurs on the right parietal lobe, as a result of damage to right parietal lobe, severe impairment of spatial reasoning can lead to **spatial neglect**.
+
+### Temporal lobe
+
+The temporal lobe is located below the parietal lobe and forward of the occipital lobe. It primarily functions as an area for **auditory perception**, but also as a result of including the **hippocampus** plays an important role in aspects of visual perception. The temporal lobe is also crucial for **understanding spoken and written material**.
+
+- Emotional aspects of memory
+- Aspects of visual perception such as ability to identify objects and recognise faces
+- Emotional processing
+
+#### Primary auditory cortex
+
+![Brodman areas 41 & 42 of the human brain](https://upload.wikimedia.org/wikipedia/commons/8/81/Brodmann_41_42.png)
+
+Just below the central sulcus (intersection between the frontal and parietal lobe) and forward of Wernicke's area is the primary auditory cortex (PAC). The primary auditory cortex's main role is **receive amplify and interpret sounds** from both ears.
+
+Within the PAC are **feature detectors** which are specialised to specific frequencies (pitch) and amplitudes (volume). These feature detectors are present in different areas of the PAC.
+
+In the PAC, the hemispheres both tend to process different types of sounds. **Verbal sounds** are primarily processed in the **left hemisphere** while **non-verbal** sounds are primarily processed in the **right hemisphere**. However, there tends to be more overlap between hemispheres when processing non-verbal sounds.
+
+#### Werenicke's area
+
+Wernicke's area, located in the **left temporal lobe** under the primary auditory cortex, is the key area in which **comprehension of language interpretation** occurs (both spoken and written).
+
+Speech from patients with Wernicke's aphasia grammatically correct just is meaningful and lacks any proper sense.
+
+Damage to Werenicke's area can result in impediment in speech and listening skills, specifically Wernicke's aphasia (also known as fluent aphasia). Patients with Wernicke's aphasia will often find themselves confused when trying to understand what other people are saying and will often speak gibberish.
+
+#### Hippocampus
+
+![A view of the hippocampus](https://upload.wikimedia.org/wikipedia/commons/f/ff/Hippocampus_small.gif)
+
+The hippocampus' main attributed role is in memory.
+
+#### Amygdala
+
+![A view of the Amygdala](https://sccpsy101.files.wordpress.com/2011/06/amygdala.gif)
+
+#### Association areas
+
+- What things are, object, face recognition
+- Determining appropriate responses to stimuli
+- Episodic memory
 
 ### Occipital lobe
 
@@ -178,32 +220,6 @@ Typically spatial reasoning only occurs on the right pareital lobe, as a result 
 - Interact with primary visual cortex
 - Causes issues when audio is out of sync with visuals
 - *Integrate* visual information with other information such as memory, language and sounds
-
-### Temporal lobe
-
-- Memory
-- Aspects of visual perception such as ability to identify objects and recognise faces
-- Emotional processing
-
-#### Hippocampus
-#### Amygdala
-#### Primary auditory cortex
-
-- RAI sounds from both ears
-- Verbal sounds are primarlly processed in the left hemisphere
-- Non-verbal sounds are primarlly processed in the right hemisphere
-
-#### Association areas
-
-- What things are, object, face recognition
-- Determining appropriate responses to stimuli
-- Episodic memory
-
-#### Werenicke's area
-
-- In 90% of people, Werenicke's area and Broca's area are both in the left hemisphere
-- Responsible for attaching meaning to what you hear and say (comprehension)
-- Damage to Werenicke's area can result in impediment in speech and listening skills
 
 ---
 
