@@ -246,8 +246,17 @@ Agenesis of the corpus callosum
 | Patient awareness | Patient is aware of condition | Patient is not aware of condition |
 | Understanding of spoken/written word | Acceptable | Difficulty with both |
 
+---
 
 ### Split brain studies
+
+#### Why complete split brain studies?
+
+Historically, split brain studies were used in order to treat epilepsy. During an epileptic seizure, random electrical pulses fire throughout the brain. Neurologists were able to limit this electrical interference in severe cases by severing the corpus callosum so as to *cage* the electrical noise in one hemisphere of the brain.
+
+#### What has been learnt from split-brain studies?
+
+It was observed that strange changes occured in the cognition of patients that had a *split-brain*. Research completed by *Roger Sperry* suggested that visual information was organised in a contralateral fashion. It was also noted that during an experiment in which patients could not name objects, they could identify them by touch.
 
 ### Hemispheric specialisation
 #### Left hemisphere
