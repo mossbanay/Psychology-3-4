@@ -195,35 +195,37 @@ Damage to Werenicke's area can result in impediment in speech and listening skil
 
 ![A view of the hippocampus](https://upload.wikimedia.org/wikipedia/commons/f/ff/Hippocampus_small.gif)
 
-The hippocampus' main attributed role is in memory.
+The hippocampus' main attributed role is aiding in the consolidation and retrieval of memory.
 
 #### Amygdala
 
 ![A view of the Amygdala](https://sccpsy101.files.wordpress.com/2011/06/amygdala.gif)
 
+The amygdala is responsible in aiding the regulation of mood.
+
 #### Association areas
 
-- What things are, object, face recognition
-- Determining appropriate responses to stimuli
-- Episodic memory
+The temporal lobe is heavily responsible for memory related functions. This includes **semantic, procedural and episodic memory**. Also related to memory, the temporal lobe aids in **identification and recognition of objects and faces.**
+
+Determining appropriate **emotional responses to stimuli** from sensory information and memories is another function of the temporal lobe.
 
 ### Occipital lobe
 
-- The information from each retina gets split up sent to both hemispheres for processing.
+The occipital lobe is positioned at the very back of the cerebral cortex. While the occipital lobe is almost exclusively committed to sight, other areas like the temporal and parietal lobes also play a part in visual perception.
 
 #### Primary visual cortex
 
-- Feature detector cells
+The primary visual cortex (PVC) is the key area in the **processing and recognition of features in vision.** Information from each retina is split up and sent to both hemispheres for processing. Vision from the right visual field (right side of each retina) is sent to the left hemisphere and vice versa **(contralateral organisation).**
+
+Another key feature of the primary visual cortex are **feature detector cells**. These specialised cells spot out specific shapes and textures from the visual field such and corners and lines.
 
 #### Association area
 
-- Interact with primary visual cortex
-- Causes issues when audio is out of sync with visuals
-- *Integrate* visual information with other information such as memory, language and sounds
+Interaction with primary visual cortex to **select, organise and integrate visual information** occurs throughout the association areas. Interaction with other lobes also occurs to ensure that visual information is **integrated with the sound, memory and language.**
 
 ---
 
-#### Corpus callosum
+### Corpus callosum
 
 The thick band/bridge of nerve tissue that connects the two hemispheres
 
