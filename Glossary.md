@@ -315,6 +315,11 @@ The somatic nervous system is a subsystem of the peripheral nervous system that 
 
 Spatial Neglect is an attentional disorder in which the person affected systematically ignores stimuli on one side. This condition is usually a result of damage to the right parietal lobe.
 
+### Split-brain surgery
+##### Also known as commissurotomy
+
+A surgery in which the corpus callosum is severed, effectively seperating the two cerebral hemispheres.
+
 ### State of consciousness
 ##### See also consciousness
 

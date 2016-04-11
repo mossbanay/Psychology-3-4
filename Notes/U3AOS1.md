@@ -279,3 +279,70 @@ It was observed that strange changes occured in the cognition of patients that h
 Example question: Name one specialiation of the left hemisphere of the brain.
 → Controlling the movements and receiving the sensations from the right side of the body.
 → This is the *least* controversial answer, and therefore the hardest to argue against.
+
+---
+
+## Nervous system
+
+![A summary of the composition of the nervous system](http://phoenixrising.me/wp-content/uploads/the-autonomic-nervous-system.jpg)
+
+### The central nervous system
+
+Composed by the spinal cord and the brain, the central nervous system (CNS) is the system that allows responses to external events and general control of the body.
+
+#### Spinal cord
+
+The spinal cord's main function is to communication messages between the *peripheral nervous system* and the brain.
+
+Through the spine, a column of nerve fibers extends through the vertebrae. **Efferent fibers carry motor information** while **afferent fibers carry sensory information.**
+
+The spinal cord is also able to respond to sensation without the need of processing in the brain. These actions are called **reflex responses.** Examples of reflex responses are the breathing, the knee jerk response, or any response made to painful sensory input.
+
+### Peripheral nervous system
+
+The peripehral nervous system (PNS) is composed of two branches. The somatic nervous system and the autonomic nervous system.
+
+#### Somatic nervous system
+
+The somatic nervous system is a subdivision of the PNS. The PNS carries motor information from the CNS to muscles, organs and other parts of the body as well as sensory information to the CNS.
+
+The pathways these messages are carried along while physically close are seperate. Motor information is carried along efferent neurons while sensory information is carried along afferent neurons. Both of these pathways run through the spinal cord. These pathways tend to be further broken down into specific groups such as being related to touch or smell.
+
+The somatic nervous system is responsible for the **control of any conscious movement.** This includes anything form running a 100m sprint to turning the page of a book. These actions are created and sent out from the primary motor cortex in the frontal lobe of the brain.
+
+Anything you feel is generally a result of the somatic nervous system as well. The sensation of warmth in your hands when sitting by a fire is communicated from your hands via afferent neurons to the primary somatosensory cortex in the parietal lobe of the brain.
+
+#### Autonomic nervous system
+
+While the somatic nervous system tends to be associated with functions that you are immediately aware of, the autonomic nervous system as its name suggests, controls bodily functions that are not conscious. The autonomic nervous system has two components, the sympathetic nervous system and parasympathetic nervous system.
+
+##### Sympathetic nervous system
+
+
+##### Parasympathetic nervous system
+
+While the sympathetic nervous system is concerned with controlling the body in dangerous or survival situations, the parasympathetic nervous system **controls the body under regular conditions.** It's actions tend to undo the actions of the sympathetic nervous, this includes contraction of the pupils, increased salivation and slowing down heartrate.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
