@@ -361,6 +361,7 @@ The general role of the parasympathetic nervous system is to bring the body to h
 #### Hemispheres of the brain
 
 | Left hemisphere | Right hemisphere |
+| --- | --- |
 | Receives, analyses and interprets sensation from the right side of the body | Receives, analyses and interprets sensation from the left side of the body |
 | Controls voluntary movements for skeletal muscles on the right side of the body | Controls voluntary movements for skeletal muscles on the left side of the body |
 | Verbal functions such as comprehension and production of meaningful language, reading, writing | Spatial perception and visual thinking |
