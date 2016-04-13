@@ -133,6 +133,8 @@ For the purposes of VCE, Broca's area is only found in the **left cerebral hemis
 
 Aside from motor control of the mouth, Broca's area has also been linked to **understanding grammar** and sentence structure as well as syntactic elements such as conjunctions and prepositions.
 
+Stores articulation codes for speech.
+
 ##### Broca's aphasia
 
 Damage to Broca's area from, for example a stroke, may lead to **Broca's aphasia**. Broca's aphasia is characterised by the **impediment of the production of speech**. Speech will typically lack grammar and predominantly consist of **nouns and verbs**. In some cases comprehension can be impaired, and the condition also affects the ability to understand written grammar.
@@ -191,6 +193,8 @@ Speech from patients with Wernicke's aphasia grammatically correct just is meani
 
 Damage to Werenicke's area can result in impediment in speech and listening skills, specifically Wernicke's aphasia (also known as fluent aphasia). Patients with Wernicke's aphasia will often find themselves confused when trying to understand what other people are saying and will often speak gibberish.
 
+Wernicke's aphasia also impedes on the ability for an individual to add meaning to their own speech.
+
 #### Hippocampus
 
 ![A view of the hippocampus](https://upload.wikimedia.org/wikipedia/commons/f/ff/Hippocampus_small.gif)
@@ -245,6 +249,9 @@ Agenesis of the corpus callosum
 | Meaningfulness of speech | Meaningful | Characeristically incoherent |
 | Patient awareness | Patient is aware of condition | Patient is not aware of condition |
 | Understanding of spoken/written word | Acceptable | Difficulty with both |
+| Location of brain damage | Left hemisphere near the motor cortex | Left hemisphere near the parietal lobe |
+| Fluency | Non-fluent, slow, deliberate and effortful | Very fluent but makes no sense |
+| Repetition of words | Moderate to severe | Mild to moderate |
 
 ---
 
@@ -318,31 +325,24 @@ While the somatic nervous system tends to be associated with functions that you 
 
 ##### Sympathetic nervous system
 
+The sympathetic nervous system is the nervous system that is utilised when responding to threatening situations. The purpose of this system is to prepare the body to either fight the threat or flee, or **vigorous activity**.
 
 ##### Parasympathetic nervous system
 
 While the sympathetic nervous system is concerned with controlling the body in dangerous or survival situations, the parasympathetic nervous system **controls the body under regular conditions.** It's actions tend to undo the actions of the sympathetic nervous, this includes contraction of the pupils, increased salivation and slowing down heartrate.
 
+The general role of the parasympathetic nervous system is to bring the body to homeostasis and keep it there. **Homeostasis** is the ability of the body to maintain a stable psychological environment. This is acheived by keeping certain biological variables within a narrow range called **set points.** Examples of set points include heart rate, blood pressure and body temperature.
 
+##### Comparison of actions made by the parasympathetic and sympathetic nervous systems
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| Body part | Function | Sympathetic action | Parasympathetic action |
+| --- | --- | --- | --- |
+| Adrenal glands | Secretes epinephrine and norepinephrine from the medulla | Increased secretion | Decreased secretion |
+| Pupils | Regulate the amount of light entering the eye | Dilation | Contraction |
+| Heart | Pump blood around the body | Increased HR | Decreased HR |
+| Bronchioles of lungs | Allow diffusion of oxygen into blood | Dilation | Contraction |
+| Liver | Regulates blood sugar | Increased blood sugar | Decreased blood sugar |
+| Liver | Produces bile to aid digestion | Decreased bile production | Increased bile production |
+| Sweat glands | Regulate temperature | Increased perspiration | Decreased perspiration |
+| Genitals | Reproduction | Excitement | Relaxation |
+| Salivary glands | Digestion | Decreased salivation | Increased salivation |
