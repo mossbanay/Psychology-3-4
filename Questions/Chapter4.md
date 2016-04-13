@@ -147,12 +147,12 @@ Each of the hemispheres of the cerebral cortex have a number of tasks that the m
 
 ---
 
-| | Left hemisphere | Right hemisphere |
+| --- | Left hemisphere | Right hemisphere |
 | Cognitive functions | Processes sensory information from right side of the body | Processes sensory information from left side of the body |
-| Behavioural functions | Controls right side of the body | Controls left side of the body |
-| Non-verbal functions | | Specialisation in skills that do not require language, e.g spatial thinking, recognition of faces, appreciating music and art, creative thinking, daydreaming, processing facial expressions |
-| Verbal functions | Broca's area, Wernicke's area | |
-| Analytical functions | Specialisation in breaking tasks down into key parts, logical reasoning, maths, sequential tasks | |
+| Behavioural functions | Controls right side of the body | Controls left side of the body | --- |
+| Non-verbal functions | --- | Specialisation in skills that do not require language, e.g spatial thinking, recognition of faces, appreciating music and art, creative thinking, daydreaming, processing facial expressions |
+| Verbal functions | Broca's area, Wernicke's area | --- |
+| Analytical functions | Specialisation in breaking tasks down into key parts, logical reasoning, maths, sequential tasks | --- |
 
 ---
 
