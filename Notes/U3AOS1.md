@@ -346,3 +346,23 @@ The general role of the parasympathetic nervous system is to bring the body to h
 | Sweat glands | Regulate temperature | Increased perspiration | Decreased perspiration |
 | Genitals | Reproduction | Excitement | Relaxation |
 | Salivary glands | Digestion | Decreased salivation | Increased salivation |
+
+### General functions of areas
+
+#### Cerebral lobes
+
+| Lobe | Roles |
+| --- | --- |
+| Frontal lobe | Conscious movement, roblem solving, planning, personality, production of articulate speech |
+| Parietal lobe | Sensation of pain, pressure, touch, spatial reasoning, visual perception and recognition |
+| Occipital lobe | Processing of visual information, movement and colour recognition |
+| Temporal lobe | Responsible for the consilidation of memory, interpretation of smells and sounds |
+
+#### Hemispheres of the brain
+
+| Left hemisphere | Right hemisphere |
+| Receives, analyses and interprets sensation from the right side of the body | Receives, analyses and interprets sensation from the left side of the body |
+| Controls voluntary movements for skeletal muscles on the right side of the body | Controls voluntary movements for skeletal muscles on the left side of the body |
+| Verbal functions such as comprehension and production of meaningful language, reading, writing | Spatial perception and visual thinking |
+| Analysis and analytic functions, planning, problem solving | Appreciation of art and music (Non-verbal) |
+| Logical reasoning | Recognition of emotion and body language |
