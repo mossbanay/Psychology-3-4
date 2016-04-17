@@ -2,11 +2,11 @@
 
 #### What is the central nervous system?
 
-The CNS consists of the brain and the spinal cord.
+The CNS is a branch of the human nervous system that consists of the brain and the spinal cord.
 
 #### What are its main roles in mental processes and behaviour?
 
-The CNS is the chief officer of the body's functions. It constantly regulates heartrate, breathing, digestion but also is responsible for perceiving information from the sense (sent from the peripheral nervous system via the spinal cord) and responding to those inputs by sending back motor signals for muscles.
+The CNS is the chief officer of the body's functions. It is most important in the processing and coordination of biological inputs to produce behaviour and thought. It then communicates these messages and receives back sensory input from the body via the peripheral nervous system.
 
 ---
 
@@ -16,7 +16,7 @@ The cerebral cortex provides most of the functionality for higher-order thinking
 
 #### Where is the cerebral cortex located?
 
-The cerebral cortex is located in the 2-4mm thick convoluted and folding layer around the outside of the brain.
+The cerebral cortex is located in the 2-4mm thick convoluted and folding layer around the outside of the cerebrum.
 
 #### Of what does the cerebral cortex mainly consist?
 
@@ -24,9 +24,9 @@ Neurons
 
 #### Name the three different categories of cortical areas and briefly describe the functions performed by each of these areas.
 
-The motor cortex
-The visual cortex
-The auditory cortex
+- The motor cortex - receives, processes and transmits messages of voluntarily movements to skeletal muscles.
+- The sensory cortex - receives, processes and organises visual information from the eyes
+- The association cortex - integrates information from sensory and motor areas to allow for more complex mental abilities such as planning and problem-solving.
 
 #### Describe the relationship between the size of the cerebral cortex and the mental capabilities of an organism.
 
@@ -42,6 +42,8 @@ The cerebral hemisphere are the two nearly identical halves of the brain, sepera
 
 Each of the hemispheres contains a motor, visual and auditory cortex. The locations of these corticies are also mirrored in the hemispheres. Both hemispheres also receive information from the opposing side of the body.
 
+Other similarities include the physiological dimensions (i.e size, shape) and hemispheric specialisations.
+
 ---
 
 #### Name the deep groove that appears to seperate the hemispheres.
@@ -56,17 +58,19 @@ The corpus callosum is a bundle of nerve tissue that connects the left and right
 
 #### Where is the corpus callosum located?
 
-Along the longitudinal fissure below the frontal lobe. (?)
+Deep in the brain towards the bottom of the cerebral hemispheres.
 
 #### What key function is performed by the corpus callosum?
 
-The corpus callosum is the major interconnect between the two cerebral hemispheres and relays information from one side of the brain to the other.
+The corpus callosum is the major neural pathway between the two cerebral hemispheres and relays information from one cerebral hemisphere to the other.
 
 ---
 
 #### Suggest the possible impact on mental processes and behaviour if the corpus callosum were to be cut in tow and it was no longer an intact 'bridge'. Explain your answer.
 
-Without the corpus callosum, the two cerebral hemispheres would be unable to properly communicate. As a result, functioning that requires information from both hemispheres would be unable to occur. This includes but is not limited to coordination in visual processing, some perceptions, and impaired motor control.
+Without the corpus callousm, major disruption of communication between the cerebral hemispheres occurs. This impedes of the ability of the cerebral hemispheres to communicate, leading to difficult in exchange of information.
+
+In cases where patients have had their corpus callosum severed, such as after split-brain surgery to treat epilepsy, patients observing objects in their left visual field, are unable to pronounce or describe the object. This is due to the limited language functions of the right hemisphere and the inability of exchange of information between the left and right hemispheres.
 
 # Learning Activity 4.6
 
@@ -83,14 +87,16 @@ Completed on paper
 
 - Broca's area
   * Responsible for the production of speech
+  * Plays a minor role in comprehension of speech
   * Found in the left hemisphere for 95% of patients
   * Damage to this area leads to difficulty in forming grammarical structure (Broca's aphasia)
-  * Comprehension and understanding of words remains unaffected when damaged
+    * Comprehension and understanding of words remains unaffected when damaged
 
 - Association areas
   * Prefrontal cortex
   * Receives and combines information from within the frontal lobe and other lobes to plan and execute more complex tasks
   * Control of emotion, expression of emotion
+  * Attention, personality
 
 ##### Parietal lobe
 - Primary somatosensory cortex
@@ -98,7 +104,8 @@ Completed on paper
   * Somatosensory information includes touch, temperature, pressure on the skin, position of muscles
 
 - Association areas
-  * Ability to sense our bodys position in space by combining information about the position of muscles and joints and information from the primary visual cortex
+  * Ability to sense our bodys position in space by combining information about the position of muscles and joints with visual and auditory information from other lobes
+  * Attention, spatial reasoning (primarily right parietal lobe)
 
 ##### Temporal lobe
 - Primary auditory cortex
@@ -108,28 +115,31 @@ Completed on paper
 - Medial temporal lobe
   * Contains the hippocampus and amygdala
   * Crucial for long-term memory formation
-
 - Wernicke's area
   * Located just above the primary auditory cortex usually in the left hemisphere
+  * Plays a minor role in production of speech
   * Required in order to process auditory cues of language (i.e speech)
   * Damage to this area leads to difficulty in forming coherency in speech, although words themselves are still clear (Wernicke's aphasia or fluent aphasia)
-  * Pitch, tone and rate of speech still sound normal
-  * Key content is left out and instead substituted with nonsense
+    * Pitch, tone and rate of speech still sound normal
+    * Key content is left out and instead substituted with nonsense
 
 - Association areas
   * Receiving, processing and storing memories of facts (semantic memories)
   * Personal experiences such as a party or birthday (episodic memories)
-  * Visual perception, e.g identifying shapes and objects
+  * Visual perception, e.g identifying shapes, objects, faces
+  * Link memory to emotion
 
 ##### Occipital lobe
 - Primary visual cortex
   * Responsible for the processing of visual information sent from photoreceptors in the eyes
   * Located at the very back of the occipital lobe
-  * The left visual field is processed in the right occipital lobe and vice versa
+  * The left visual field is processed in the right occipital lobe and vice versa (contralateral organisation)
+  * Feature detection of shapes, patterns and textures
 
 - Association areas
   * Communication with other areas to form visual memories, process writing
   * Essential for spacial reasoning
+  * Interact with visual cortext to **select, organise and integrate** visual information with memory, language, sounds
 
 ---
 
@@ -153,11 +163,11 @@ Each of the hemispheres of the cerebral cortex have a number of tasks that the m
 
 | Type of function | Left hemisphere | Right hemisphere |
 | --- | --- | --- |
-| Cognitive functions | Processes sensory information from right side of the body | Processes sensory information from left side of the body |
-| Behavioural functions | Controls right side of the body | Controls left side of the body |
-| Non-verbal functions | --- | Specialisation in skills that do not require language, e.g spatial thinking, recognition of faces, appreciating music and art, creative thinking, daydreaming, processing facial expressions |
-| Verbal functions | Broca's area, Wernicke's area | --- |
-| Analytical functions | Specialisation in breaking tasks down into key parts, logical reasoning, maths, sequential tasks | --- |
+| Cognitive functions | Logical reasoning, verbal and analytical functions | Holistic information processing, non-verbal functions |
+| Behavioural functions | Controls voluntary movements on right side of the body | Controls voluntary movements on left side of the body |
+| Non-verbal functions | Receive and process sensation from right side of body | Receive and process sensation from right side of body; specialisation in skills that do not require language, e.g spatial thinking, recognition of faces, appreciation of music and art, creative thinking, daydreaming |
+| Verbal functions | Language production and comprehension | |
+| Analytical functions | Specialisation in breaking tasks down into key parts, logical reasoning, maths, sequential tasks | |
 
 ---
 
@@ -171,6 +181,7 @@ Each of the hemispheres of the cerebral cortex have a number of tasks that the m
   * Giving someone the correct change for their purchases
   * Working out when you have to get up in the morning to get to school on time
   * Raising your right hand to answer a question in class
+  * Playing scrabble on an iPad
 
 - Right hemisphere
   * Appreciating the beauty of a forest
@@ -181,10 +192,7 @@ Each of the hemispheres of the cerebral cortex have a number of tasks that the m
   * Working out the meaning of a grin on someone's face
   * Arranging a bouquet of flowers
   * Recognising classmates from an old class photo
-
-- Not sure
   * Playing golf on a Wii
-  * Playing scrabble on an iPad
   * Playing Angry Birds on a phone
 
 #### A friend tells you about an internet test that determines hemispheric dominance of the test-taker. The test seems very formal and involves a mixture of verbal and non-verbal tasks. Your friend has performed the test and one of the results indicated that they have no musical ability because of their dominant left hemisphere. List three key arguments that could be used to dispute this result.
