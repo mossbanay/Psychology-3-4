@@ -205,7 +205,9 @@ The hippocampus' main attributed role is aiding in the consolidation and retriev
 
 ![A view of the Amygdala](https://sccpsy101.files.wordpress.com/2011/06/amygdala.gif)
 
-The amygdala is responsible in aiding the regulation of mood.
+The amygdala is responsible in aiding the regulation of mood. It's studied role is concerning reactions to fear, as fear requires an immediate response as opposed to other emotions which can be put off.
+
+The amygdala integrates sensory information from the PVC, PAC and PSC, and gives outputs to other systems like the sympathetic nervous system in instances of fear, to highten heartrate, blood pressure and other factors.
 
 #### Association areas
 
@@ -241,7 +243,7 @@ Agenesis of the corpus callosum
 
 #### Broca's aphasia vs. Werenicke's aphasia
 
-| --- | Broca's aphasia | Werenicke's aphasia |
+| | Broca's aphasia | Werenicke's aphasia |
 | --- | --- | --- |
 | Sentence structure | Mainly verbs and nouns | Mostly function words |
 | Example of sentence | "Catch train home now" | "I called mother on the TV and did not understand the door" |
@@ -252,6 +254,7 @@ Agenesis of the corpus callosum
 | Location of brain damage | Left hemisphere near the motor cortex | Left hemisphere near the parietal lobe |
 | Fluency | Non-fluent, slow, deliberate and effortful | Very fluent but makes no sense |
 | Repetition of words | Moderate to severe | Mild to moderate |
+| Grammar | Difficulty understanding and using grammar | Intact |
 
 ---
 

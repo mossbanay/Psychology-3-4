@@ -68,6 +68,10 @@ The corpus callosum is the major interconnect between the two cerebral hemispher
 
 Without the corpus callosum, the two cerebral hemispheres would be unable to properly communicate. As a result, functioning that requires information from both hemispheres would be unable to occur. This includes but is not limited to coordination in visual processing, some perceptions, and impaired motor control.
 
+# Learning Activity 4.6
+
+Completed on paper
+
 # Learning Activity 4.7
 
 ##### Construct a table that summarises the major functions of each lobe. Ensure that you name the main structures and areas, and include key functions of relevant sensory, motor, association and language areas.
