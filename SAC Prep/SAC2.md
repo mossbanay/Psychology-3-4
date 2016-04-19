@@ -83,4 +83,58 @@ Poster 2 is a picture of a brain with empty boxes in specific places. Each box r
 
 ##### Name: Broca’s Area
 ###### Role 1: Stores articulation codes for speech
-###### Role 2: 
+###### Role 2: Plays a minor role in comprehension of speech
+
+---
+
+#### Scenario 1 (adapted from VCAA exam 2 2005)
+
+Rhonda believes that acting out a passage from a novel is a better method for learning the passage than simply reading and repeating it to oneself. She thinks this would be true for all VCE students in Victoria.
+
+To test her idea, Rhonda uses two Year 12 Psychology classes at her all-girls school. Forty-six students are randomly assigned to one of two groups. One group acts out the passage in front of the rest of the class. The other group is given the passage and told to read and repeat it quietly to themselves.
+
+Each praticipant then sists a comprehensive test and Rhonda marks and records the number of correct answers. The results are as follows:
+
+- Group 1 (acting out the passage): Mean test score = 80%
+- Group 2 (reading and repeating the passage to oneself): Mean test score = 70%
+
+A statistical test on these results found that p > 0.05. The acceptable p value limit is p ≤ 0.05
+
+##### What conclusion can be drawn from the descriptive statistics that Rhonda provided?
+
+Participants in group 1 scored higher on average than participants in group 2 (70% vs 80%). It can be concluded that acting out the passage is more beneficial that reading and repeating the passage to oneself.
+
+**Example soln**
+
+#### Scenario 2 (adapted from VCAA exam 2 2006)
+
+Previous research has shown that listening to certain types of classical music (for example, a Mozart concerto) may increase performance on spatial-temporal tasks for a short period of time. However, this research has been disputed.
+
+Professor Williams aims to investigate the effect of classical music on a spatial-temporal task that involves paper folding and cutting. He plans to findout if the effect exists for VCE students at Lake Hilltop Secondary College, a coeducational country school.
+
+Professor Williams recruits participants who are studying VCE at the school. He asks the first 40 students that visit the library to participate. All 40 students provide signed informed consent.
+
+The participants sit quietly for 20 minutes and then attempt the first paper folding and cutting test (Condition 1). The same participants then listen to classical music for the next 20 minutes. Immediately afterwards they complete a similar paper folding and cutting test (Condition 2).
+
+Professor Williams asks a teacher, who does not know which test relates to which condition, to mark the tests. The results are as follows:
+
+- Condition 1 (control): Mean test score = 8
+- Condition 2 (listening to classical music): Mean test score = 12
+
+A statistical test on these results found that p < 0.05. The acceptable p value limit p ≤ 0.05
+
+##### What conclusion can be made about the population from which the sample is drawn? Explain.
+
+As a result of Professor Williams using convenience sampling, a unrepresentative sample may have been selected for the experiment. Additionally, extraneous variables such as order effects were not appropriately accounted for. For these reasons, the results of the experiment are unable to be generalised to the population.
+
+**Example soln**
+
+#### Scenario 3 (adapted from VCAA exam 2 2007)
+
+Denise, an educational psychologist, was interested in studying the effects of different types of distractors on concentration. Denise works at Beachside Secondary College, a coeducational secordary school.
+
+Theere are 200 VCE students in the college, 100 students in Year 11 and 100 students in Year 12. Both year levels comprise 60% male and 40% female, aged between 16 and 17.5 years old.
+
+Denise randomly selected 20 VCE students at her school, ensuring that the year level and gender of the students were in the same proportion as in the school population of VCE students. Denise obtained informed consent.
+
+Denise used three research assistants to help her conduct the experiment. In the first trial, the first research assistant gave participants a logic puzzle to complete with no background distraction. In the second trial, the second research assistant gave participants --

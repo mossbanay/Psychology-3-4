@@ -199,21 +199,25 @@ Each of the hemispheres of the cerebral cortex have a number of tasks that the m
 
 Hemispheric lateralisation only shows that the majority of processing occurs in one hemisphere for a particular task. It is invalid to conject that someone has no musical ability because they are left hemisphere dominant as the processing occurs in both hemispheres. The test also is unlikely to be able to properly assess an individual over such a short period of time.
 
+Musical ability is likely to comprise of the integration of multiple areas and therefore cannot be labelled as being dominant in one particular hemisphere. There is also questionability of the validity of internet tests.
+
 # Learning Activity 4.10
 
 The cartoon is inaccurate as it portrays specialisation of a hemisphere as being exclusive of the other. Both hemispheres have their own specialisations, and certainly in no case is there a 'no-brain person'.
+
+The fact the cartoon portrays an aware and speaking individual is contradictory to the claim that she is a no-brain person.
 
 # Learning Activity 4.12
 
 #### Describe the two main functions of the spinal cord in terms of the types of messages that travel up and down its length, and the branch of the nervous system to which it connects.
 
-The spinal cords main functions are to relay somatosensory information from the body to the brain, and relay messages from the brain to organs, muscles and other parts of the body. This communication is completed via the peripheral nervous system.
+The spinal cord's main functions are to relay somatosensory information from the body to the brain, and relay messages from the brain to organs, muscles and other parts of the body. This communication is completed via the peripheral nervous system.
 
 ---
 
 #### Describe the role played by the spinal cord in initiating certain types of reflex responses.
 
-The spinal cord is able to respond to certain signals without processing in the brain.
+The spinal cord is able to respond to certain signals without processing in the brain. These are known as **reflex arcs**, during which a signal is *reflected* back down the spinal cord without any initial input from the brain.
 
 #### Why is this considered to be an 'adaptive' or 'survival' role?
 
@@ -233,7 +237,7 @@ As the ability to transfer sensory information from the body and control muscle,
 
 #### How is aphasia defined?
 
-Aphasia is defined as a condition in which speech is impaired.
+Aphasia is a language disorder in which speech (comprehension or production) is impaired as a result of damage to specialised areas in the brain.
 
 #### Distinguish between fluent and nonfluent aphasia, with reference to examples of speech not used in the text.
 
@@ -253,7 +257,7 @@ With fluent aphasia, a patient tends to have no trouble in pronouncing words and
 
 #### What do studies of people with aphasia indicate about the roles of the different hemispheres in language?
 
-The left hemisphere is the primary processing area for language production and comprehension.
+The left hemisphere is the primary processing area for language production and comprehension, although some language processing is completed in the right hemisphere.
 
 ---
 
@@ -261,11 +265,11 @@ Olivia has recently suffered serious head injuries as a result of a car accident
 
 #### Identify the brain area and brain lobe likely to be damaged and the cause of Olivia's speech problems.
 
-Wernicke's area which is located in the Temporal lobe.
+Damage to Wernicke's area in the Temporal lobe, leading to Wernicke's aphasia.
 
 #### Explain the role this area plays in people whose brains are not affected by stroke, injury or disease.
 
-When unaffected by stroke, injury or disease, Wernicke's area is responsible for the cognition of speech and language. It interprets the sound of talking and sight of written words and yields comprehension.
+When unaffected by stroke, injury or disease, Wernicke's area is responsible for the cognition of speech and language. It interprets the sound of talking and sight of written words and yields comprehension. It is also involved in speech production to some degree.
 
 ---
 
@@ -277,13 +281,15 @@ Broca's area which is located in the Frontal lobe.
 
 #### Explain the role this area plays in people whose brains are not affected by stroke, injury or disease.
 
-When unaffected by stroke, injury or disease, Broca's area is responsible for the control of the facial muscles that produce speech. When Broca's area is damaged, the ability to pronounce language is impaired as a result of the difficulty to control the mouth.
+When unaffected by stroke, injury or disease, Broca's area is responsible for the control of the facial muscles that produce speech. When Broca's area is damaged, the ability to pronounce language is impaired as a result of the difficulty to control the mouth. It is also involved in speech comprehension to some degree.
 
 # Learning Activity 4.14
 
 #### Explain what spatial neglect is with reference to examples of mental processes and behaviour associated with the disorder.
 
-Spatial Neglect is an attentional disorder in which the person affected systematically ignores stimuli on one side. It is common to observe patients affect by spatial neglect as completely ignoring people, objects and events that occur on one side of their visual field (usually the left visual field). Patients my greet only those on their right, or only be able to recall details on the right side of buildings.
+Spatial Neglect is an attentional disorder in which the person affected systematically ignores stimuli on one side.
+
+It is common to observe patients affected by spatial neglect as completely ignoring people, objects and events that occur on one side of their visual field (usually the left visual field). Patients may greet only those on their right, or only be able to recall details on the right side of buildings.
 
 #### Give an example of a visual scene that may be reported by an individual with spatial neglect when watching a sports event. The person's spatial neglect is limited to vision. Your example should identify the event and the position where the scene is viewed.
 

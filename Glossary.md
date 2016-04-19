@@ -98,6 +98,16 @@ Controlled processes are processes that require total concentration and selectiv
 
 Daydreaming is an ASC in which an individual shifts away from external stimuli to instead focus on internal thoughts
 
+### Descriptive statistics
+
+Descriptive statistics include:
+- Mean
+- Mode
+- Median
+- Range
+- Standard deviation
+- Variance
+
 ### Divided attention
 ##### See also selective attention
 
@@ -186,6 +196,11 @@ Examples include:
 - Ethnicity
 - Mood
 - Physical health
+
+### Inferential statistics
+
+Inferential statistics include:
+- p-value
 
 ### Interneurons
 ##### Also known as connecting neurons
