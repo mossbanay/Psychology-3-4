@@ -1,5 +1,17 @@
 # Mind, Brain and body
 
+## Research methods
+
+### P-values
+
+P = (number) means that the probability that the difference between the groups (experimental and control) is due to chance alone is equal to (number) in 100. If the acceptable significance level is p ≤ (number) then this result is (not) significant and the hypothesis is (not) supported.
+
+### Requirements for generalisations of research to a population
+
+- Must be an experiment
+- Must have a representative population
+- Result must be statistically significant and in the right direction
+
 ## States of consciousness
 ### Consciousness
 
@@ -356,10 +368,10 @@ The general role of the parasympathetic nervous system is to bring the body to h
 
 | Lobe | Roles |
 | --- | --- |
-| Frontal lobe | Conscious movement, roblem solving, planning, personality, production of articulate speech |
+| Frontal lobe | Conscious movement, problem solving, planning, personality, production of articulate speech |
 | Parietal lobe | Sensation of pain, pressure, touch, spatial reasoning, visual perception and recognition |
 | Occipital lobe | Processing of visual information, movement and colour recognition |
-| Temporal lobe | Responsible for the consilidation of memory, interpretation of smells and sounds |
+| Temporal lobe | Responsible for the consilidation of memory, interpretation of smells and sounds, facial recognition |
 
 #### Hemispheres of the brain
 
