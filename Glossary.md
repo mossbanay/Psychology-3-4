@@ -133,6 +133,10 @@ Used to detect, amplify and record the electrical activity of muscles
 
 Measures electrical activity relating to the muscles used to move your eyes
 
+### Encoding
+
+Encoding is the process of changing information into a storable form so that it can be represented in memory. This is analogous to typing keys on a keyboard having them be converted into electrical signals that the computer can read.
+
 ### Experimenter bias
 ##### See also experimenter effect
 
@@ -287,6 +291,10 @@ Examples include:
 
 Receives analyses interprets.
 
+### Retrieval
+
+Retrieval is the process of locating and recovering the stored information from memory so that we are consciously aware of it.
+
 ### Selective attention
 ##### See also divided attention
 
@@ -356,6 +364,10 @@ There are also several physiological changes associated with states of conscious
 - Heart rate
 - Core body temperature
 - Electrical conductivity of skin
+
+### Storage
+
+Storage is the retention of information in memory over time. Stored representations of information in the brain are referred to as memories.
 
 ### Strop effect
 ##### See also controlled processes, selective attention
