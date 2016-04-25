@@ -37,3 +37,24 @@ Complete and proper functioning of memory is not achievable without the fully co
 #### Explain why comparing human memory to information-processing by a computer may misrepresent or oversimplify human memory
 
 Computers store memory in a very rigourous manner that is highly redundant whereas human memories tend to be much more malleable and may change as they are *representations of information* as opposed to the information itself.
+
+# Learning Activity 6.3
+
+#### Explain the meaning of the term model of memory
+
+Memory being a complicated and difficult to understand topic is simplified into clearer steps and ideas in what is known as a model of memory.
+
+#### Briefly describe the Atkinson-Shriffin multi-store model of memory
+
+Information is first encoded into sensory memory. If a sensation is paid attention, it's then encoded into short-term memory. If elaborative rehersal occurs it is then encoded into long-term memory.
+
+---
+
+#### Distinguish between structual features and control processes in memory, with reference to examples
+
+TODO
+
+#### Explain whether each of the following is a structual feature of control process:
+| Deciding whether retrieved information is correct | Control process |
+| A neural representation of a memory | Structual feature |
+| Encoding | Control process |
