@@ -58,3 +58,42 @@ TODO
 | Deciding whether retrieved information is correct | Control process |
 | A neural representation of a memory | Structual feature |
 | Encoding | Control process |
+
+# Learning Activity 6.4
+
+#### Construct a research hypothesis that could have been tested by the procedures used in the experiment.
+
+Iconic memory has a virtually unlimited capacity that is persistent for approximately 0.3 seconds.
+
+#### State the operationalised IV(s) and DV(s).
+
+Delay before querying participants to recall information.
+Retainment of information as measured by accuracy of recall.
+
+#### Name the experimental design.
+
+Repeated measures.
+
+#### Briefly state the results obtained.
+
+Participants reported seeing more of the projected letters although failed to name them all. When a sound was used to indicate which row to recall, participants were able to recall the relevant row accurately 75% of the time.
+
+---
+
+#### If the results were shown to be statistically significant with p ≤ 0.05, what would this mean?
+
+The probability that the difference in accuracy of recall between the groups was due to random chance alone was less than 5 in 100.
+
+#### Would the results be more meaningful with p ≤ 0.01? Explain your answer.
+
+The probability that the difference in accuracy of recall between the groups was due to random chance alone would be less than 1 in 100 as opposed to 5 in 100 for p ≤ 0.05.
+
+---
+
+#### Briefly state a conclusion based on the results obtained.
+
+It can be concluded that for a split-second, participants had a virtually unlimited capacity of memory. The longer the delay between exposure and recall, the less participants were able to recall, suggesting a memory duration of approximately 0.2 - 0.4 seconds.
+
+#### Comment on the extent to which the results can be generalised.
+
+An experiment that showed statistically signifcant results was completed. Assuming a sample representative of the general population was used, the results may be generalised.
