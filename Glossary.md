@@ -118,6 +118,10 @@ Divided attention is not impacted much when in an alcohol-induced state or while
 Examples include:
 - Walking while listening to music
 
+### Elaborative rehersal
+
+Elaborative rehresal is linking new info in a meaningful way with other new info, or old info already stored in LTM. This form of rehersal is far more effective than maintainance rehersal when attempting to store information in long-time memory.
+
 ### Electroencephalograph (EEG)
 ##### See also polysomnography
 
@@ -213,7 +217,7 @@ Interneurons perform the important function of making the connection between sen
 
 ### Lesion
 
-TODO
+An area of an organ which has suffered some sort of trauma or injury.
 
 ### Limbic system
 
@@ -222,6 +226,11 @@ TODO
 ### Longitudinal fissure
 
 The deep groove that appears to seperate the two cerebral hemispheres of the brain.
+
+### Maintainance rehersal
+##### See also elaborative rehersal
+
+Repeating info over and over without adding meaning, and without linking to other info already in memory. An example over maintainance rehersal repeating a phone number from the yellow pages to yourself over and over while walking to the telephone.
 
 ### Memory
 
@@ -290,6 +299,10 @@ Examples include:
 ### RAI
 
 Receives analyses interprets.
+
+### Rehersal
+
+The process of consciously manipulating information so that it can aid retrieval
 
 ### Retrieval
 
