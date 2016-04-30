@@ -23,7 +23,7 @@ The Atkinson-Shiffrin model of memory was designed by Richard Atkinson and Richa
 Storage capacity: Unlimited
 Storage duration: 0.3 - 10 seconds
 
-Sensory memory is split into three subsystems of memory. Iconic memory, echoic memory and haptic memory. Sensory memory is stored **within the sense organs** and **not the brain**.
+Sensory memory is split into three subsystems of memory (called sensory registers). Iconic memory, echoic memory and haptic memory. Sensory memory is stored **within the sense organs** and **not the brain**.
 
 **Iconic memory is memory of visual sensory memory**, from the retina. **Echoic memory refers to auditory sensory memory** like sounds heard by the ears. **Haptic memory refers to touch and feeling** that may be felt in the skin.
 
@@ -54,7 +54,40 @@ This suggests that while iconic memory is unlimited in capcity, the duration is 
 Storage capacity: 7 ± 2 items
 Storage duration: 18 - 20 seconds
 
+| Function | Capacity | Duration | Encoding | Forgetting | Example |
+| --- | --- | --- | --- | --- | --- |
+| Recevies information from sensory memory; receives information from long-term memory; sending information to long-term memory | 7 ± 2 items | ~20 seconds | Mostly acoustic; Attention and rehersal will help store info in STM | Displacement and interference; Possibility of decay | --- |
+
+#### Evidence of short term memory
+
+TODO
+
+#### Rehersal
+
+##### Elaborative rehersal
+
+Elaborative rehersal links information in a meaningfully way that **creates cues** to you locate and retrieve the memory later. It's a **more active** process than maintenance rehresal and uses a **'deeper' level of encoding** (refer to the Levels of processing theory).
+
+Elaborative rehersal is the preferred method of rehersal to move memories from STM to LTM as it is **more effective** than maintenance rehersal.
+
+##### Mainenance rehersal
+
+Maintenance rehersal is the process of **repeating information** to yourself in order to remember it. This may be vocally (speaking the words aloud), sub-vocal (speaking words in your head), visualising (keeping an image in your head) or muscularly (imaging how it feels to perform an action). Once maintenance rehersal stops, the memory will typically be **lost after about 20 seconds**.
+
 #### Long-term memory
 
-Storage capacity: Unlimited
-Storage duration: Unlimited
+Storage capacity: Potentially unlimited
+Storage duration: Potentially permanent
+
+Long-term memory works by linking memories to one another in a semantic web. Experiences are linked to other relevant memories. Retrieval cues allow memories to be *found*.
+
+There are different types of memories stored in long term memory.
+
+##### Procedural memory
+
+Refers to knowledge of skills, habits or actions.
+
+##### Declarative memory
+##### Semantic memory
+##### Episodic memory
+##### Explicit and implicit memory
