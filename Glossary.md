@@ -59,7 +59,7 @@ The prominent fold between the frontal and parietal lobe as well as the primary 
 
 ### Cerebral cortex
 
-TODO
+The cerebral cortex is the 2-4mm outer layer of the brain. Typically it is split into four lobes for research purposes, although all lobes interact during normal operation.
 
 ### Cocktail-party effect
 ##### See also selective attention
@@ -328,6 +328,10 @@ A self-fulfilling prophecy occurs when an experimenter collects results that the
 
 Self-reports are the written or spoken responses from a participant to questions or statements given by a researcher
 
+### Semantic network theory
+
+First proposed by Allan Collins in 1969, the semantic network theory is based on the idea of concepts called nodes being linked together through meaningful connections to create a hiearchical structure called a network.
+
 ### Sensation
 
 A sensation is the information from a sensory input with any interpretation.
@@ -355,6 +359,10 @@ Spatial Neglect is an attentional disorder in which the person affected systemat
 ##### Also known as commissurotomy
 
 A surgery in which the corpus callosum is severed, effectively seperating the two cerebral hemispheres.
+
+### Spreading activation
+
+Spreading activation (introduced by Collins and Loftus in 1975) suggests that activation of a single node in a semantic network increases the likelihood of neighbouring nodes also being activated.
 
 ### State of consciousness
 ##### See also consciousness
