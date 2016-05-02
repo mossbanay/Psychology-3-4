@@ -54,6 +54,8 @@ This suggests that while iconic memory is unlimited in capcity, the duration is 
 Storage capacity: 7 ± 2 items
 Storage duration: 18 - 20 seconds
 
+Memories leave short term memory by either **displacement** or **decay**.
+
 | Function | Capacity | Duration | Encoding | Forgetting | Example |
 | --- | --- | --- | --- | --- | --- |
 | Recevies information from sensory memory; receives information from long-term memory; sending information to long-term memory | 7 ± 2 items | ~20 seconds | Mostly acoustic; Attention and rehersal will help store info in STM | Displacement and interference; Possibility of decay | --- |
@@ -74,6 +76,8 @@ Elaborative rehersal is the preferred method of rehersal to move memories from S
 
 Maintenance rehersal is the process of **repeating information** to yourself in order to remember it. This may be vocally (speaking the words aloud), sub-vocal (speaking words in your head), visualising (keeping an image in your head) or muscularly (imaging how it feels to perform an action). Once maintenance rehersal stops, the memory will typically be **lost after about 20 seconds**.
 
+Maintenance rehersal is very helpful when trying to keep information in short term memory.
+
 #### Long-term memory
 
 Storage capacity: Potentially unlimited
@@ -83,6 +87,9 @@ Long-term memory works by linking memories to one another in a semantic web. Exp
 
 There are different types of memories stored in long term memory.
 
+| Function | Capacity | Duration | Encoding | Forgetting | Example |
+| --- | Potentially unlimited | Relatively premanent | Elaborative rehersal & maintenance rehersal | Incorrect cues, interference with other info, motivation, decay | --- |
+
 ##### Procedural memory
 
 Refers to knowledge of skills, habits or actions.
@@ -91,3 +98,19 @@ Refers to knowledge of skills, habits or actions.
 ##### Semantic memory
 ##### Episodic memory
 ##### Explicit and implicit memory
+### Semantic network theory
+
+![An example of a semantic network](http://act-r.psy.cmu.edu/wordpress/wp-content/themes/ACT-R/tutorials/unit1_files/image004.gif)
+
+The semantic network theory was first developed by Alan Collins in 1969. The theory contends that long-term memory is organised by **linking concepts** (called nodes) in **meaningful** ways to form a **hierarchical structure** called a network.
+
+When an individual needs to recall something, they begin by searching a 'region' of memory, and then follow cues until they remember the information they required. This theory is also not only efficient in terms of accesibility but also storage, as attributes shared between concepts do not need to be duplicated.
+
+#### Evidence for semantic network theory
+
+Collin and Quillian (1969) (refer to slide 52 in Ong's notes)
+
+#### Questions about semantic network theory
+
+- Why might it be advantageous to organise memories semantically?
+- How does elaborative rehersal relate to semantic network theory?
