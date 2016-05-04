@@ -97,3 +97,58 @@ It can be concluded that for a split-second, participants had a virtually unlimi
 #### Comment on the extent to which the results can be generalised.
 
 An experiment that showed statistically signifcant results was completed. Assuming a sample representative of the general population was used, the results may be generalised.
+
+# Learning Activity 6.5
+
+#### What is sensory memory?
+
+Sensory memory is the entry point of memory where new incoming memory is stored for a very brief period.
+
+#### Distinguish between the terms sensory memory sensory register
+
+The term sensory register refers to the memory storage for a particular sense whereas sensory memory refers to the collective memory from all sensory registers.
+
+#### Why can sensory memory be described as a memory system or sub-system rather than a perceptual system?
+
+Information in sensory memory is stored in the relevant organs and not in the brain. As a result of this the information cannot be processed or interpreted, making perception unachievable.
+
+---
+
+#### Define iconic memory and echoic memory with reference to examples that help clarify the definitions.
+
+Iconic memory refers to visual memory such as what you see. Echoic memory is auditory memory such as sounds you can hear.
+
+#### Describe the main distinguishing characteristics of iconic and echoic memory. Refer to the type of sensory information and the storage duration.
+
+Iconic memory stores visual information whereas echoic memory stores auditory information. Iconic memory typically is retained for 0.3 seconds whereas echoic memory is typically retained for 4 seconds.
+
+---
+
+#### In what way might sensory memory have an adaptive function and assist us in adjusting to ongoing environmental change?
+
+The lingering of iconic memory allows for images to be blurred together and allows for more holistic processing of scenes. Similarly, the duration of echoic memory allows for interpretation of speech as sounds are combined together.
+
+#### Is information in sensory memory subject to an encoding process? Explain your answer.
+
+No, as the information is held in the sensory receptor and not encoded until reaching STM.
+
+---
+
+#### What is required for information to transfer from sensory memory to STM?
+
+For information in sensory memory to transfer into STM the information needs to be paid attention.
+
+#### What happens to information that is not transferred to STM?
+
+Information in sensory memory not paid attention to is filtered out of consciousness.
+
+# Learning Activity 6.6
+# Learning Activity 6.8
+# Learning Activity 6.10
+# Learning Activity 6.12
+# Learning Activity 6.14
+# Learning Activity 6.16
+# Learning Activity 6.19
+# Learning Activity 6.20
+# Learning Activity 6.22
+# Learning Activity 6.24
