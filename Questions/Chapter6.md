@@ -143,6 +143,71 @@ For information in sensory memory to transfer into STM the information needs to 
 Information in sensory memory not paid attention to is filtered out of consciousness.
 
 # Learning Activity 6.6
+
+#### Define short-term memory (STM)
+
+Short-term memory (STM) is a memory system with limited storage capcity in which information is stored for a relatively short time, unless renewed in some way.
+
+---
+
+#### What is the storage capacity of STM?
+
+7 ± 2 items
+
+#### Give an example of experimental research that could be conducted to test the capcity of STM
+
+A researcher could ask a participant to listen to a list of words, and then ask them to recall as many as they can.
+
+---
+
+#### What is the storage duration of STM?
+
+12 - 30 seconds, typically 20 seconds.
+
+#### Give an example of experimental research that could be conducted to test the storage duration of STM
+
+A researcher could ask a participant to listen to a list of words, and then ask them to recall as many as they can after progressively longer delays.
+
+---
+
+#### In what ways is STM like sensory memory and unlike sensory memory?
+
+Both STM and sensory memory have very limited storage durations (both in the seconds) however sensory memory has an unlimited capacity compared to the 7 ± 2 items that storable within STM.
+
+---
+
+#### Distinguish between sensory memory and short-term memory with reference to conscious awareness.
+
+Information in sensory memory is not consciously accessible until it is paid attention to and subsequently transferred into short-term memory where you are consciously aware of it.
+
+#### Explain why STM can be described as the 'seat of consciousness' but neither sensory memory nor LTM can be described in this way.
+
+Information stored in sensory memory and LTM is not accessible directly to be consciously thought about, this ability is limited to the STM.
+
+---
+
+#### Explain why STM is described as working memory.
+
+STM is where all cognition and conscious processing of information occurs, in other words the 'working' desk for the brain.
+
+#### In your opinion, is 'short-term memory' or 'working memory' the more appropriate term to describe the memory system that receives information from both sensory memory and LTM? Explain your answer.
+
+Working memory is a more appropriate term as it indicates the important role the particular memory system plays in processing and cognition.
+
+---
+
+#### Describe two ways in which information is frequently lost from STM
+
+Information is most often lost from STM as a result of decay or displacement. Decay occurs over time as information is not rehersed, typically after 20 seconds. Displacement occurs when information is 'pushed out' of STM by new information.
+
+---
+
+You walk from one room to another to pick something up, and when you arrive you have forgotten why you went to the room. You realise that you were thinking about something else and this made you forget the reason for being in the room.
+
+#### Explain why this forgetting occurred in terms of the STM capcity and duration
+
+By the time you would have walked from one room to another, 20 seconds may have passed and decay may have resulted in the memory of the purpose for you going to the room being filtered out of consciousness. Additionally, while walking to the room you may have passed other stimuli that might have entered short-term memory, displacing the purpose for your walk to the room.
+
 # Learning Activity 6.8
 # Learning Activity 6.10
 # Learning Activity 6.12
