@@ -1,3 +1,8 @@
+### Altered state of consciousness (ASC)
+##### See also normal waking consciousness
+
+The term used to describe any state of consciousness that is distinctly different from normal waking consciousness, in terms of level of awareness and experience, and the quality or intensity of sensations, perceptions, thoughts feelings and memories that are experienced.
+
 ### Amygdala
 
 TODO
@@ -12,12 +17,12 @@ A condition characterised by speech impairment. This is often a result of damage
 
 ### Attention
 ##### See also selective attention, divided attention
+
 Attention is a concentration of mental activity that involves focusing on a specific stimulus while ignoring other stimuli.
 
-### Altered state of consciousness (ASC)
-##### See also normal waking consciousness
+### Atkinson-Shiffrin's multi-store model of memory
 
-The term used to describe any state of consciousness that is distinctly different from normal waking consciousness, in terms of level of awareness and experience, and the quality or intensity of sensations, perceptions, thoughts feelings and memories that are experienced.
+The Atkinson-Shiffrin model of memory was designed by Richard Atkinson and Richard Shiffrin in 1968. The model focusses on three major systems of memory - sensory, short-term and long-term. Each system interacts with others continually with each system having unique characteristics including storage capacity and storage duration.
 
 ### Autonomic nervous system
 ##### See also peripheral nervous system
@@ -336,10 +341,18 @@ First proposed by Allan Collins in 1969, the semantic network theory is based on
 
 A sensation is the information from a sensory input with any interpretation.
 
+### Sensory memory
+
+Sensory memory is the entry point of memory where new incoming memory is stored for a very brief period.
+
 ### Sensory neurons
 ##### Also known as afferent neurons
 
 Sensory neurons are specialised nerve cells that recieve and carry sensory messages.
+
+### Short-term memory (STM)
+
+Short-term memory (STM) is a memory system with limited storage capcity in which information is stored for a relatively short time, unless renewed in some way.
 
 ### Sleep
 ##### See also alterted state of consciousness
