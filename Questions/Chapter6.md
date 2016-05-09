@@ -209,6 +209,37 @@ You walk from one room to another to pick something up, and when you arrive you 
 By the time you would have walked from one room to another, 20 seconds may have passed and decay may have resulted in the memory of the purpose for you going to the room being filtered out of consciousness. Additionally, while walking to the room you may have passed other stimuli that might have entered short-term memory, displacing the purpose for your walk to the room.
 
 # Learning Activity 6.8
+
+#### Describe two key roles of the rehersal in memory
+
+Maintaining information in short-term memory and transferring information to long-term memory
+
+---
+
+#### Define the terms maintenance rehersal and elaborative rehersal
+
+Maintenance rehersal refers to repeating information in order to retain it in short-term memory whereas elaborative rehersal refers to making semantic links to other memories (with cues) in order to store information in long-term memory.
+
+#### Identify two important characteristics that distinguish these two forms of rehersal
+
+Maintenance rehersal is less effective at transferring information to long-term memory and is a less active process than elaborative rehersal in which information is linked to other information by creating cues.
+
+---
+
+#### Explain why elaborative rehersal is more effective than maintenance rehersal in enhancing retention of information in LTM
+
+Information transferred to long-term memory by elaborative rehersal is encoded at a deeper level than information encoded via maintenance rehersal.
+
+#### Describe three different ways to elaborative information
+
+- Analyse a personally relevant example of the concept
+- Understand how conceps relate to others and how they interact
+- Create a metaphor of the information
+
+#### Apply your understanding of maintenance and elaborative rehersal to respond to the following question a teacher was asked by a student: 'Is it best to read my notes over and over again, or is there something else I could do to study for the exam?' Give two reasons for your answer.
+
+Students should attempt to interlink topics and concepts to make sure they understand the meaning of what they are studying. Relate the conceps to examples of them acting in day-to-day life.
+
 # Learning Activity 6.10
 # Learning Activity 6.12
 # Learning Activity 6.14
