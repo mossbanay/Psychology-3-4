@@ -102,9 +102,11 @@ Refers to knowledge of skills, habits or actions.
 
 ![An example of a semantic network](http://act-r.psy.cmu.edu/wordpress/wp-content/themes/ACT-R/tutorials/unit1_files/image004.gif)
 
-The semantic network theory was first developed by Alan Collins in 1969. The theory contends that long-term memory is organised by **linking concepts** (called nodes) in **meaningful** ways to form a **hierarchical structure** called a network.
+The semantic network theory was first developed by Alan Collins in 1969. The theory contends that long-term memory is organised by **linking** different **concepts** (called nodes) in **meaningful** ways to form a **hierarchical structure** called a network.
 
 When an individual needs to recall something, they begin by searching a 'region' of memory, and then follow cues until they remember the information they required. This theory is also not only efficient in terms of accesibility but also storage, as attributes shared between concepts do not need to be duplicated.
+
+The length of links determine the relevance between topics. Typically the longer a link the longer the duration it takes for that information to be accessed.
 
 #### Evidence for semantic network theory
 
@@ -114,3 +116,39 @@ Collin and Quillian (1969) (refer to slide 52 in Ong's notes)
 
 - Why might it be advantageous to organise memories semantically?
 - How does elaborative rehersal relate to semantic network theory?
+
+---
+
+### Baddeley and Hitch's model of memory
+
+Devleoped by Alan Baddeley and Graham Hitch in 1974, the Baddeley and Hitch's model of memory focuses on the concept of **working memory** and describes a proposed structure and functioning of theorised components that make up working memory.
+
+The 4 components that compose this model of memory are:
+- Central executive
+- Visuo-spatial sketchpad
+- Phonological loop
+- Episodic buffer
+
+#### Central executive
+
+The central executive is responsible for **selecting, inhibiting and updating** (SIU for short). Another role for the central executive is selecting what is placed into the episodic buffer for processing as well as the accessing of long-term memories to be placed into the episodic buffer (this is *not* a role of the episodic buffer).
+
+#### Visuo-spatial sketchpad
+
+The visuo-spatial sketchpad (also known as visual working memory) **temporarily stores s limited amount of visual and spatial information** for a brief period of time. **Manipulation of visual and spatial information** (such as rotating shapes around in your head or picturing your bedroom) occurs within the visuo-spatial sketchpad.
+
+#### Phonological loop
+
+The phonological loop (also known as verbal working memory) **temporarily stores a limited amount of verbal speech-like information** for a brief period of time. **Manipulation of auditory information** occurs within the phonological loop.
+
+#### Episodic buffer
+
+The episodic buffer acts as a workspace for the processing of information. **Integration** of different information occurs here.
+
+#### Notes for answering questions
+
+It is important to note when discussing components of Alan Baddeley and Graham Hitch's model of memory that the components have an **active role** in memory. For example you may mention the manipulation of information within the phonological loop and visuo-spatial sketchpad.
+
+---
+
+### Craik and Lockhart's levels of processing theory
