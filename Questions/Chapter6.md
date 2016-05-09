@@ -277,6 +277,29 @@ You have just begun casual work at the local supermarket. On your first day you 
 The employees you are first introduced to and the employees you are last introduced to as a result of the primacy and recency effects respectively.
 
 # Learning Activity 6.12
+
+#### What is chunking?
+
+Chunking refers to the grouping of seperate pieces of information into one 'chunk', a single unit.
+
+#### How does chunking increase the capacity of the STM?
+
+Rather than memorising seperate elements, it is more efficient to remember chunks, which contain two or more pieces of information.
+
+---
+
+Suppose you must memorise the following long list of words: banana, rabbit, paper, mango, staple, apple, chicken, orange, pencil and elephant. You are allowed to recall the words in any order you wish.
+
+#### How could you use chunking to better ensure storage and recall?
+
+Pair the words up into semantic pairs (e.g [banana, apple], [mango, orange], [rabbit, elephant] etc.)
+
+---
+
+#### Suggest an example of how chunking can improve recall from LTM
+
+?
+
 # Learning Activity 6.14
 # Learning Activity 6.16
 # Learning Activity 6.19
