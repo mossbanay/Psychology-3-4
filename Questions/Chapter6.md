@@ -241,6 +241,41 @@ Information transferred to long-term memory by elaborative rehersal is encoded a
 Students should attempt to interlink topics and concepts to make sure they understand the meaning of what they are studying. Relate the conceps to examples of them acting in day-to-day life.
 
 # Learning Activity 6.10
+
+#### Describe the serial position effect
+
+The serial position refers to the finding that free recall is better for items at the start and end of a list than items in the middle.
+
+#### What are the primacy and recency effects? Why do they occur?
+
+The primacy effect refers to the superior recall of items at the beginning of a list. This occurs because more attention is paid to the first few items of the list, making them more likely to be retained in long-term memory.
+
+#### Why are items in the middle of a serial list recalled least?
+
+The recency effect refers to the superior recall of items at the end of a list. This occurs because the last few items are likely to still be in STM. As a result of this, the superior recall is not apparent when delayed recall occurs.
+
+---
+
+#### What implications does the serial position effect have for a prosecutor or barrister presenting their case to a jury?
+
+The start and end of the presentation will have the greatest effect on the jury's judgement.
+
+#### What implications does the serial position effect have for three politicians before an election, each delivering a brief policy speech one after the other on television?
+
+It is likely that the second candidate is disadvantaged compared to the other two candidates as their speech is expected to be the least remembered.
+
+#### What implications does the serial position effect have for a potential employee deciding on their interview time when allowed to choose from an interview schedule?
+
+The employee should choose to be first or last to ensure they are remembered by the interview panel.
+
+---
+
+You have just begun casual work at the local supermarket. On your first day you are introduced to 15 other employees, one after the other.
+
+#### According to the serial position effect, which names are you most likely to remember and why?
+
+The employees you are first introduced to and the employees you are last introduced to as a result of the primacy and recency effects respectively.
+
 # Learning Activity 6.12
 # Learning Activity 6.14
 # Learning Activity 6.16
