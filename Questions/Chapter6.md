@@ -301,6 +301,52 @@ Pair the words up into semantic pairs (e.g [banana, apple], [mango, orange], [ra
 ?
 
 # Learning Activity 6.14
+
+#### Define working memory without reference to Baddeley and Hitch's model of working memory
+
+Working memory is the memory system in which information is integrated and manipulated for cognition.
+
+#### How does Baddeley and Hitch's model describe the structure and function of working memory? Include reference to the episodic buffer.
+
+Baddeley and Hitch's model describes working memory as being composed of 4 components that interact to form working memory. The central executive controls what information is selected to be integrated, such information is accessed from long-term memory and placed into the episodic buffer where it is integrated with other information such as visual information from the visuo-spatial sketchpad and auditory information from the phonological loop.
+
+#### Construct a table in which you summarise the key features of all four working memory components
+
+| Component | Function |
+| --- | --- |
+| Central executive | Switching, inhibiting and updates information |
+| Phonological loop | Stores and manipulates auditory information |
+| Visuo-spatial sketchpad | Stores and manipulates visual & spatial information |
+| Episodic buffer | Temporary workstation that allows for integration of information |
+
+#### Explain the relationship between the four components with reference to an example
+
+When in class watching a lecture, your phonological loop processes and manipulates the speech of your teacher, slides and diagrams drawn on the board are interpreted and manipulated by the visuo-spatial sketchpad. The episodic buffer acts as a workspace for the integration of information from different sources, while your central executive selects, inhibits and updates information in long-term memory.
+
+#### Suggest a reason why the phonological loop, visuo-spatial sketchpad and episodic buffer are often described as 'slave systems' to the central executive.
+
+The central executive selects, inhibits and updates information from other memory systems and as a result controls the flow of information between systems. The phonological loop, visuo-spatial sketchpad and episodic buffer all rely on the central executive to access information from long-term memory as well as orient attention.
+
+---
+
+Which of the four components of the working memory model is likely to directly transfer or retrieve each of the following types of information to or from LTM?
+
+#### words?
+
+Phonological loop
+
+#### images?
+
+Visuo-spatial sketchpad
+
+#### sounds?
+
+Phonological loop
+
+#### auditory information other than sounds?
+
+?
+
 # Learning Activity 6.16
 # Learning Activity 6.19
 # Learning Activity 6.20
