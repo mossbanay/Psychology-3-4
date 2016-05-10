@@ -348,6 +348,37 @@ Phonological loop
 ?
 
 # Learning Activity 6.16
+
+#### According to Craik and Lockhart's levels of processing framework, what determines how well information is stored in LTM?
+
+The likelihood of information being retained depends on the level or depth of it's encoding.
+
+#### Explain the meaning of the levels of processing concept
+
+Information that is superficial and relatively meaningless is less likely to be retained in the long-term by memory systems when compared to meaningful information.
+
+#### What type of information is more likely to be processed at a shallow level?
+
+Structual information such as colours, shapes and patterns that make up the physical appearance of objects.
+
+#### What type of information is more likely to be processed at a deep level?
+
+Semantic and meaningful characteristics of a concept such as connotations and history.
+
+#### Is elaborative rehersal different from elaborative encoding? Explain your answer
+
+Elaborative rehersal is a theorised operation under Aitkinson and Shiffrin's model of memory that transfers information from STM to LTM whereas elaborative encoding is a method of creating meaning between items in order to encode them at a deeper level.
+
+#### In what way can Craik and Lochart's levels of processing framework provide support for memory as a multi-store rather than a unitary system?
+
+The different 'levels' of encoding suggest different tiers of memories from those that are more stable to those that are dwindling.
+
+#### What is a common criticism of Craik and Lockhart's levels of processing framework?
+
+Since deeper levels of encoding result from more effort being made it is unclear whether the extra effort or the deeper level of encoding is responsible for the stability of the memory.
+
+Craik and Lockhart's theory also fails to explain how deeper processing leads to better memories.
+
 # Learning Activity 6.19
 # Learning Activity 6.20
 # Learning Activity 6.22
