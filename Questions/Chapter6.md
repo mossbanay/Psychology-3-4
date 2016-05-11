@@ -546,3 +546,21 @@ Semantic network theory suggests that LTM is composed of conceptual nodes that a
 - Organisation within LTM is organised in a semantic network whereas in STM there is not well-defined organisation.
 
 # Learning Activity 6.24
+
+Encode → representing information in a useable form for storage in memory
+Sensory memory → briefly holds exact replicas of new information until processed
+Short-term memory (STM) → stores about seven bits of information
+Long-term memory (LTM) → organised as two main systems of sub-systems
+Maintenance rehersal → mental repetition for retention of information in STM
+Chunking → organising differents bits of information into a larger single unit
+Serial position effect → recall of items is better for those at the beginning and end than for those in the middle
+Elaborative rehersal → linking new information to information already in LTM
+Procedural memory → long-term memory for motor skills and other actions
+Semantic memory → long-term memory for facts and knowledge
+Central executive → the part of working memory that enables interaction with LTM
+Explicit memory → consciously recalling a long-term memory
+Retrieval → locating and recovering stored information from memory
+Working memory → information in conscious awareness is manipulated, thought about and processed
+Semantic network → organisation of information in LTM as overlapping grids of concepts linked by meaning
+Episodic buffer → integrates information from the other three parts of working memory
+Implicit memory → recalling long-term memories without conscious awareness and expressing through observable behaviour
