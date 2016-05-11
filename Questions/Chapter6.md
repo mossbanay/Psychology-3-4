@@ -426,15 +426,20 @@ Procedural memory
 ---
 
 #### Why is information in LTM often described as 'inactive' information?
+
+You are not generally aware of information in long-term memory until it is accessed, as a result that information is 'inactive' and doesn't effect actions you take until it is brought into short-term memory.
+
 #### Which other memory system could also be described as storing inactive information? Why?
+
+Sensory memory could be thought of as inactive as you are not immediately aware of the information until accessing it.
 
 ---
 
 | Long-term memory | Features | Example |
 | --- | --- | --- |
-| Procedural (implicit memory) | --- | --- |
-| Declarative (explicit memory) semantic | --- | --- |
-| Declarative (explicit memory) episodic | --- | --- |
+| Procedural (implicit memory) | Actions or skills that have been learnt | How to walk |
+| Declarative (explicit memory) semantic | Facts and knowledge | Earth is a planet |
+| Declarative (explicit memory) episodic | Personal experiences or events | My 18th birthday party |
 
 # Learning Activity 6.20
 # Learning Activity 6.22
