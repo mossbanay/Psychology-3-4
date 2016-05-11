@@ -380,6 +380,62 @@ Since deeper levels of encoding result from more effort being made it is unclear
 Craik and Lockhart's theory also fails to explain how deeper processing leads to better memories.
 
 # Learning Activity 6.19
+
+#### What is long-term memory (LTM)?
+
+Long-term memory is the memory system that stores vast amounts of information for long periods of time, possibly permanently.
+
+#### Outline the organisation of LTM.
+
+The LTM comprises of two sub-systems called declarative (relating to explicit memories) and non-declarative memory (relating to implicit memories). Declarative memory also has two sub-systems of its own, namely semantic and episodic memory.
+
+#### Why are procedural memories described as non-declarative memories?
+
+It does not require conscious effort to complete the activities or procedures in procedural memory as they are *implicitly* recalled.
+
+#### List three key differences between episodic memories and semantic memories.
+
+- Semantic memories to do not relate to a specific time or place whereas episodic memories do relate to specific times and places.
+- Episodic memories relate to memories that cover a personally experienced event whereas semantic memories relate more closely to individual facts.
+- Different areas of the brain are activated when accessing semantic memories vs episodic memories.
+
+#### Distinguish between the implicit and explicit memory processes with reference to an example
+
+Implicit memories are recalled without any effort being made whereas explicit memories are only recalled with conscious, intentional effort being made.
+
+---
+
+#### Which LTM system and/or sub-system involves ...
+
+#### implicit memory?
+
+Procedural memory
+
+#### explicit memory?
+
+Declarative memory
+
+#### declarative memory?
+
+Semantic and episodic memory
+
+#### non-declarative memory?
+
+Procedural memory
+
+---
+
+#### Why is information in LTM often described as 'inactive' information?
+#### Which other memory system could also be described as storing inactive information? Why?
+
+---
+
+| Long-term memory | Features | Example |
+| --- | --- | --- |
+| Procedural (implicit memory) | --- | --- |
+| Declarative (explicit memory) semantic | --- | --- |
+| Declarative (explicit memory) episodic | --- | --- |
+
 # Learning Activity 6.20
 # Learning Activity 6.22
 # Learning Activity 6.24
