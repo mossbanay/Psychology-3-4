@@ -442,5 +442,76 @@ Sensory memory could be thought of as inactive as you are not immediately aware 
 | Declarative (explicit memory) episodic | Personal experiences or events | My 18th birthday party |
 
 # Learning Activity 6.20
+
+For each of the following activities, name the most likely LTM type (system and/or sub-system(s)) and whether explicit or implicit memory is involved.
+
+#### Describing your first day in Year 7
+
+Episodic memory, explicit
+
+#### Registering your VTAC PIN
+
+?
+
+#### Slam-dunking a basketball
+
+Procedural memory, implicit
+
+#### Recalling the names of Santa's reindeer
+
+Semantic memory, explicit
+
+#### Solving a crossword puzzle
+
+Semantic memory, explicit
+
+#### Texting a phone message
+
+Procedural memory, implicit
+
+#### Placing your lunch order in a fish-and-chip shop
+
+Procedural memory, implicit
+
+#### Having a lunch order in a fish-and-chip shop
+
+Episodic memory, explicit
+
+#### Describing the plot of a novel
+
+Semantic memory, explicit
+
+#### Playing hide and seek
+
+Episodic memory, explicit
+
+#### Calculating a mean score
+
+Procedural memory, explicit
+
+#### Giving directions to the principal's office
+
+Semantic memory, explicit
+
+#### Writing up a prac. report
+
+Episodic memory, explicit
+
+#### Writing a computer program
+
+Procedural memory, explicit
+
+#### Answering a Trivial Pursuit question
+
+Semantic memory, explicit
+
+#### Playing Mario Bros. video game
+
+Procedural memory, implicit
+
+#### Feeling anxious at the sight of a mouse because of a traumatic previous encounter with a mouse
+
+Episodic memory, explicit
+
 # Learning Activity 6.22
 # Learning Activity 6.24
