@@ -514,4 +514,35 @@ Procedural memory, implicit
 Episodic memory, explicit
 
 # Learning Activity 6.22
+
+#### Why is organisation necessary in LTM?
+
+Organisation is required within LTM in order to ensure that all information remains accessible and isn't lost amongst the vast amounts of other information.
+
+---
+
+#### What are two key features of how information is organised and stored in LTM?
+
+Information is organised into conceptual nodes that have meaningful links that form a hiearchical structure.
+
+#### How does retrieval of information from LTM occur? Explain with reference to spreading activation.
+
+After an initial cue is triggered in the area of information relevant to what is wanted to be retrieved, spreading activation occurs and as a result nearby or meaningfully relevant nodes are more likely to be activated. This activation spreads until the information required is activated and retrieved.
+
+#### Is spreading activation possible in the STM (or working memory)? Explain your answer.
+
+No, as the same structure is not apparent in STM.
+
+---
+
+#### Give a definition of semantic network theory.
+
+Semantic network theory suggests that LTM is composed of conceptual nodes that are linked with other nodes in a network. Links are made via meaningful connections between concepts. These links and nodes form a hiearchical structure.
+
+#### List three key differences between LTM and STM
+
+- LTM is relatively unlimited in terms of storage whereas STM is limited to 7 ± 2 items.
+- LTM is relatively permanent in terms of duration whereas STM is limited to ~20 seconds.
+- Organisation within LTM is organised in a semantic network whereas in STM there is not well-defined organisation.
+
 # Learning Activity 6.24
