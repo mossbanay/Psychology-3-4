@@ -102,5 +102,18 @@ Convience sampling
 Are the group of psychology students unfairly baring the burden of the psychological research into memory and is it disabling of them?
 
 # Learning Activity 9.5
+
+#### Explain the difference between context dependent and state dependent retrieval cues with reference to an example
+
+State dependent cues rely on the context or external environmental of the learner being the same during retrieval as it was during learning whereas context dependent cues rely on the state or internal environment of the learner being the same during retrieval as it was during learning. An example of context dependent cues is walking down the street where you first met a partner. An example of state dependent cues is being under the influence of alcohol and remembering the first time you got drunk.
+
+#### Give an example of an everyday life situation involving both context and state dependent cues
+
+Immediately after an exam sat at school your context is the same as it was during learning and being more relaxed (after the conclusion of the exam) your state is the same as it was during learning. You may suddenly find yourself more able to recall the answers to a test.
+
+#### Explain how context and state dependent cues can improve or enhance retrieval from LTM. For each type of cue, give two relevant examples linked to memory improvement
+
+Subtle changes in the encoding of the memories under different contexts and states leads them to be more readily recalled under the same context and state. E.g you tend to remember happy memories when happy, and when you see a building with personal significance to you, you tend to remember memories associated with that building.
+
 # Learning Activity 9.7
 # Learning Activity 9.11
