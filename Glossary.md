@@ -93,6 +93,11 @@ The conscious experience is often described as being personal, selective, contin
 
 Since consciousness is described as a continuum, at any particular point you would experience consciousness ranging from total awareness to complete lack of awareness.
 
+### Context dependent cues
+##### Also see state dependent cues
+
+TODO
+
 ### Controlled processes
 ##### See also automatic processes
 
@@ -237,6 +242,14 @@ The deep groove that appears to seperate the two cerebral hemispheres of the bra
 
 Repeating info over and over without adding meaning, and without linking to other info already in memory. An example over maintainance rehersal repeating a phone number from the yellow pages to yourself over and over while walking to the telephone.
 
+### Measures of retention
+
+TODO
+
+- Recall
+- Recognition
+- Relearning
+
 ### Memory
 
 Memory is defined as the processing, storage and retrival of information accquired through learning, i.e a neurological representation of a past event.
@@ -301,9 +314,19 @@ Examples include:
 - Playing a video game level under two conditions without taking a break
 - Solving a sudoku under two conditions without taking a break
 
+### Primacy effect
+##### See also Serial position effect
+
+The primacy effect refers to the superior recall of items at the beginning of the list. This occurs because more attention is paid to the first few items of the list, making them more likely to be retained in long-term memory.
+
 ### RAI
 
 Receives analyses interprets.
+
+### Recency effect
+##### See also Serial position effect
+
+The recency effect refers to the superior recall of items at the end of a list. This occurs because the last few items are likely to still be in STM. As a result of this, the superior recall is not apparent when delayed recall occurs.
 
 ### Rehersal
 
@@ -350,6 +373,10 @@ Sensory memory is the entry point of memory where new incoming memory is stored 
 
 Sensory neurons are specialised nerve cells that recieve and carry sensory messages.
 
+### Serial position effect
+
+The serial position refers to the finding that free recall is better for items at the start and end of a list than items in the middle.
+
 ### Short-term memory (STM)
 
 Short-term memory (STM) is a memory system with limited storage capcity in which information is stored for a relatively short time, unless renewed in some way.
@@ -376,6 +403,11 @@ A surgery in which the corpus callosum is severed, effectively seperating the tw
 ### Spreading activation
 
 Spreading activation (introduced by Collins and Loftus in 1975) suggests that activation of a single node in a semantic network increases the likelihood of neighbouring nodes also being activated.
+
+### State dependent cues
+##### Also see context dependent cues
+
+TODO
 
 ### State of consciousness
 ##### See also consciousness
