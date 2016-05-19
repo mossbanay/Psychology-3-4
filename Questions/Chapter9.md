@@ -116,4 +116,27 @@ Immediately after an exam sat at school your context is the same as it was durin
 Subtle changes in the encoding of the memories under different contexts and states leads them to be more readily recalled under the same context and state. E.g you tend to remember happy memories when happy, and when you see a building with personal significance to you, you tend to remember memories associated with that building.
 
 # Learning Activity 9.7
+
+#### What is a mnemonic device?
+
+A mnemonic device is a technique that is used to improve the capacity or longevity of memory.
+
+#### How do mnemonic devices improve memory?
+
+Mnemonic devices improve memory by providing cues for recall or by adding meaningful links between pieces information, allowing them to be more deeply encoded.
+
+---
+
+| Mnemonic device | Type of information best suited | How it is used | Example | Why is it effective |
+| Acronym |
+| Acrostic |
+| Narrative chaining |
+
+---
+
+#### Briefly describe three characteristics that the various mnemonic devices have in common
+
+Mnemonic devices all use information that is already stored in LTM.
+
+
 # Learning Activity 9.11
