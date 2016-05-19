@@ -152,3 +152,27 @@ It is important to note when discussing components of Alan Baddeley and Graham H
 ---
 
 ### Craik and Lockhart's levels of processing theory
+
+### Mnemonic devices
+
+A **mnemonic device** is a **technique that is used to improve** the capacity or longevity of memory. They work by creating cues that aid recall or by adding meaningful links between pieces of information and what is already stored in LTM. Mnemonic devices **elaborate on information**, making it easier to locate and retrieve.
+
+#### Acronyms
+
+An **acronym is a shortened or abbreviated phrase** made into a **pronounceable** word. Examples of acronyms include NASA (National Aeronautics and Space Administration), ANZAC (Australian New Zealand Army Corps) and ASCII (American Standard Code for Information Interchange).
+
+Acronyms are often confused with initialisms such as NSA (National Security Agency), however the important distinction between the two is that acronyms are pronounceable whereas initialisms are not.
+
+Acronyms aid memory by making each letter in the acronym a cue for recalling the next word in the phrase.
+
+#### Acrostics
+
+**Acrostics** are words formed by **taking the first letter** from a series of words and stringing them together to form a phrase. If trying to remember the letters T A L F, one might construct an acrostic that reads "That's a large flower".
+
+Acrostics work in a similar way to acronyms in that each word acts as a due for recall.
+
+#### Narrative chaining
+
+Narrative chaining refers to the construction of a story that links items together in order to aid memory. If trying to remember the words [worm, bus, wings, kite, rock, egg], you might construct a tale that goes something like this. The worm biting onto a string connected to a kite was strapped onto a fast-moving bus veering out of control. The bus then crashed into a large rock, shattering all the eggs it carried.
+
+Narrative chaining relies on the principles of elaborative rehersal. After giving information meaningful links, recall becomes significantly easier as you are logically led from one item to another.

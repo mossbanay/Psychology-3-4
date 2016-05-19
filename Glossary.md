@@ -1,3 +1,11 @@
+### Acronym
+
+An **acronym is a shortened or abbreviated phrase** made into a **pronounceable** word. Examples of acronyms include NASA (National Aeronautics and Space Administration), ANZAC (Australian New Zealand Army Corps) and ASCII (American Standard Code for Information Interchange).
+
+### Acrostics
+
+**Acrostics** are words formed by **taking the first letter** from a series of words and stringing them together to form a phrase. If trying to remember the letters T A L F, one might construct an acrostic that reads "That's a large flower".
+
 ### Altered state of consciousness (ASC)
 ##### See also normal waking consciousness
 
@@ -254,10 +262,27 @@ TODO
 
 Memory is defined as the processing, storage and retrival of information accquired through learning, i.e a neurological representation of a past event.
 
+### Mnemonic device
+
+A mnemonic device is a technique that is used to improve the capacity or longevity of memory.
+
+Examples of mnemonic devices include:
+- Acronyms
+- Acrostics
+- Narrative chaining
+
 ### Motor neurons
 ##### Also known as efferent neurons
 
 Motor neurons are specialised nerve cells that carry messages to skeletal muscles causing them to contract or relax. These messages contain only voluntary muscle movements.
+
+### Narrative chaining
+
+Narrative chaining refers to the construction of a story that links items together in order to aid memory.
+
+For example, if trying to remember the words [worm, bus, wings, kite, rock, egg], you might construct a tale that goes something like this.
+
+"The worm biting onto a string connected to a kite was strapped onto a fast-moving bus veering out of control. The bus then crashed into a large rock, shattering all the eggs it carried."
 
 ### Normal waking consciousness (NWC)
 ##### See also altered states of consciousness (ASC)
