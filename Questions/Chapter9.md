@@ -142,3 +142,26 @@ Mnemonic devices improve memory by providing cues for recall or by adding meanin
 
 
 # Learning Activity 9.11
+
+#### Define the meaning of memory construction
+
+Memory reconstruction suggests that memories are not static and can change and be reintegrated when new information becomes avaliable.
+
+#### Explain how and why memory construction is believed to occur
+
+
+
+---
+
+#### Explain what a leading question is with reference to the use of a presupposition
+
+A leading question has content or is phrased in such a way as to suggest what answer is desired or to lead to the desired answer.
+
+#### Give an example of a leading question with a presupposition
+
+How late did the assault occur? (Asked to an eyewitness of an assault in a park, it leads the respondent to tend to reply with a later time)
+
+---
+
+#### Explain, with reference to research evidence, how a leading question can be used to manipulate memory reconstruction by eyewitnesses
+#### Explain whether Loftus's research findings on the reconstructive nature of memory are relevant to long-term memories other than episodic memories
