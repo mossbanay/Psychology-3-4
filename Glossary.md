@@ -233,6 +233,10 @@ Inferential statistics include:
 
 Interneurons perform the important function of making the connection between sensory and motor neurons. Interneurons are found exclusively in the CNS, and are most abundant in the brain.
 
+### Leading question
+
+A leading question has content or is phrased in such a way as to suggest what answer is desired or to lead you to the desired answer.
+
 ### Lesion
 
 An area of an organ which has suffered some sort of trauma or injury.
@@ -415,6 +419,10 @@ Sleep is a naturally occuring ASC often characterised by a loss of conscious awa
 ##### See also peripheral nervous system
 
 The somatic nervous system is a subsystem of the peripheral nervous system that deals with sending sensory information from muscles and organs to the CNS and receiving motor information from the CNS and passing it onto muscles and organs.
+
+### Source confusion
+
+Source confusion arises when an individual is unable to correctly recall the source of a piece of information.
 
 ### Spatial neglect syndrome
 

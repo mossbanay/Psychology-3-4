@@ -149,7 +149,7 @@ Memory reconstruction suggests that memories are not static and can change and b
 
 #### Explain how and why memory construction is believed to occur
 
-
+Memory construction occurs by integrating new information into the information stored from when an event originally occured.
 
 ---
 
@@ -164,4 +164,9 @@ How late did the assault occur? (Asked to an eyewitness of an assault in a park,
 ---
 
 #### Explain, with reference to research evidence, how a leading question can be used to manipulate memory reconstruction by eyewitnesses
+
+After a witness observes a brawl outside a nightclub, if the police ask the witness how hard the man smashed his fist into the bouncer's face, they may give an answer that's influenced by the words used in the question.
+
 #### Explain whether Loftus's research findings on the reconstructive nature of memory are relevant to long-term memories other than episodic memories
+
+?
