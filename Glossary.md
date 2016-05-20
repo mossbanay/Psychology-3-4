@@ -116,6 +116,11 @@ Controlled processes are processes that require total concentration and selectiv
 
 Daydreaming is an ASC in which an individual shifts away from external stimuli to instead focus on internal thoughts
 
+### Declarative memory
+##### See also procedural memory
+
+Declarative memory involves memory for facts, events and general knowledge. Declarative memory is also split into two sub-types of memory: episodic and semantic.
+
 ### Descriptive statistics
 
 Descriptive statistics include:
@@ -135,6 +140,13 @@ Divided attention is not impacted much when in an alcohol-induced state or while
 
 Examples include:
 - Walking while listening to music
+
+### Episodic memory
+##### See also declarative memory
+
+Episodic memory refers memories about a specific time or place that was personally experienced. This includes details on the time, place, psychological and physiological state, as well as when the event occured.
+
+Episodic memory can be split into two groups, retrospective memory (memories from the past) and prospective memory (memories of things that are to be done in the future)
 
 ### Elaborative rehersal
 
@@ -348,9 +360,14 @@ Examples include:
 
 The primacy effect refers to the superior recall of items at the beginning of the list. This occurs because more attention is paid to the first few items of the list, making them more likely to be retained in long-term memory.
 
+### Procedural memory
+##### See also declarative memory
+
+Procedural memory refers to knowledge of skills, habits or actions. In other words knowing *how* to do something.
+
 ### RAI
 
-Receives analyses interprets.
+Short for "receives, analyses and interprets".
 
 ### Recency effect
 ##### See also Serial position effect
@@ -384,6 +401,11 @@ A self-fulfilling prophecy occurs when an experimenter collects results that the
 ### Self-report
 
 Self-reports are the written or spoken responses from a participant to questions or statements given by a researcher
+
+### Semantic memory
+##### See also declarative memory
+
+Semantic memory stores information about facts and general knowledge that is not tied to a single time, place or event. This includes knowledge about the world (e.g the sky is blue), formulae, general rules and other information not tied to a specific place/time.
 
 ### Semantic network theory
 

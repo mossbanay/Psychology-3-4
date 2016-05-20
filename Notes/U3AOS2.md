@@ -90,14 +90,28 @@ There are different types of memories stored in long term memory.
 | Function | Capacity | Duration | Encoding | Forgetting | Example |
 | --- | Potentially unlimited | Relatively premanent | Elaborative rehersal & maintenance rehersal | Incorrect cues, interference with other info, motivation, decay | --- |
 
-##### Procedural memory
+##### Procedural (explicit) memory
 
-Refers to knowledge of skills, habits or actions.
+**Procedural memory** refers to knowledge of **skills, habits or actions**. This may include simple motor skills such as being able to walk and ride a bike, to other things such as using a keyboard or brushing your teeth.
 
-##### Declarative memory
-##### Semantic memory
-##### Episodic memory
-##### Explicit and implicit memory
+Procedural memories are **recalled without any conscious effort** and are called **implicit**.
+
+##### Declarative (explicit) memory
+
+**Declarative memory** involves memory for **facts, events and general knowledge**. Typically, declarative memories are further split into two groups: semantic memories and episodic memories.
+
+Declarative memories but be **explicitly** called upon to be retrieved.
+
+###### Semantic memory
+
+Semantic memory stores information about facts and general knowledge that is not tied to a single time, place or event. This includes knowledge about the world (e.g the sky is blue), formulae, general rules and other information not tied to a specific place/time.
+
+###### Episodic memory
+
+Episodic memory refers memories about a specific time or place that was personally experienced. This includes details on the time, place, psychological and physiological state, as well as when the event occured.
+
+---
+
 ### Semantic network theory
 
 ![An example of a semantic network](http://act-r.psy.cmu.edu/wordpress/wp-content/themes/ACT-R/tutorials/unit1_files/image004.gif)
