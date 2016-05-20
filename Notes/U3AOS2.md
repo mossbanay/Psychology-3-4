@@ -163,6 +163,8 @@ Moderate or intermediate memories are recalled based on their sound or **phoneti
 
 Deeply encoded memories are learnt by their meaning or **semantic encoding**. This is by far the most effective method of learning content and has the deepest level of encoding. Examples of semantic encoding include how a word might fit into a sentence and what it means. Deeply encoded memories are **recalled the best of all**.
 
+---
+
 ### Mnemonic devices
 
 A **mnemonic device** is a **technique that is used to improve** the capacity or longevity of memory. They work by creating cues that aid recall or by adding meaningful links between pieces of information and what is already stored in LTM. Mnemonic devices **elaborate on information**, making it easier to locate and retrieve.
@@ -186,3 +188,5 @@ Acrostics work in a similar way to acronyms in that each word acts as a due for 
 Narrative chaining refers to the construction of a story that links items together in order to aid memory. If trying to remember the words [worm, bus, wings, kite, rock, egg], you might construct a tale that goes something like this. The worm biting onto a string connected to a kite was strapped onto a fast-moving bus veering out of control. The bus then crashed into a large rock, shattering all the eggs it carried.
 
 Narrative chaining relies on the principles of elaborative rehersal. After giving information meaningful links, recall becomes significantly easier as you are logically led from one item to another.
+
+---
