@@ -153,6 +153,16 @@ It is important to note when discussing components of Alan Baddeley and Graham H
 
 ### Craik and Lockhart's levels of processing theory
 
+Craik and Lockhart's levels of processing theory model of memory suggests that long-term memory is not a single store in which all information can be recalled equally well, but instead that some memories can be retrieved easier than others as a result of being more **deeply encoded**. Memory storage in other words is a **continuous dimension** in which memories are **encoded related to the ease of retrieval**.
+
+Although memories are stored in a continuous dimension, the study design seperates memories into three general levels of encoding: shallow, moderate and deep.
+
+Shallow memories are typically encoded based on their appearance or **structural encoding**. Examples relating to words are, "is the word written in uppercase", "does the word contain two consecutive o's". Shallow memories are typically **recalled the worst** out of all levels of encoding.
+
+Moderate or intermediate memories are recalled based on their sound or **phonetic encoding**. A good example of moderate encoding is whether a word rhymes with another word. Moderately encoded memories are **not the best, but not the worst**.
+
+Deeply encoded memories are learnt by their meaning or **semantic encoding**. This is by far the most effective method of learning content and has the deepest level of encoding. Examples of semantic encoding include how a word might fit into a sentence and what it means. Deeply encoded memories are **recalled the best of all**.
+
 ### Mnemonic devices
 
 A **mnemonic device** is a **technique that is used to improve** the capacity or longevity of memory. They work by creating cues that aid recall or by adding meaningful links between pieces of information and what is already stored in LTM. Mnemonic devices **elaborate on information**, making it easier to locate and retrieve.
