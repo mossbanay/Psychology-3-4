@@ -96,6 +96,12 @@ There are different types of memories stored in long term memory.
 
 Procedural memories are **recalled without any conscious effort** and are called **implicit**.
 
+---
+
+#### Organisation of LTM
+
+![Organisation of LTM](https://andrewharvey4.files.wordpress.com/2009/09/taxonomy_of_memory.png)
+
 ##### Declarative (explicit) memory
 
 **Declarative memory** involves memory for **facts, events and general knowledge**. Typically, declarative memories are further split into two groups: semantic memories and episodic memories.
