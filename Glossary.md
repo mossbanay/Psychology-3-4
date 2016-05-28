@@ -44,6 +44,10 @@ The autonomic nervous system functions at all times, even while asleep.
 
 Automatic processes are processes that can be completed with divided attention. They generally do not require significant cognitive effort.
 
+### Axon
+
+The tube-like extension from the soma that carries information away from the neuron and sprays out over the synapse via the axon terminals.
+
 ### Broca's aphasia
 ##### Also known as non-fluent aphasia
 
@@ -120,6 +124,10 @@ Daydreaming is an ASC in which an individual shifts away from external stimuli t
 ##### See also procedural memory
 
 Declarative memory involves memory for facts, events and general knowledge. Declarative memory is also split into two sub-types of memory: episodic and semantic.
+
+### Dendrites
+
+Dendrites are the thin extensions from the soma that recieve neurotransmitters from other neurons and transmit it to the soma.
 
 ### Descriptive statistics
 
@@ -300,6 +308,14 @@ For example, if trying to remember the words [worm, bus, wings, kite, rock, egg]
 
 "The worm biting onto a string connected to a kite was strapped onto a fast-moving bus veering out of control. The bus then crashed into a large rock, shattering all the eggs it carried."
 
+### Neuron
+
+A neuron is a nerve cell that is specialised to receive, process and/or transmit information to other cells in the body.
+
+### Neurotransmitter
+
+The chemical messages sent between neurons.
+
 ### Normal waking consciousness (NWC)
 ##### See also altered states of consciousness (ASC)
 
@@ -437,6 +453,10 @@ Short-term memory (STM) is a memory system with limited storage capcity in which
 
 Sleep is a naturally occuring ASC often characterised by a loss of conscious awareness. Sleep is often studied by use of polysomnography.
 
+### Soma
+
+The soma integrates information received from dendrites and contains the genetic information within the nucleus. It also sends information to the axon for transmission to other cells.
+
 ### Somatic nervous system
 ##### See also peripheral nervous system
 
@@ -494,6 +514,10 @@ Storage is the retention of information in memory over time. Stored representati
 ##### See also controlled processes, selective attention
 
 TODO
+
+### Synaptic gap (synaptic cleft)
+
+The small seperation between the pre-synaptic neuron and the post-synaptic neuron.
 
 ### Tachistoscope
 
