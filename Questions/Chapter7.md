@@ -39,3 +39,21 @@ Allow for memory circuits to form.
 #### neurotransmitters
 
 Neurotransmitters are the chemical messages that are transferred over the synapse>
+
+# Learning Activity 7.4
+
+#### What is the hippocampus and where is it located?
+
+The hippocampus is a 3.5cm long tube-like cortical structure located in the medial temporal lobe of each hemisphere.
+
+#### Who is H.M. and why is he well known to memory researchers?
+
+H.M. or Henry Molaison is a patient who in an attempt to treat severe epilepsy had the majority of his medial temporal lobe surgically removed. Due to his very specific circumstances he is of interest to neurologists and psychologists studying memory.
+
+#### List the STM and LTM memory impairments experienced by H.M. after his surgery and what these indicate about the roles played and not played by the hippocampus in memory
+
+Molaison's STM was not impaired in any significant way, however, Molaison lost the ability to store new long-term declarative memories. He did however retain the ability to retrieve and learn new procedural memories, as well as retrieve previously learn declarative memories (although a large portion of approximately 2 years before his surgery were lost). This indicates that the hippocampus is likely to have a role in the consolidation of new declarative memories.
+
+#### What does the H.M. case study suggest about where LTMs are stored in the brain? Explain with reference to the case study.
+
+Henry's ability to retrieve the majority of his existing memories suggests that memories are actually stored in the hippocampus or the amygdala, but instead in other areas of the brain.
