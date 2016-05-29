@@ -57,3 +57,50 @@ Molaison's STM was not impaired in any significant way, however, Molaison lost t
 #### What does the H.M. case study suggest about where LTMs are stored in the brain? Explain with reference to the case study.
 
 Henry's ability to retrieve the majority of his existing memories suggests that memories are actually stored in the hippocampus or the amygdala, but instead in other areas of the brain.
+
+# Learning Activity 7.5
+
+#### Where is the amygdala located?
+
+The amygdala is located at the front of the hippocampus in a small bulb like shape within the medial temporal lobe.
+
+#### What role(s) does the amygdala play in implicit memory?
+
+Contributes to the creation of conditioned emotional responses.
+
+#### What role(s) does the amygdala play in explicit memory?
+
+May contribute to the activation of the hippocampus to stimulate memory storage.
+
+#### Why are conditioned emotional responses said to involve implicit memory?
+
+Conditioned emotional responses are said to involve implicit memory as there is no attempt or intention to access the memories but they are involuntarily retrieved in the prescence of a triggering stimulus.
+
+#### How does the hippocampus recieve information about an emotional event from the amygdala?
+
+Heightened concerntrations of the neurotransmitter norepinephrine in the amygdala during the prescene of emotionally arousing stimuli has been identified as a way that the hippocampus is signalled to 'tag' a memory.
+
+#### What role does the hippocampus play in the formation of emotional memories?
+
+The hippocampus strengthens the emotional memories in long-term storage.
+
+#### Identify the independent and dependent variables in the study by Antoine Bechara and colleagues (1995)
+
+IV: The type of brain damage experienced by a patient
+DV: Whether the patient experienced a conditional fear response and whether the patient recalled the experiment
+
+---
+
+Callie was badly bitten by her neighbour's dog yesterday. Describe what would happen if Callie saw the dog today under each of the following conditions:
+
+#### No amygdala or hippocampal damage
+
+Callie would see the dog, recognise it and experience an emotional response.
+
+#### Bilateral amygdala damage
+
+Callie would see the dog, recognise it but not experience an emotional response.
+
+#### Bilateral hippocampal damage
+
+Callie would see the dog, not recognise it but experience an emotional response.
