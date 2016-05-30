@@ -210,3 +210,45 @@ Narrative chaining refers to the construction of a story that links items togeth
 Narrative chaining relies on the principles of elaborative rehersal. After giving information meaningful links, recall becomes significantly easier as you are logically led from one item to another.
 
 ---
+
+### Areas of the brain for memory
+#### Hippocampus
+
+The hippocampus is a 3.5cm tube-like cortical structure located in the **medial temporal lobe** that has been identified as having a role in the production of memory. Specifically, the hippocampus is believed to be a key area in the production of **declarative memories**.
+
+While **consolidation** of declarative memory occurs within the hippocampus, it is not the final location where the long-term memories are stored, instead they are moved to areas of the brain where they are likely to be processed (e.g visual memories near the occipital lobe).
+
+#### Evidence for the functions of the hippocampus
+
+H.M. or Henry Molaison was a patient who suffered from severe epilepsy. In an attempt to treat his seizures, Molaison had the majority of his medial temporal lobe surgically removed. While surgically successful, the operation had the side-effect of seriously damaging his ability to store **new declarative memories**.
+
+Molaison's ability to **recall and learn procedural memories was unaffected**, although he could not recall the learning of the skills (e.g. mirror drawing).
+
+#### Amygdala
+
+The amygdala is a small bulbuous cortical area located at the end of the hippocampus in the medial temporal lobe. The amygdala is involved in the stimulation of memory storage for events that are particularly emotional (e.g fearful or frightening).
+
+#### Evidence for the functions of the amygdala
+
+TODO
+
+---
+
+### Memory over the lifespan
+
+- Tend to decline in short-term memory when dealing with complex tasks, however for simple tasks its fine
+- Procedural memories are the most resistant
+- Recall of prospective episodic memories is impaired
+
+---
+
+## Forgetting
+
+Forgetting is the inability to retrieve previously stored information.
+
+Psuedoforgetting is like hearing someones name after being introduced to them and 'forgetting it' - this is likely just not having enough time to encode the memory
+
+#### Retrieval failure theory
+#### Decay theory
+#### Interference theory
+#### Motivated forgetting theory
