@@ -234,6 +234,18 @@ TODO
 
 ---
 
+## Consolidation theory
+
+Consolidation theory suggests that memories are not immediately stored and are instead slowly consolidated. For consolidation to occur, the following must be satisfied:
+
+- Physical change (strengthening of synaptic connections)
+- No disruptions (alcohol, knocks to the head) must occur during consolidation
+- At least 30 minutes must pass for the memory to 'set'
+
+### Long-term potentiation
+
+Long-term potentiation (or LTP for short) refers to the long-lasting enhancement of synaptic transmission. Neurons that fire together become sensitive to each other, leading to strengthening of neural pathways.
+
 ### Memory over the lifespan
 
 - Tend to decline in short-term memory when dealing with complex tasks, however for simple tasks its fine
@@ -249,6 +261,21 @@ Forgetting is the inability to retrieve previously stored information.
 Psuedoforgetting is like hearing someones name after being introduced to them and 'forgetting it' - this is likely just not having enough time to encode the memory
 
 #### Retrieval failure theory
+
+Retrieval failure theory suggests that forgetting occurs due to an inability to locate the memory being looked for. The memory trace for the memory is available however it is inaccessible without a retrieval cue.
+
 #### Decay theory
+
+Decay theory suggests that memory traces in the brain will fade over time through lack of use and eventually become unavailable.
+
 #### Interference theory
+
+Interference theory suggests that forgetting occurs due to interference by other memories during recall. There are two types of interference that occur: proactive interference and retroactive interference.
+
+POIN, RNIO
+
 #### Motivated forgetting theory
+
+Repression and suppression
+
+SCRU
