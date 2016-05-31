@@ -104,3 +104,45 @@ Callie would see the dog, recognise it but not experience an emotional response.
 #### Bilateral hippocampal damage
 
 Callie would see the dog, not recognise it but experience an emotional response.
+
+# Learning Activity 7.6
+
+#### Briefly describe consolidation theory
+
+Consolidation theory suggests that physical changes occur when memory becomes permanently established.
+
+#### What three conditions are necessary for memory to be consolidated and therefore permanentyl stored?
+
+- Enough time (at least 30 minutes) to consolidate the memory
+- No disruption should occur during consolidation
+- ? Check notes
+
+#### Use consolidation theory to explain why a rugby player who is knocked unconscious during a game may be unable to remember how he was knocked unconscious.
+
+The player's memory up until the point of his impact were effected by his collision, causing him to not successfully consolidate memories in the 30 minutes before being knocked unconscious>
+
+#### Give an example of research evidence for the hippocampus having a crucial role in consolidation
+
+Henry Molaison who was an epilepsy patient who had his hippocampus surgically removed. After his surgery, it was found he had lost the ability to construct and consolidate new declarative memeories, suggesting that the hippocampus plays a crucial role in memory consolidation.
+
+#### Construct a research hypothesis for the experiment conducted by Hudspeth, McGaugh and Thomson (1964). Ensure you operationalise the variables.
+
+It was hypothesised that rats who experienced ECT sooner after learning to complete a maze would remember less of the maze when retested compared to rats who experienced a greater delay before administration of ECT.
+
+---
+
+#### Briefly describe reconsolidation theory.
+
+When memories are accessed, they must be consolidated again in order to be stored.
+
+#### Explain how reconsolidation may account for retrieval of distorted memories.
+
+When memories are accessed they may not be reconsolidated in an identical manner, leading them to change and morph into distorted accounts of the original memory.
+
+#### Reconsolidation theory suggests that a drug could be developed to erase unwanted or inappropriate memories. Suggest how a drug might be used for memory erasure with reference to reconsolidation theory.
+
+A drug that changes the mood of an individual while they consolidate memory could potentially modify that memory.
+
+#### Give an example of an ethical issue that may be relevant to intentional memory erasure
+
+Withdrawl rights and consent may be difficult to give.
