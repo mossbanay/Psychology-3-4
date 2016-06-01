@@ -214,7 +214,9 @@ Narrative chaining relies on the principles of elaborative rehersal. After givin
 ### Areas of the brain for memory
 #### Hippocampus
 
-The hippocampus is a 3.5cm tube-like cortical structure located in the **medial temporal lobe** that has been identified as having a role in the production of memory. Specifically, the hippocampus is believed to be a key area in the production of **declarative memories**.
+![Hippocampus](https://upload.wikimedia.org/wikipedia/commons/2/2e/Gray739-emphasizing-hippocampus.png)
+
+The hippocampus is a 3.5cm tube-like cortical structure located in the **medial temporal lobe**. Named after its seahorse like appearance, the area has been identified as having a role in the production of memory. Specifically, the hippocampus is believed to be a key area in the production of **declarative memories**.
 
 While **consolidation** of declarative memory occurs within the hippocampus, it is not the final location where the long-term memories are stored, instead they are moved to areas of the brain where they are likely to be processed (e.g visual memories near the occipital lobe).
 
@@ -226,11 +228,15 @@ Molaison's ability to **recall and learn procedural memories was unaffected**, a
 
 #### Amygdala
 
-The amygdala is a small bulbuous cortical area located at the end of the hippocampus in the medial temporal lobe. The amygdala is involved in the stimulation of memory storage for events that are particularly emotional (e.g fearful or frightening).
+![Amygdala](https://upload.wikimedia.org/wikipedia/commons/8/8b/Amyg.png)
+
+The amygdala is a **small bulbuous cortical area** located at the end of the hippocampus in the medial temporal lobe. The amygdala is involved in the **stimulation of memory storage** for events that are particularly emotional (e.g **fearful** or frightening).
+
+The amygdala is responsible for the creation of **conditioned emotional responses**. These involve involuntary reactions to stimuli. For example, first-responders to 9/11 are likely to sweat or start to cry when shown pictures of the WTC. These responses are a form of implicit memory as they are not recalled with conscious effort.
 
 #### Evidence for the functions of the amygdala
 
-TODO
+(LeDoux, 2000) showed that rats can be conditioned to fear a previously neutral stimulus. When shown a blue light, the experimenter gave an electrical shock to the rats. Eventually the rats began to exhibit a fear response to the blue light stimulus without zapping. However, those rats whose had their amygdala removed did not exhibit such behaviour.
 
 ---
 
@@ -272,7 +278,14 @@ Decay theory suggests that memory traces in the brain will fade over time throug
 
 Interference theory suggests that forgetting occurs due to interference by other memories during recall. There are two types of interference that occur: proactive interference and retroactive interference.
 
-POIN, RNIO
+Proactive interference suggests that previously learnt information inhibits the encoding and storage of new information.
+
+Retroactive interference suggests that newly learnt information inhibits the retrieval of old information.
+
+Two helpful mnemonics to remember how to distinguish between proactive interference and retroactive interference are POIN and RNIO.
+
+**P**roactive **O**ld **I**nterfers **N**ew
+**R**etroactive **N**ew **I**nterfers **O**ld
 
 #### Motivated forgetting theory
 
