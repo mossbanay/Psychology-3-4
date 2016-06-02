@@ -218,6 +218,10 @@ A variable that relates to the IV or the DV and may have an effect on them.
 Examples include:
 - Individual participant differences
 
+### Forgetting
+
+Forgetting refers to the inability to retrieve previously stored memories.
+
 ### Hemispheric specialisation
 ##### Also known as hemispheric lateralisation, hemispheric dominance
 

@@ -262,21 +262,33 @@ Long-term potentiation (or LTP for short) refers to the long-lasting enhancement
 
 ## Forgetting
 
-Forgetting is the inability to retrieve previously stored information.
+Forgetting is the **inability to retrieve previously stored information**.
 
 Psuedoforgetting is like hearing someones name after being introduced to them and 'forgetting it' - this is likely just not having enough time to encode the memory
 
 #### Retrieval failure theory
 
-Retrieval failure theory suggests that forgetting occurs due to an inability to locate the memory being looked for. The memory trace for the memory is available however it is inaccessible without a retrieval cue.
+Retrieval failure theory suggests that forgetting occurs due to an **inability to locate the memory** being looked for. The memory trace for the **memory is available however it is inaccessible** without a retrieval cue. Cues may be context-dependent (external environment) or state-dependent (internal environment).
+
+Retrieval failure does not tend to effect procedural memories.
+
+##### Evidence for retrieval failure theory
+
+- Retrieval failure theory is corroborated by TOT phenomenom in which people know they have a memory of something but are unable to access it
 
 #### Decay theory
 
-Decay theory suggests that memory traces in the brain will fade over time through lack of use and eventually become unavailable.
+Decay theory suggests that **memory traces in the brain will fade over time** through lack of use and eventually become unavailable. This theory relies on the premise that forgetting is a physiological process, and suggests that pathways can be strengthened by regular access.
+
+##### Evidence for decay theory
+
+- Decay theory has been unable to account for the sudden recollection of cues that sometimes occurs in the elderly
+- Decay theory is unable to explain the resilience of procedural memory
+- (Wittlinger, 1975) showed that participants were able to recognise names and faces of people from their childhoood at a comparable level 50 years between tests
 
 #### Interference theory
 
-Interference theory suggests that forgetting occurs due to interference by other memories during recall. There are two types of interference that occur: proactive interference and retroactive interference.
+Interference theory suggests that forgetting occurs **due to interference by other memories** during recall. The more similar two memories are, the more likely interference is likely to occur. There are two types of interference that occur: proactive interference and retroactive interference.
 
 Proactive interference suggests that previously learnt information inhibits the encoding and storage of new information.
 
@@ -284,11 +296,31 @@ Retroactive interference suggests that newly learnt information inhibits the ret
 
 Two helpful mnemonics to remember how to distinguish between proactive interference and retroactive interference are POIN and RNIO.
 
-**P**roactive **O**ld **I**nterfers **N**ew
-**R**etroactive **N**ew **I**nterfers **O**ld
+**P**roactive **O**ld **I**nterfers with **N**ew
+**R**etroactive **N**ew **I**nterfers with **O**ld
+
+##### Evidence for interference theory
+
+- Semantic memories such as comprehension of a book or other text are much less prone to interference
+- Most experiments used to test interference theory have used recall in the experiment, which is especially vulunerable to interference over more sensitive measures of retention like recognition and relearning
 
 #### Motivated forgetting theory
 
-Repression and suppression
+Motivated forgetting occurs when **an individual has a strong urge** or want to forget a memory. There are two types of motivated forgetting: repression and suppression. Motivated forgetting was first proposed by **Sigmund Freud**. He suggested that repressed memories lie inaccessible without special conditions such as triggering videos, music or hypnosis.
 
-SCRU
+**Repression** occurs when unwanted memories are subconsciously pushed out of the mind and consequently the person is unable to acknowledge the existance such memories.
+
+**Suppression** occurs when an individual ignores a memory, although it remains accessible.
+
+
+A handy acronym for remembering these two types of motivated forgetting is **SCRU**
+
+**S**uppression
+**C**onscious
+**R**epression
+**U**nconscious
+
+##### Evidence for motivated forgetting theory
+
+- No way to tell if repressed memories are true without corroboration
+- There is a general lack of experimental research to challenge or support Freud's theory due to ethical issues in the creation of repressed memories
