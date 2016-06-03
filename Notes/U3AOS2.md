@@ -60,9 +60,11 @@ Memories leave short term memory by either **displacement** or **decay**.
 | --- | --- | --- | --- | --- | --- |
 | Recevies information from sensory memory; receives information from long-term memory; sending information to long-term memory | 7 ± 2 items | ~20 seconds | Mostly acoustic; Attention and rehersal will help store info in STM | Displacement and interference; Possibility of decay | --- |
 
-#### Evidence of short term memory
+#### Serial position effect
 
-TODO
+The serial position effect refers to the **better recall observed for words at the start and end** of a list than those in the middle. In the serial position effect, there are two major effects that are occuring. The **primacy effect** is the tendency for the words at **the start of the list** to be recalled better (due to more attention being paid to them) whereas the **recency effect** is the tendency for words at the **end of the list** to be recalled better (as they are unlikely to have been displaced or decayed when immediate free recall is used).
+
+The serial position effect provides evidence of the separation between STM and LTM as it suggests that words may be stored in different areas.
 
 #### Rehersal
 
@@ -324,3 +326,4 @@ A handy acronym for remembering these two types of motivated forgetting is **SCR
 
 - No way to tell if repressed memories are true without corroboration
 - There is a general lack of experimental research to challenge or support Freud's theory due to ethical issues in the creation of repressed memories
+
