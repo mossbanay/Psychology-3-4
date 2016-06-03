@@ -11,9 +11,18 @@ An **acronym is a shortened or abbreviated phrase** made into a **pronounceable*
 
 The term used to describe any state of consciousness that is distinctly different from normal waking consciousness, in terms of level of awareness and experience, and the quality or intensity of sensations, perceptions, thoughts feelings and memories that are experienced.
 
+### Amnesia
+
+A term used to refers to the partial or complete loss of memory that is either temporary or permamnent. There are two forms of amnesia: anterograde amnesia and retrograde amnesia.
+
 ### Amygdala
 
 TODO
+
+### Anterograde amensia
+##### See also amensia
+
+Anterograde amensia is a particular amensia in which memories after damage has occured to the brain cannot be recalled, that is to say there is a disruption in establishment or encoding of new memories. Henry Molaison is a famous example of a patient with anterograde amensia.
 
 ### Anosognosia
 
@@ -47,6 +56,10 @@ Automatic processes are processes that can be completed with divided attention. 
 ### Axon
 
 The tube-like extension from the soma that carries information away from the neuron and sprays out over the synapse via the axon terminals.
+
+### Brain trauma
+
+An umbrella term for any brain damage that impairs the functioning of the brain temporarily or permanently.
 
 ### Broca's aphasia
 ##### Also known as non-fluent aphasia
@@ -108,7 +121,7 @@ Since consciousness is described as a continuum, at any particular point you wou
 ### Context dependent cues
 ##### Also see state dependent cues
 
-TODO
+Context dependent cues are cues that are triggered by a person's external environment. For example, you may be cued to remember certain psychology facts while in your psychology room, or you may be cued to recall your childhood when you walk around your childhood neighbourhood.
 
 ### Controlled processes
 ##### See also automatic processes
@@ -124,6 +137,10 @@ Daydreaming is an ASC in which an individual shifts away from external stimuli t
 ##### See also procedural memory
 
 Declarative memory involves memory for facts, events and general knowledge. Declarative memory is also split into two sub-types of memory: episodic and semantic.
+
+### Dementia
+
+An umbrella term for neurodegenerative diseases that cause a progressive decline in mental function as well as changes in behaviour and ability to perform everyday tasks.
 
 ### Dendrites
 
@@ -257,6 +274,10 @@ Inferential statistics include:
 
 Interneurons perform the important function of making the connection between sensory and motor neurons. Interneurons are found exclusively in the CNS, and are most abundant in the brain.
 
+### Korsakoff's syndrome
+
+Korsakoff's disease is a form of neurodegenerative disease often observed in alcoholics in which major damage is caused to the thalamus, often leading to anterograde amensia.
+
 ### Leading question
 
 A leading question has content or is phrased in such a way as to suggest what answer is desired or to lead you to the desired answer.
@@ -311,6 +332,15 @@ Narrative chaining refers to the construction of a story that links items togeth
 For example, if trying to remember the words [worm, bus, wings, kite, rock, egg], you might construct a tale that goes something like this.
 
 "The worm biting onto a string connected to a kite was strapped onto a fast-moving bus veering out of control. The bus then crashed into a large rock, shattering all the eggs it carried."
+
+### Neurodegenerative disease
+
+Any disease that is characterised by a progressive decline in the structure and function of brain tissue.
+
+Examples of neurodegenerative diseases include:
+- Alzheimer's disease
+- Korsakoff's syndrome
+- Other forms of dementia
 
 ### Neuron
 
@@ -402,6 +432,11 @@ The process of consciously manipulating information so that it can aid retrieval
 
 Retrieval is the process of locating and recovering the stored information from memory so that we are consciously aware of it.
 
+### Retrograde amensia
+##### See also amnesia
+
+Retrograde amensia is a particular amensia in which memories before damage has occured to the brain cannot be recalled, that is to say there is a disruption in retrieval of old memories. This may be seen in patients who have had a knock to the head and cannot remember an hour or so before their incident.
+
 ### Selective attention
 ##### See also divided attention
 
@@ -486,7 +521,7 @@ Spreading activation (introduced by Collins and Loftus in 1975) suggests that ac
 ### State dependent cues
 ##### Also see context dependent cues
 
-TODO
+State dependent cues are cues that are triggered by a person's internal environment. For example, while in a happy mood you're more likely to remember happy memories but while in a sad mood you're more likely to remember sad memories.
 
 ### State of consciousness
 ##### See also consciousness

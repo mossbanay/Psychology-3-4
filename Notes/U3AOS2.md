@@ -327,3 +327,37 @@ A handy acronym for remembering these two types of motivated forgetting is **SCR
 - No way to tell if repressed memories are true without corroboration
 - There is a general lack of experimental research to challenge or support Freud's theory due to ethical issues in the creation of repressed memories
 
+---
+
+### Amensia
+
+Amensia is the term used for the **partial or complete loss of memory that occurs temporarily or permanently**. Amensia can be caused by a number of things such as impacts to the head and neurodegenerative diseases.
+
+In general there are two major types of amensia: anterograde amensia and retrograde amnesia.
+
+**Anterograde amnesia** refers to the inability to recall **new information**.
+
+**Retrograde amnesia** refers to the inability to recall **old information**.
+
+---
+
+### Dementia
+
+Dementia is an umbrella term used to a variety of symptoms relating to **neurodegenerative diseases**. Dementia is **not a normal part of aging**. The most common form of dementia is Alzheimer's disease. Typically dementia is observed to progress through different stages, with the onset normally being when a patient is 80 years or older but cases have been observed where the onset of dementia has occured as young as 30 years old.
+
+The most common symptoms include those relating to a reduction in mental capacity including:
+
+- Memory loss (persistent and progressive)
+- Decline in mental abilities (reasoning, problem-solving)
+- Abnormal emotional reactions
+- Poor judgment
+
+Dementia **cannot be conclusively diagnosed without an autospy** in which microscopic examination of brain tissue can be conducted.
+
+#### Alzheimer's disease
+
+Alzheimer's disease is the most common form of dementia, with approximately 100,000 australians surffering each year. In the early stages of Alzheimer's disease, the patient is likely to be able to live with minimal assistance, only experiencing moderate memory loss and confusion. As the disease progresses, cortical tissue in the brain degenerates and mental function drops. Both retrograde and anterograde amnesia can be observed, a distinguishing feature of Alzheimer's disease.
+
+The two major causes of damage in the brain in Alzheimer's disease are **amyloid plaques** and **neurofibrillary tangles**.
+
+![Amyloid plaques and neurofibrillary tangles](http://www.brightfocus.org/sites/default/files/styles/full_width/public/Normal_vs_Alzheimers_Brain.jpg?itok=mQP5SCYz)
