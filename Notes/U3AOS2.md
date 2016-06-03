@@ -118,6 +118,8 @@ Semantic memory stores information about facts and general knowledge that is not
 
 Episodic memory refers memories about a specific time or place that was personally experienced. This includes details on the time, place, psychological and physiological state, as well as when the event occured.
 
+Episodic memories are also split into two types: prospective memories (future) and retrospective memories (past).
+
 ---
 
 ### Semantic network theory
@@ -254,11 +256,23 @@ Consolidation theory suggests that memories are not immediately stored and are i
 
 Long-term potentiation (or LTP for short) refers to the long-lasting enhancement of synaptic transmission. Neurons that fire together become sensitive to each other, leading to strengthening of neural pathways.
 
+---
+
 ### Memory over the lifespan
 
-- Tend to decline in short-term memory when dealing with complex tasks, however for simple tasks its fine
-- Procedural memories are the most resistant
-- Recall of prospective episodic memories is impaired
+Memory as a whole is expected to undergo changes across the lifespan, with older individual's showing the biggest changes. After infancy and infantile amensia, memory is relatively stable until elderly age.
+
+Elderly people often lose faith in their memory, leading to the perceived loss of memory.
+
+#### Changes in STM over the lifespan
+
+The impact of age on STM depends on the type of task being assessed. Typically in **simple** tasks such as remembering a list of words, there is **little to no impact** on performance. However if a tasks involves **more complicated actions** such as recalling a list in alphabetical order, **younger participants perform better than older participants**.
+
+#### Changes in LTM over the lifespan
+
+Typically, **procedural memory is the most resistant types of memory**, often never becoming inacessible or lost regardless of age.
+
+Episodic memories in particular prospective memory (remembering to do things in the future) is often impaired in the elderly.
 
 ---
 
@@ -333,11 +347,13 @@ A handy acronym for remembering these two types of motivated forgetting is **SCR
 
 Amensia is the term used for the **partial or complete loss of memory that occurs temporarily or permanently**. Amensia can be caused by a number of things such as impacts to the head and neurodegenerative diseases.
 
-In general there are two major types of amensia: anterograde amensia and retrograde amnesia.
+In general there are three major types of amensia: infantile amensia, anterograde amensia and retrograde amnesia.
 
 **Anterograde amnesia** refers to the inability to recall **new information**.
 
 **Retrograde amnesia** refers to the inability to recall **old information**.
+
+**Infantile amensia** refers to the inability to recall memories before the age of about 3 due to a lack of brain development.
 
 ---
 
