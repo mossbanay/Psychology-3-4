@@ -377,3 +377,11 @@ Alzheimer's disease is the most common form of dementia, with approximately 100,
 The two major causes of damage in the brain in Alzheimer's disease are **amyloid plaques** and **neurofibrillary tangles**.
 
 ![Amyloid plaques and neurofibrillary tangles](http://www.brightfocus.org/sites/default/files/styles/full_width/public/Normal_vs_Alzheimers_Brain.jpg?itok=mQP5SCYz)
+
+#### Korsakoff's syndrome
+
+Caused by long-term deficiency in thiamine (Vitamin-B) and alcohol abuse, Korsakoff's syndrome is characterised by severe anterograde amnesia. While the damage of the disease is caused over long periods of alcohol abuse, the onset of the syndrome occurs over a period of only a few days and is irreverisble. Prevention of worsening conditions can be achieved by administration of thiamine intravenously.
+
+#### Huntington's disease
+
+Huntington's disease is hereditary disease that affected the production of a specific type of protein in the brain. During onset of the disease, the rogue Huntington protein clumps together in cells nucleus, inhibiting normal functioning. Huntington's disease can cause difficulties with speech, thinking and movement. Although some of its symptoms are treatable, prevention or delaying of the onset of the disease isn't available yet.

@@ -61,6 +61,9 @@ The tube-like extension from the soma that carries information away from the neu
 
 An umbrella term for any brain damage that impairs the functioning of the brain temporarily or permanently.
 
+There are two types of brain trauma: inflicted brain trauma and acquired brain trauma.
+ Inflicted brain trauma is trauma casued by direct damage to the head whereas acquired brain trauma is caused by damage to other parts of the body such as long-term alcoholism, stroke or neurodegenerative diseases.
+
 ### Broca's aphasia
 ##### Also known as non-fluent aphasia
 
