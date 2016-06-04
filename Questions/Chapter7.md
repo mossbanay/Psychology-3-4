@@ -146,3 +146,61 @@ A drug that changes the mood of an individual while they consolidate memory coul
 #### Give an example of an ethical issue that may be relevant to intentional memory erasure
 
 Withdrawl rights and consent may be difficult to give.
+
+# Learning Activity 7.7
+
+#### What is amnesia?
+
+Amnesia is the partial or complete inability to access memory temporarily or permanently.
+
+#### Explain the meaning of the phrase 'amnesia resulting from brain trauma and neurodegenerative disease'.
+
+Amnesia that is caused by damage to neural tissue either by brain trauma or neurodegenerative diseases.
+
+#### Why are Alzheimer's disease and Korsakoff's syndrome considered to be neurodegenerative diseases?
+
+They both cause a progressive decline in the structure and function of brain tissue.
+
+#### Distinguish between amnesia that may result from an inflicted brain injury or from an accquired brain injury.
+
+Amnesia caused by an inflicted brain injury may arise from violent shaking of the head or an inentional blow to the head whereas amnesia caused by an acquired brain injury some time after birth may arise from stroke, brain infection, alcoholism or neurogenerative diseases.
+
+#### Distinguish between anterograde amnesia and retrograde amnesia, with reference to an example.
+
+Anterograde amnesia refers to the loss of the ability to form new memories following brain trauma, whereas retrograde amnesia refers to the loss of the ability to retrieve memories that occured prior to the brain trauma.
+
+---
+
+Voula was involved in a car accident as a passenger. She was not wearing a seatbelt and hit her head on the front windscreen when the two cars collided. She was unconscious for a short time. Brain scans showed there was no permanent brain damage; however, Voula experienced memory problems for some time after the accident.
+
+#### If Voula suffered anterograde amnesia, what memory problems is she likely to experience?
+
+Voula may find herself unable to remember the names of doctors and those who she meets.
+
+#### If Voula suffered retrograde amnesia, what memory problems is she likely to experience?
+
+Voula may be unable to recall her accident or in severe cases who she is.
+
+# Learning Activity 7.8
+
+#### Explain what dementia is with reference to commonly described early and latter stage symptoms
+
+Dementia is an umbrella term for a set of diseases that cause a decline in mental abilities that is not typical of normal aging. Symptoms of dementia include moderate memory loss in the early stages to severe memory loss, personality changes and confusion in the latter stages.
+
+---
+
+#### What is Alzheimer's disease?
+
+Alzheimer's disease is the most common form of dementia.
+
+#### Why is Alzheimer's disease irreversible?
+
+Alzheimer's disease is caused by damage to the structure of brain tissue caused by amyloid plaques and neurofibrillary tangles. The brain matter lost by the damage caused cannot be regrown by the body and is consequently permanent.
+
+#### Why is Alzheimer's disease attributable to neurological factors?
+
+Postmortems of people who have died with Alzheimer's disease have shown that up to 75% shrinkage in areas such as the hippocampus. This illustrates that the severity of the disease depends upon the amount of neurological damage caused.
+
+#### Why does Alzheimer's disease ultimately lead to an earlier death?
+
+The brain slowly reduces in functionality until it cannot support the body.
