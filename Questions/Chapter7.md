@@ -204,3 +204,17 @@ Postmortems of people who have died with Alzheimer's disease have shown that up 
 #### Why does Alzheimer's disease ultimately lead to an earlier death?
 
 The brain slowly reduces in functionality until it cannot support the body.
+
+# Learning Activity 7.9
+
+| Type of memory | Changes |
+| --- | --- |
+| Short-term memory | For simple tasks, short-term memory is relatively unaffected, although when completing complex tasks, there is a noticeable reduction in performance |
+| Procedural memories | Procedural memories are mostly resistant to ageing and to not deteriorate |
+| Episodic memories | Prospective episodic memory tends to become less effective as an individual grows older however retrospective memory is relatively stable |
+
+---
+
+#### What are four explanations of age-related decline in memory?
+
+There are several explanations for the cause of the decline in memory as ageing occurs. Perhaps the most simple refers to a loss confidence in one's memory. Older people typically believe that their memory is growing ineffective, and subsequently behave as though that holds true. Another suggestion made to explain changes in memory is a lack of motivation for older people to memorise content in psychological experiments (such as nonsense syllables) as they have often already 'seen the world'. Thirdly, the measure of retention used to remember information changes greatly how the memory of an individual performs. Elderly performed at a similar level to younger participants in recognition tasks but significantly worse in recall tasks. Finally, the most researched hypothesis for changes in memory over the lifespan is physiological changes such as the shrinking of the frontal lobe and slowing of the CNS. These changes to the brain can lead to cognitive slowing.
