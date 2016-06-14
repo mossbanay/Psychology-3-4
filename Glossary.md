@@ -435,6 +435,14 @@ The process of consciously manipulating information so that it can aid retrieval
 
 Retrieval is the process of locating and recovering the stored information from memory so that we are consciously aware of it.
 
+### Retrieval cue
+
+A retrieval cue is any stimuli that assists in the process of locating information stored in memory.
+
+### Retrieval failure theory
+
+Retrieval failure theory suggests that memories become inaccessible due lack of correct cues that lead to the information stored in LTM.
+
 ### Retrograde amensia
 ##### See also amnesia
 
@@ -564,6 +572,10 @@ The small seperation between the pre-synaptic neuron and the post-synaptic neuro
 ### Tachistoscope
 
 A specialised projector used to project images on a screen for a precise period of time.
+
+### Tip of the tongue phenomenon (TOT)
+
+TOT is the feeling of being confident that you are able to remember a piece of information however at the present time you are unable to remember the information.
 
 ### Werenicke's aphasia
 ##### Also known as fluent aphasia

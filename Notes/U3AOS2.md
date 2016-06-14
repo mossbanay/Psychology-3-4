@@ -136,6 +136,8 @@ The length of links determine the relevance between topics. Typically the longer
 
 Collin and Quillian (1969) (refer to slide 52 in Ong's notes)
 
+TOT suggests that information is linked in a relatively logical manner within the brain, supporting semantic network theory.
+
 #### Questions about semantic network theory
 
 - Why might it be advantageous to organise memories semantically?
@@ -291,6 +293,8 @@ Retrieval failure does not tend to effect procedural memories.
 ##### Evidence for retrieval failure theory
 
 - Retrieval failure theory is corroborated by TOT phenomenom in which people know they have a memory of something but are unable to access it
+- Retrieval failure theory does not explain the failure to access certain anxiety-laden memories
+- Retrieval failure theory does not explain the failure to access memories lost as a result of head trauma
 
 #### Decay theory
 

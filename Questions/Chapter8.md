@@ -47,3 +47,49 @@ Samir has booked in for his learner permit test in four weeks. He intends to spe
 #### What impact would you expect this approach to learning over an extended period will have on both the rate and amount of forgetting after the test?
 
 As the material was learnt over a longer period of time, it would be expected that the rate of information lost from memory would be slower compared to what would normally be expected for information learnt over a shorter period of time.
+
+# Learning Activity 8.5
+
+#### Define the term retrieval cue with reference to examples of different types of retrieval cues
+
+A retrieval cue is any stimulus that assists in the process of accesssing information stored in memory. An example of a retrieval cue may be a word that reminds of certain information like someones name. Another example of a retrieval cue is a picture of a family member.
+
+---
+
+#### What is retrieval failure theory?
+
+Retrieval failure theory suggests that information stored in memory becomes inaccessible due to a lack of appropriate cues to lead to the location of the information.
+
+#### Why is retrieval failure theory sometimes called cue-dependent forgetting?
+
+Retrieval failure theory is sometimes called cue-dependent forgetting as it refers to information becoming inacessible due to the 'forgetting' of cues.
+
+---
+
+#### Give an example of retrieval failure not reffered to in the text
+
+Not being able to remember someones name a week after meeting them at a party.
+
+#### Outline the strengths and limitations of retrieval failure theory
+
+Retrieval failure theory does explain the loss of memory that results from head trauma or the inability to access anxiety-laden memories however it is supported by semantic network theory and the TOT phenomenon.
+
+---
+
+#### What is the tip-of-the-tongue (TOT) phenomenon?
+
+TOT is the feeling of being confident that you are able to remember a piece of information however at the present time you are unable to remember the information.
+
+#### Give a psychological and physiological explanation of why TOT occurs
+
+TOT occurs when only some of appropriate retrieval cues are located, leading to partial retrieval of the information.
+
+#### What does TOT suggest about LTM storage?
+
+Since TOT only effects specific types of information, it suggests that memories are stored in a variety of forms and in an oraganised way. TOT also suggests that retrieval is not an all-or-nothing process and that pieces of information can be retrieved.
+
+---
+
+#### Explain whether TOT provides evidence for the semantic network theory
+
+TOT suggests that information in memory is stored in a way that is connected in a relatively logical manner. This supports the proposals made by the semantic network theory that information is stored in a web of information stitched together by meaningful links.
