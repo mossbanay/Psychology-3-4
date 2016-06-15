@@ -93,3 +93,57 @@ Since TOT only effects specific types of information, it suggests that memories 
 #### Explain whether TOT provides evidence for the semantic network theory
 
 TOT suggests that information in memory is stored in a way that is connected in a relatively logical manner. This supports the proposals made by the semantic network theory that information is stored in a web of information stitched together by meaningful links.
+
+# Learning Activity 8.6
+
+#### Briefly describe the interference theory of forgetting
+
+The interference theory of forgetting suggests that a failure to retrieve information from LTM is due to the interference by other memories, especially those which are similar.
+
+#### Define retroactive interference and proactive interference
+
+Retroactive interference refers to new information interfering with old information whereas proactive interference refers to old information interfering with new information.
+
+#### Explain the key feature that distinguishes retroactive interferences from proactive interference
+
+The order in which the information is learnt and whether the earlier or newer information is being recalled.
+
+#### What two suggestions could be given to a VCE student studying for exams to help them minimise forgetting that may result from interference?
+
+Seperate the types of information that are being learnt for each subject. The more different the information being learnt is, the less likely it is to be effected by interference. If this cannot be achieved for subjects that are inherently similar, subjects that have the potential to interfere with each other should be studied as far apart as possible to ensure there is as much time between learning as possible.
+
+---
+
+A friend of yours who is studying VCE French and Italian comments: 'Sometimes I find that studying for Italian actually makes it harder to remember the material I previously studied for French. Am I just imaginging this or could this really happen?'
+
+#### Describe a response you could give with reference to one or more theories of forgetting.
+
+It's likely that the information being learnt in each subject is interfering with the information learnt in the other subject as the content and syntax of both languages are similar.
+
+---
+
+Suppose you meet Harry and Emma on your first day of a vacation at a Gold Coast resort. First Harry tells you his room number. You listen carefully and commit it to memory. Later, Emma tells you her room number and you memorise it. That evening you try to go to Emma's room but discover that you can't remember which of the two numbers it is. You then try to recall Harry's number and realise you are also unsure about this.
+
+#### Which type of interference would cause you to forget Emma's room number? What information caused the interference?
+
+Retroactive interference caused by Emma's room number.
+
+#### Which type of interference would cause you to forget Harry's room number? What information caused the interference?
+
+Proactive interference caused by Harry's room number.
+
+---
+
+#### Can forgetting caused by interference be explained in terms of retrieval failure? If so, how? If not, why not?
+
+Yes, as the retrieval cues leading to pieces of information may be changed during the learning of other information or be unable to change in the case of proactive interference.
+
+#### Can forgetting caused by retrieval failure be explained in terms of interference? If so, how? If not, why not?
+
+No?
+
+---
+
+#### Outline the strengths and limitations of interference theory
+
+Limitation -> most experiments to study interference theory have used recall which is an especially vulunerable measure of retention to interference
