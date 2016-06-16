@@ -128,6 +128,7 @@ Mnemonic devices improve memory by providing cues for recall or by adding meanin
 ---
 
 | Mnemonic device | Type of information best suited | How it is used | Example | Why is it effective |
+| --- | --- | --- | --- | --- |
 | Acronym | Works best with phrases that end up with an easily pronounceable word | Concatenation of the first letter of each word in the phrase | NASA | Each letter in the acronym provides  a cue to remember the next word in the phrase |
 | Acrostic | Sequences or lists of words such as the planets, points in an essay or other information | The first letter of each item in the sequence is made into a another word starting with the same letter | E G B D F, every good boy deserves fruit | The first letter of each word in the acrostic acts as a cue for recall |
 | Narrative chaining | Lists of abstract nouns | A narrative or story is created that links each item in the list to the next in a meaningful way | way too long to fit cmon | Narrative chaining works by encoding the items at a deeper level by linking them to one another, making it easier to locate and retrieve them |
