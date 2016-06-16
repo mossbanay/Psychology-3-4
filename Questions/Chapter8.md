@@ -147,3 +147,40 @@ No?
 #### Outline the strengths and limitations of interference theory
 
 Limitation -> most experiments to study interference theory have used recall which is an especially vulunerable measure of retention to interference
+
+# Learning Activity 8.7
+
+#### Which data in the graph shows the results for group B? Explain your answer.
+
+The green line as it is labelled for the normal waking activities.
+
+#### Suggest an explanation of the results in terms of interference.
+
+Group A who went to sleep immediately after the learning of the nonsense syllables limited the degree to which new information learnt during normal waking activity interfers with the sbility to retrieve the syllables. However, Group B did not undergo such prevention and were consequently more effected more interference with other information and performed worse on recall as a result.
+
+#### Construct a research hypothesis for the experiment.
+
+It was hypothesised that first-year university students who slept immediately after learning a list of nonsense syllables would be able to recall more from the list than those who slept after 30 minutes of normal waking activities.
+
+#### Identify the operationalised variables.
+
+Whether the participant's sleep was delayed or not.
+
+#### Suggest two extraneous or confounding variables that may not have been adequately controlled and explain your choice of each variable.
+
+- Natural memory ability or tendency to fall asleep (individual participant differences)
+- Participants in Group B were tested 30 minutes longer from the learning section of the experiment than those in Group A
+
+#### Write a possible conclusion for the experiment, ensuring that you refer to your answers above.
+
+The hypothesis that first-year university students who slept immediately after learning a list of nonsense syllables would be able to recall more from the list than those who slept after 30 minutes of normal waking activities was supported by the results of the experiment.
+
+On average 8 hours after learning, Group A who slept immediately after learning could recall on average 60% of the syllables compared to just 10% in Group B.
+
+The DV may have been confounded by the differences in timing for each group. During the first assessment of retention at the 1 hour mark, Group A would have had 1 hour of sleep whereas Group B will have had just 1/2 hour of sleep. Differences in the position of the sleep cycle may effect cognition and therefore may confound the results of the experiment.
+
+Convenience sampling from the psychology cohort at the university was used to select a sample for the experiment. There were no actions taken to control for individual participant differences such as memeory ability or tendency to fall asleep which may have effected the measurement of the DV by having a naturally innate memory or higher quality of sleep. In future studies, random stratified sampling should be used where possible.
+
+#### Explain whether or not the results of the experiment can be generalised.
+
+While the results of the experiment support the hypothesis, confounding and extraneous variables were not adequately controlled for the findings to be generalised to the population.
