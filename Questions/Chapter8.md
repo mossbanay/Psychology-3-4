@@ -184,3 +184,70 @@ Convenience sampling from the psychology cohort at the university was used to se
 #### Explain whether or not the results of the experiment can be generalised.
 
 While the results of the experiment support the hypothesis, confounding and extraneous variables were not adequately controlled for the findings to be generalised to the population.
+
+# Learning Activity 8.9
+
+#### According to motivated forgetting theory, why are we sometimes motivated to forget? Explain with reference to an example not used in the text.
+
+In order to protect mental stability and prevent emotions from taking over, the body may either consciously or unconsciously make certain memories inacessible to the conscious mind. An example might be not being able to remember traumatic childhood memories of abuse.
+
+#### Explain the suggested roles of repression and suppression in forgetting.
+
+Repression and suppression are proposed to be the mechanisms by which information is held from conscious retrieval in the motivated forgetting theory.
+
+#### What is the key difference between repression and suppression?
+
+Suppresion is primarly a conscious action whereas repression occurs unconsciously.
+
+---
+
+#### Outline the strengths and limitations of motivated forgetting theory.
+
+- Difficult to study, as there is often no way to corroborate repressed memories.
+- There is a general lack of experimental research to challenge or support Freud's theory due to ethical issues in the creation of repressed memories>
+
+---
+
+#### Briefly describe the decay theory of forgetting.
+
+The decay theory of forgetting suggests that forgetting occurs from a period of time throughout which the neurological representation of memories (called a memory trace) are not accessed and as a result weaken.
+
+#### What evidence or experiences suggests that 'information' in LTM may decay through disuse?
+
+- (Wittlinger, 1975) showed that participants were able to recognise names and faces of people from their childhoood at a comparable level 50 years between tests
+
+#### What evidence or experiences suggests that 'information' in LTM does not necessarily fade through disuse?
+
+- Decay theory is unable to explain the resilience of procedural memory
+- Decay theory has been unable to account for the sudden recollection of cues that sometimes occurs in the elderly.
+
+#### To which other memory system(s) is decay theory more relevant?
+
+Short-term memory and sensory memory where information in either system is filtered out of consciousness without renewal.
+
+---
+
+Suppose you were designing an experiment to test decay theory. The conditions for one of your experimental groups would have to be such that nothing affected the memory trace except the passage of time.
+
+#### Is it possible to set up the conditions for this group to control the influence of extraneous variables that could affect the results such as retrieval failure, interference and motivated forgetting? Explain your answer.
+
+Information can be constructed in a randomised way such that no interference can occur with existing information in LTM and information that is to be learnt between the start and end of the experiment. Usage of nonsense syllables would be unlikely to prompt motivated forgetting either consciously unsconiously. However retrieval failure would be difficult to account for as it would be impossible to determine whether a participant cannot recall a piece of information due to an inability to locate a retrieval due or degradation of the memory trace itself.
+
+---
+
+#### Outline the strengths and limitations of decay theory.
+
+- Decay theory is unable to explain recollection of memories that were apparently 'lost'. For example, when seeing a friend who you have not seen in many years, you may be prompted to remember events or parties experienced with them that were otherwise inaccessible.
+
+#### Read box 8.6 on comparing theories of forgetting and suggest a relevant example for retrieval failure theory.
+
+Previous administrative officers carelessness have led to mislabelling of many entries, rendering certain information inacessible.
+
+#### Construct a table that summaries theories of forgetting.
+
+| Theory of forgetting | Strengths | Limitations |
+| --- | --- | --- |
+| Motivated forgetting theory | --- | Difficult to study in an ethical manner as the creation of repressed memories is considered harming to the participant |
+| Decay theory | --- | Doesn't explain the sudden flood of memories that may occur when meeting an old friend or the resilience of procedural memories  |
+| Interference theory | Can be modelled by semantic network theory | Majority of research relies on recall which is a measure of retention that is very sensitive to interference |
+| Retrieval failure theory | Corroborated by TOT phenomenon | Doesn't explain the failure to access memories lost as a result of head trauma or which are particularly anxiety-laden |
