@@ -111,6 +111,14 @@ the effects of total and partial sleep depreviation:
 - sleep recovery patterns including amount of sleep required, REM rebound and microsleeps
 - sleep-wake cycle shifts during adolescence compared with child and adult sleep including delayed onset of sleep and need for sleep
 
+### Can REM sleep be removed from sleep?
+
+A case study of a man named Y.H. in 1996 by researchers at Yale University yielded a curious case where no REM sleep was observed at all. The mans background in the Israeli Army led to schrapnel becoming embedded within the Pons, a particular area of the brain stem. It is thought as a result of this that the Pons is a key area in the signalling of REM sleep. On a typically night Y.H. was found to spend approximately 2-5% of his night in REM sleep compared to 20% in neurotypical adults. However, Y.H. reports that he sleeps well and feels refreshed. The cause for Y.H. to be brought into a sleep lab in the first place was due to his episodes of shouting loudly after awaking in the night. These were later identified to be a result of **night terrors** which occur in NREM stages 3&4.
+
+### Why do we dream? (Hobson and McCarley's activation-synthesis theory)
+
+American psychologists Allan Hobson and Robert McCarley (1977) proposed that the reticular activating system (RAS) and the Pons play a role in the temporary paralysis experienced during sleep. They attribute the disjointed and illogical nature of dreams to the random activation that occurs within the brain stem.
+
 ## Brain
 
 ### Structure of the brain
