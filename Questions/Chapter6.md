@@ -115,35 +115,42 @@ An experiment that showed statistically signifcant results was completed. Assumi
 
 #### What is sensory memory?
 
-Sensory memory is the entry point of memory where new incoming memory is stored for a very brief period.
+Sensory memory is the entry point of memory where new incoming sensory information is stored in a raw (sensory) form for a very brief period.
 
-#### Distinguish between the terms sensory memory sensory register
+#### Distinguish between the terms sensory memory and sensory register
 
-The term sensory register refers to the memory storage for a particular sense whereas sensory memory refers to the collective memory from all sensory registers.
+The term sensory register refers to the memory storage for a particular sense whereas sensory memory refers to the collective memory encompassing all sensory registers. Each sensory register differs from one another as they have different capacities and durations.
 
 #### Why can sensory memory be described as a memory system or sub-system rather than a perceptual system?
 
-Information in sensory memory is stored in the relevant organs and not in the brain. As a result of this the information cannot be processed or interpreted, making perception unachievable.
+Sensory memory only deals with the storage and retention of sensory information whereas a perceptual system receives, processes and interprets the raw information in a meaningful way.
 
 ---
 
 #### Define iconic memory and echoic memory with reference to examples that help clarify the definitions.
 
-Iconic memory refers to visual memory such as what you see. Echoic memory is auditory memory such as sounds you can hear.
+Iconic memory refers to visual memory which stores images in their original sensory form for 0.2-0.4 seconds such as what you see in your field of view.
+
+Echoic memory is auditory memory which stores sounds in their original sensory form for 3-4 seconds such as sounds you can hear around you.
 
 #### Describe the main distinguishing characteristics of iconic and echoic memory. Refer to the type of sensory information and the storage duration.
 
 Iconic memory stores visual information whereas echoic memory stores auditory information. Iconic memory typically is retained for 0.3 seconds whereas echoic memory is typically retained for 4 seconds.
 
+| Sensory register | Type of sensory information | Duration of storage |
+| --- | --- | --- |
+| Iconic memory | visual | 0.2-0.4 seconds |
+| Echoic memory | auditory | 3-4 seconds |
+
 ---
 
 #### In what way might sensory memory have an adaptive function and assist us in adjusting to ongoing environmental change?
 
-The lingering of iconic memory allows for images to be blurred together and allows for more holistic processing of scenes. Similarly, the duration of echoic memory allows for interpretation of speech as sounds are combined together.
+Sensory memory filters out meaningless sounds and visual information around us, leaving the brain to focus its cognition on content that is more crucial for survival. Processing all sensory information would be overwhelming and leave us vulunerable.
 
 #### Is information in sensory memory subject to an encoding process? Explain your answer.
 
-No, as the information is held in the sensory receptor and not encoded until reaching STM.
+While in sensory memory information is believed to be stored in a raw sensory form. However when paid attention it must be converted to a transmissable form and thus subjected to encoding before reaching STM.
 
 ---
 
@@ -153,7 +160,7 @@ For information in sensory memory to transfer into STM the information needs to 
 
 #### What happens to information that is not transferred to STM?
 
-Information in sensory memory not paid attention to is filtered out of consciousness.
+Information in sensory memory not paid attention to is filtered out of consciousness typically within a few seconds.
 
 # Learning Activity 6.6
 
@@ -169,13 +176,13 @@ Short-term memory (STM) is a memory system with limited storage capcity in which
 
 #### Give an example of experimental research that could be conducted to test the capcity of STM
 
-A researcher could ask a participant to listen to a list of words, and then ask them to recall as many as they can.
+A researcher could ask a participant to listen to a list of words which are read aloud, and then ask them to recall as many as they can. The number of words recalled by a participant is typically 7 ± 2.
 
 ---
 
 #### What is the storage duration of STM?
 
-12 - 30 seconds, typically 20 seconds.
+12 - 30 seconds, typically 20 seconds (assuming the information is not rehearsed in some way).
 
 #### Give an example of experimental research that could be conducted to test the storage duration of STM
 
@@ -185,7 +192,7 @@ A researcher could ask a participant to listen to a list of words, and then ask 
 
 #### In what ways is STM like sensory memory and unlike sensory memory?
 
-Both STM and sensory memory have very limited storage durations (both in the seconds) however sensory memory has an unlimited capacity compared to the 7 ± 2 items that storable within STM.
+Both STM and sensory memory have very limited storage durations (both in the seconds) however sensory memory has an unlimited capacity compared to the 7 ± 2 items that storable within STM. Information in both memory stores is lost if not attended to. There is only encoding within STM. You are consciously aware of information in STM whereas you are not consciously aware of information in sensory memory.
 
 ---
 
@@ -195,7 +202,7 @@ Information in sensory memory is not consciously accessible until it is paid att
 
 #### Explain why STM can be described as the 'seat of consciousness' but neither sensory memory nor LTM can be described in this way.
 
-Information stored in sensory memory and LTM is not accessible directly to be consciously thought about, this ability is limited to the STM.
+Information stored in sensory memory and LTM is not accessible directly to be consciously thought about, this ability is limited to the STM. The STM holds all information we are consciously aware of at any point in time. It is where all reasoning, feeling and thinking occurs.
 
 ---
 
@@ -219,31 +226,31 @@ You walk from one room to another to pick something up, and when you arrive you 
 
 #### Explain why this forgetting occurred in terms of the STM capcity and duration
 
-By the time you would have walked from one room to another, 20 seconds may have passed and decay may have resulted in the memory of the purpose for you going to the room being filtered out of consciousness. Additionally, while walking to the room you may have passed other stimuli that might have entered short-term memory, displacing the purpose for your walk to the room.
+Given that STM has a duration of approximately 20 seconds, by the time you would have walked from one room to another, 20 seconds may have passed and decay may have resulted in the memory of the purpose for you going to the room being filtered out of consciousness. Additionally, given that STM has a limited capacity of 7 ± 2 items, while walking to the room you may have passed other stimuli that might have entered short-term memory, displacing the purpose for your walk to the room.
 
 # Learning Activity 6.8
 
 #### Describe two key roles of the rehersal in memory
 
-Maintaining information in short-term memory and transferring information to long-term memory
+Maintaining information in short-term memory, transferring information from short-term memory to long-term memory and to aid LTM storage and retrieval.
 
 ---
 
 #### Define the terms maintenance rehersal and elaborative rehersal
 
-Maintenance rehersal refers to repeating information in order to retain it in short-term memory whereas elaborative rehersal refers to making semantic links to other memories (with cues) in order to store information in long-term memory.
+Maintenance rehearsal refers to continual repetition of information (vocally or sub-vocally) in order to retain it in short-term memory whereas elaborative rehersal refers to linking new information to other information already stored in memory to aid in its storage and retrieval from LTM.
 
 #### Identify two important characteristics that distinguish these two forms of rehersal
 
-Maintenance rehersal is less effective at transferring information to long-term memory and is a less active process than elaborative rehersal in which information is linked to other information by creating cues.
+Elaborative is a more active and effortful method of rehearsal compared to maintenance rehearsal. Maintenance rehearsal does not focus on the meaning of the information while elaborative rehearsal does. Maintenance rehearsal does not assist in the encoding of information into LTM.
 
 ---
 
 #### Explain why elaborative rehersal is more effective than maintenance rehersal in enhancing retention of information in LTM
 
-Information transferred to long-term memory by elaborative rehersal is encoded at a deeper level than information encoded via maintenance rehersal.
+Information transferred to long-term memory by elaborative rehersal is encoded with meaningful links to other information already stored in LTM which aids in retrieval from LTM. Maintenance rehearsal does not link new information with any other information and is less effective in encoding information to LTM.
 
-#### Describe three different ways to elaborative information
+#### Describe three different ways to elaborate on information
 
 - Analyse a personally relevant example of the concept
 - Understand how conceps relate to others and how they interact
