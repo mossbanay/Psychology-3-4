@@ -264,21 +264,23 @@ Students should attempt to interlink topics and concepts to make sure they under
 
 #### Describe the serial position effect
 
-The serial position refers to the finding that free recall is better for items at the start and end of a list than items in the middle.
+The serial position effect refers to the research finding that items at the beginning or end of a list to be recalled better than items in the middle.
 
 #### What are the primacy and recency effects? Why do they occur?
 
 The primacy effect refers to the superior recall of items at the beginning of a list. This occurs because more attention is paid to the first few items of the list, making them more likely to be retained in long-term memory.
 
+The recency effect refers to the superior recall of items at the end of a list. This occurs because the last few items are likely to still be in STM. As a result of this, the superior recall is not apparent when delayed recall occurs.
+
 #### Why are items in the middle of a serial list recalled least?
 
-The recency effect refers to the superior recall of items at the end of a list. This occurs because the last few items are likely to still be in STM. As a result of this, the superior recall is not apparent when delayed recall occurs.
+The items in the middle of the list are not paid as much attention (therefore are not transferred to LTM) and by the time recall is assessed, the items from the middle of the list would have been displaced from STM.
 
 ---
 
 #### What implications does the serial position effect have for a prosecutor or barrister presenting their case to a jury?
 
-The start and end of the presentation will have the greatest effect on the jury's judgement.
+The start and end of the presentation will have the greatest effect on the jury's judgement, therefore the strongest evidence should be presented first, and the conclusionary statement should be strong.
 
 #### What implications does the serial position effect have for three politicians before an election, each delivering a brief policy speech one after the other on television?
 
@@ -294,17 +296,17 @@ You have just begun casual work at the local supermarket. On your first day you 
 
 #### According to the serial position effect, which names are you most likely to remember and why?
 
-The employees you are first introduced to and the employees you are last introduced to as a result of the primacy and recency effects respectively.
+Due to the serial position effect, it is expected that you will remember the names of the employees you are first introduced to and the employees you are last introduced to best. This is a result of the higher level of attention paid to the first few employees (allowing their names to be encoded into LTM) and the lingering of the last few employees within STM. Employees who were introduced in the middle are unlikely to be as well recalled unless their name stood out from the rest (e.g. the same name as a family member or friend).
 
 # Learning Activity 6.12
 
 #### What is chunking?
 
-Chunking refers to the grouping of seperate pieces of information into one 'chunk', a single unit.
+Chunking refers to the grouping of seperate pieces of information into one larger 'chunk' of information.
 
 #### How does chunking increase the capacity of the STM?
 
-Rather than memorising seperate elements, it is more efficient to remember chunks, which contain two or more pieces of information.
+When using chunks, organising discrete items into groups allows them to be stored as one unit, allowing 9 or more items to be stored despite the 7 ± 2 limit.
 
 ---
 
@@ -318,7 +320,8 @@ Pair the words up into semantic pairs (e.g [banana, apple], [mango, orange], [ra
 
 #### Suggest an example of how chunking can improve recall from LTM
 
-?
+- Waiters chunking orders together
+- Translators chunking phrases together from a speaker
 
 # Learning Activity 6.14
 
@@ -334,18 +337,18 @@ Baddeley and Hitch's model describes working memory as being composed of 4 compo
 
 | Component | Function |
 | --- | --- |
-| Central executive | Switching, inhibiting and updates information |
-| Phonological loop | Stores and manipulates auditory information |
-| Visuo-spatial sketchpad | Stores and manipulates visual & spatial information |
-| Episodic buffer | Temporary workstation that allows for integration of information |
+| Phonological loop | Encodes and stores auditory information, active whenever sounds are heard both aloud and within our mind, temporarily stores speech-like information for a brief period of time (~2 seconds), limited storage capacity |
+| Visuo-spatial sketchpad | Temporarily stores a limited amount of visual and spatial information, visual information may be seen or visualised, spatial information involves the visual location of objects in space, used as a mental workspace for manipulating visual and spatial information, limited duration within maintenance rehearsal |
+| Episodic buffer | Temporary workstation that allows for integration of information from the phonological loop, visuo-spatial sketchpad as well as information from LTM, limited capacity of about 4 chunks of information |
+| Central executive | Manages the activites of the other components, controls attention and filters non-essential informtation, involved in every activity during NWC, integrates information and coordinates the flow of information between working memory and LTM |
 
 #### Explain the relationship between the four components with reference to an example
 
-When in class watching a lecture, your phonological loop processes and manipulates the speech of your teacher, slides and diagrams drawn on the board are interpreted and manipulated by the visuo-spatial sketchpad. The episodic buffer acts as a workspace for the integration of information from different sources, while your central executive selects, inhibits and updates information in long-term memory.
+When in class watching a lecture, the speech from the teacher enters your phonological loop where it is processessed and manipulated. Visual information in the room such as the slides and diagrams drawn on the board enter the visuo-spatial sketchpad where they are interpreted, manipulated and integrated with other visual information. In the episodic buffer, auditory information from the phonological loop, visual information from the visuo-spatial sketchpad and information from LTM are all integrated by careful selected by the central executive which filters out non-essential information and updates the information storesd in LTM.
 
 #### Suggest a reason why the phonological loop, visuo-spatial sketchpad and episodic buffer are often described as 'slave systems' to the central executive.
 
-The central executive selects, inhibits and updates information from other memory systems and as a result controls the flow of information between systems. The phonological loop, visuo-spatial sketchpad and episodic buffer all rely on the central executive to access information from long-term memory as well as orient attention.
+The central executive selects, inhibits and updates information from other memory systems and as a result controls the flow of information between systems. The phonological loop, visuo-spatial sketchpad and episodic buffer all rely on the central executive to access information from long-term memory as well as orient attention. The other systems all 'work' for the central executive.
 
 ---
 
@@ -365,21 +368,21 @@ Phonological loop
 
 #### auditory information other than sounds?
 
-?
+Episodic buffer
 
 # Learning Activity 6.16
 
 #### According to Craik and Lockhart's levels of processing framework, what determines how well information is stored in LTM?
 
-The likelihood of information being retained depends on the level or depth of it's encoding.
+The likelihood of information being retained depends on the level or depth of it's encoding. Deeper levels of encoding are more likely to be retained overtime and will be easier to retrieve.
 
 #### Explain the meaning of the levels of processing concept
 
-Information that is superficial and relatively meaningless is less likely to be retained in the long-term by memory systems when compared to meaningful information.
+The level at which we process information during learning affects how easy it will be to retain and retrieve that information at a later date. Information which we understand at a deeper level will have more meaning and link better in with existing information in LTM. Information processed without meaning will lead to a shallow level of encoding and will be harder to retain and retrieve.
 
 #### What type of information is more likely to be processed at a shallow level?
 
-Structual information such as colours, shapes and patterns that make up the physical appearance of objects.
+Structual information such as colours, shapes, how a word rhymes with another word and patterns that make up the physical appearance of objects are processed at a shallow level.
 
 #### What type of information is more likely to be processed at a deep level?
 
@@ -387,23 +390,23 @@ Semantic and meaningful characteristics of a concept such as connotations and hi
 
 #### Is elaborative rehersal different from elaborative encoding? Explain your answer
 
-Elaborative rehersal is a theorised operation under Aitkinson and Shiffrin's model of memory that transfers information from STM to LTM whereas elaborative encoding is a method of creating meaning between items in order to encode them at a deeper level.
+Yes, elaborative rehersal involves conscious manipulation of information in order to aid elaborative encoding and thereby LTM storage and retrieval.
 
-#### In what way can Craik and Lochart's levels of processing framework provide support for memory as a multi-store rather than a unitary system?
+#### In what way can Craik and Lockhart's levels of processing framework provide support for memory as a multi-store rather than a unitary system?
 
-The different 'levels' of encoding suggest different tiers of memories from those that are more stable to those that are dwindling.
+Craik and Lockhart's theory set out to directly challenge the multi-store model of memory.
 
 #### What is a common criticism of Craik and Lockhart's levels of processing framework?
 
 Since deeper levels of encoding result from more effort being made it is unclear whether the extra effort or the deeper level of encoding is responsible for the stability of the memory.
 
-Craik and Lockhart's theory also fails to explain how deeper processing leads to better memories.
+There is no way to objectively determine the level information is processed at.
 
 # Learning Activity 6.19
 
 #### What is long-term memory (LTM)?
 
-Long-term memory is the memory system that stores vast amounts of information for long periods of time, possibly permanently.
+Long-term memory is the memory store that stores vast amounts of information for long periods of time, possibly permanently.
 
 #### Outline the organisation of LTM.
 
@@ -411,7 +414,7 @@ The LTM comprises of two sub-systems called declarative (relating to explicit me
 
 #### Why are procedural memories described as non-declarative memories?
 
-It does not require conscious effort to complete the activities or procedures in procedural memory as they are *implicitly* recalled.
+Procedural memories are described as non-declarative as they are difficult to show without acting out.
 
 #### List three key differences between episodic memories and semantic memories.
 
@@ -421,7 +424,9 @@ It does not require conscious effort to complete the activities or procedures in
 
 #### Distinguish between the implicit and explicit memory processes with reference to an example
 
-Implicit memories are recalled without any effort being made whereas explicit memories are only recalled with conscious, intentional effort being made.
+Implicit memories are recalled without any conscious effort being made, e.g. knowing how to ride a bicycle.
+
+Explicit memories are only recalled when a conscious and intentional effort is made, e.g. remembering the state capitals of Australia.
 
 ---
 
@@ -447,19 +452,19 @@ Procedural memory
 
 #### Why is information in LTM often described as 'inactive' information?
 
-You are not generally aware of information in long-term memory until it is accessed, as a result that information is 'inactive' and doesn't effect actions you take until it is brought into short-term memory.
+You are generally not aware of information in long-term memory until it is accessed and brought into STM. As a result, the information is called 'inactive' as it doesn't effect your cognition until it is brought into short-term memory.
 
 #### Which other memory system could also be described as storing inactive information? Why?
 
-Sensory memory could be thought of as inactive as you are not immediately aware of the information until accessing it.
+Sensory memory could be thought of as inactive as you are not consciously aware of the information until accessing it.
 
 ---
 
 | Long-term memory | Features | Example |
 | --- | --- | --- |
-| Procedural (implicit memory) | Actions or skills that have been learnt | How to walk |
-| Declarative (explicit memory) semantic | Facts and knowledge | Earth is a planet |
-| Declarative (explicit memory) episodic | Personal experiences or events | My 18th birthday party |
+| Procedural (implicit memory) | Actions or skills that have been learnt, often cannot be stated, knowing 'how' | How to walk, tying shoe laces |
+| Declarative (explicit memory) semantic | Facts and knowledge | Earth is a planet, Paris is the capital of France |
+| Declarative (explicit memory) episodic | Personal experiences or events, knowing 'what' | My 18th birthday party |
 
 # Learning Activity 6.20
 
@@ -471,7 +476,7 @@ Episodic memory, explicit
 
 #### Registering your VTAC PIN
 
-?
+Semantic memory, explicit
 
 #### Slam-dunking a basketball
 
@@ -499,35 +504,35 @@ Episodic memory, explicit
 
 #### Describing the plot of a novel
 
-Semantic memory, explicit
+Semantic memory, implicit
 
 #### Playing hide and seek
 
-Episodic memory, explicit
+Semantic memory, explicit
 
 #### Calculating a mean score
 
-Procedural memory, explicit
+Semantic memory, implicit
 
 #### Giving directions to the principal's office
 
-Semantic memory, explicit
+Semantic memory, implicit
 
 #### Writing up a prac. report
 
-Episodic memory, explicit
+Semantic memory, implicit
 
 #### Writing a computer program
 
-Procedural memory, explicit
+Semantic memory, implicit
 
 #### Answering a Trivial Pursuit question
 
-Semantic memory, explicit
+Semantic memory, implicit
 
 #### Playing Mario Bros. video game
 
-Procedural memory, implicit
+Procedural memory, explicit
 
 #### Feeling anxious at the sight of a mouse because of a traumatic previous encounter with a mouse
 
@@ -549,6 +554,8 @@ Information is organised into conceptual nodes that have meaningful links that f
 
 After an initial cue is triggered in the area of information relevant to what is wanted to be retrieved, spreading activation occurs and as a result nearby or meaningfully relevant nodes are more likely to be activated. This activation spreads until the information required is activated and retrieved.
 
+A general area of memory which is likely to contain the information wanted is first searched, then associations are traced until the information is found. This is opposed to random searching throughout the entirty of LTM.
+
 #### Is spreading activation possible in the STM (or working memory)? Explain your answer.
 
 No, as the same structure is not apparent in STM.
@@ -557,7 +564,7 @@ No, as the same structure is not apparent in STM.
 
 #### Give a definition of semantic network theory.
 
-Semantic network theory suggests that LTM is composed of conceptual nodes that are linked with other nodes in a network. Links are made via meaningful connections between concepts. These links and nodes form a hiearchical structure.
+Semantic network theory suggests that LTM is organised into conceptual nodes that are linked with other nodes in a network. Links are made via meaningful connections between concepts which then form a hiearchical structure. This allows memory to be searched more methodologically, ensuring that information can be located with spreading activation.
 
 #### List three key differences between LTM and STM
 
