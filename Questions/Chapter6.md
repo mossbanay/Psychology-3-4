@@ -2,7 +2,7 @@
 
 #### Can you think of any activity you do that does not depend on memory? If so, give an example.
 
-I cannot think of an activity which does not require some sort of memory.
+Involuntary reflexes and physiological responses which are under the control of the autonomic system do not depend on memory.
 
 #### Do you believe that you could learn if you couldn't remember? Could you remember if you couldn't learn? Briefly explain each of your answers.
 
@@ -12,25 +12,33 @@ Memory is a prerequisite to learning. Learning has an implication of a skill pro
 
 The brain selectively chooses which memories are going to aid survival, and as a result discards memories that are unlikely to help us protect ourselves, find a mate, etc. The brain also cannot physically store all the memories of everything that occurs in our lives.
 
+Theories of forgetting like decay theory, motivated forgetting and retrival failure explain the causes of why we tend to forget things.
+
 # Learning Activity 6.2
 
 #### How is memory commonly defined in psychology?
 
-Memory is defined at the stored representations of information.
+Memory is defined as the active information processing system in which information accquired from learning is encoded, stored and retrieved.
 
 ---
 
 #### Describe the processes of encoding, storage and retrieval
 
-Encoding is the process of converting information into a storable form. Storage is then the storing of information in the brain. Retrieval is then getting access to that information from the memory.
+Encoding is the process of converting information into a form which can be used in the brain so that it can be stored.
+
+Storage is the retention of information over time within the brain.
+
+Retrieval is the process of accessing information from memory so we are consciously aware of it.
 
 #### Explain the interrelationship between these processes with reference to an example
 
 Information from the outside world or internal thoughts is first converted into a storable form via *encoding*. Then the representation of that information in put into *storage*. Finally, when the information is wanted, the brain accesses the relevent representation via *retrieval*.
 
+If any one of these processes fails, memory fails.
+
 #### Explain whether memory is possible without any one of these processes
 
-Complete and proper functioning of memory is not achievable without the fully cooperation of all of these processes. In the case where encoding is disrupted, there is no mechanism for creating new memories. In the case where storage is disrupted, new memories that are in a storable form have nowhere to be maintained, and are subsequently nullified. In the case where retrieval is disrupted, any stored memories are inacessible, leading to a lack of any memory.
+Without encoding, there is no way for a memory trace to be properly created. Without storage there is no way to retain information over time. Without retrieval the information is inaccessible. Therefore, memory relies on the cooperation of all three of these processes and is impossible without proper functioning.
 
 ---
 
@@ -38,37 +46,42 @@ Complete and proper functioning of memory is not achievable without the fully co
 
 Computers store memory in a very rigourous manner that is highly redundant whereas human memories tend to be much more malleable and may change as they are *representations of information* as opposed to the information itself.
 
+Humans store different types of memory.
+
 # Learning Activity 6.3
 
 #### Explain the meaning of the term model of memory
 
-Memory being a complicated and difficult to understand topic is simplified into clearer steps and ideas in what is known as a model of memory.
+A theory used to represent and describe the flow of memory through different functional components and processes.
 
-#### Briefly describe the Atkinson-Shriffin multi-store model of memory
+#### Briefly describe the Atkinson-Shriffrin multi-store model of memory
 
-Information is first encoded into sensory memory. If a sensation is paid attention, it's then encoded into short-term memory. If elaborative rehersal occurs it is then encoded into long-term memory.
+The Atkinson-Shiffrin multi-store model of memory proposes that memory is composed of three different memory systems. The sensory memory system contains information that enters the body through the senses, the long-term memory system (LTM) which contains the bulk of retained memories, and the short-term memory system (STM) which interacts with sensory memory and LTM and acts as the area where information is integrated.
 
 ---
 
 #### Distinguish between structual features and control processes in memory, with reference to examples
 
-TODO
+Structual features: the permanent, built-in fixed features of memory that do no vary from one situation to another, e.g. the three different stores and their function, storage capacity and storage duration of each component.
+
+Control processes: a memory process that is under the consciou 'control' of the individual (i.e. not a built-in fixed feature) and is selected and used by the individual depending on the situation/what the individual is doing or needs to do, e.g. attention, rehearsal and retrieval.
 
 #### Explain whether each of the following is a structual feature of control process:
+
 | Deciding whether retrieved information is correct | Control process |
 | A neural representation of a memory | Structual feature |
-| Encoding | Control process |
+| Encoding | Control process and a structual feature |
 
 # Learning Activity 6.4
 
 #### Construct a research hypothesis that could have been tested by the procedures used in the experiment.
 
-Iconic memory has a virtually unlimited capacity that is persistent for approximately 0.3 seconds.
+It was hypothesised that participants who use a partial report system where high, medium and low tones are associated with reporting the top, middle and bottom row of letters respectively will recall more letters from a briefly presented 3-by-4 visual array than participants who simply report as many letters as they can see after the arry is removed without a tone used to cue response.
 
 #### State the operationalised IV(s) and DV(s).
 
-Delay before querying participants to recall information.
-Retainment of information as measured by accuracy of recall.
+IV: Whether a tone was used to cue recall
+DV: The number of words reacalled
 
 #### Name the experimental design.
 
@@ -76,23 +89,23 @@ Repeated measures.
 
 #### Briefly state the results obtained.
 
-Participants reported seeing more of the projected letters although failed to name them all. When a sound was used to indicate which row to recall, participants were able to recall the relevant row accurately 75% of the time.
+Participants reported seeing more of the projected letters although failed to name them all. When a sound was used to indicate which row to recall, participants were able to recall the relevant row perfectly and about 75% of the total words.
 
 ---
 
 #### If the results were shown to be statistically significant with p ≤ 0.05, what would this mean?
 
-The probability that the difference in accuracy of recall between the groups was due to random chance alone was less than 5 in 100.
+The probability that the difference in accuracy of recall between the groups was due to random chance alone was less than 5 in 100. If the significance level is p ≤ 0.05 then the result is statistically significant and support the hypothesis.
 
 #### Would the results be more meaningful with p ≤ 0.01? Explain your answer.
 
-The probability that the difference in accuracy of recall between the groups was due to random chance alone would be less than 1 in 100 as opposed to 5 in 100 for p ≤ 0.05.
+The probability that the difference in accuracy of recall between the groups was due to random chance alone would be less than 1 in 100 as opposed to 5 in 100 for p ≤ 0.05. If the significance level is p ≤ 0.05 then both of the results are statistically significant and support the hypothesis.
 
 ---
 
 #### Briefly state a conclusion based on the results obtained.
 
-It can be concluded that for a split-second, participants had a virtually unlimited capacity of memory. The longer the delay between exposure and recall, the less participants were able to recall, suggesting a memory duration of approximately 0.2 - 0.4 seconds.
+It can be concluded that for a split-second, participants had a virtually unlimited capacity of memory.
 
 #### Comment on the extent to which the results can be generalised.
 
