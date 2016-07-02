@@ -6,15 +6,15 @@
 
 #### What is the difference between a synapse and synaptic gap?
 
-The synapse is the communication between two adjacent neurons whereas the synaptic gap is the small seperation between the axon terminals of the pre-synaptic neuron and the dendrites of the post-synaptic neuron.
+The synapse is the area where communication occurs between two adjacent neurons which is inclucsive of the synaptic gap, which is the small seperation between the axon terminals of the pre-synaptic neuron and the dendrites of the post-synaptic neuron.
 
 #### What is synaptic growth?
 
-Synaptic growth refers to the development of extra synapses.
+Synaptic growth refers to the development of extra synapses between neurons in a neural pathway.
 
 #### What is a 'memory circuit'?
 
-Memory circuits are the interconnected neurons that makeup memories.
+Memory circuits are neural pathways of interconnected neurons that are collectively involved in the formation and storage of memories.
 
 ---
 
@@ -22,41 +22,41 @@ Describe the role each of the following has in memory formation:
 
 #### the axon and its terminals
 
-The axon and its terminals are responsible for the sending of information to other neurons and allow for the communication with other cells to form memory.
+The axon and its terminals are responsible for the sending of information via secretion of neurotransmitter to the dendrites of other neurons, allowing for communication with neurons within a memory circuit.
 
 #### dendrites
 
-Dendrites pull in information and neurotransmitters that have been pushed over the synaptic gap by other neurons allow the cell to be influenced and change in order to develop memory.
+Dendrites are thin extensions from the soma that receive neurotransmitter that has been sent over the synaptic gap by adjacent neurons within a memory circuit, allowing the neuron to be influenced and change in order to form memories.
 
 #### synapses
 
-The site where communication between two neurons takes place.
+The site where communication via neurotransmitter between two adjacent neurons in a memory circuit takes place, thereby making memory formation possible.
 
 #### synaptic connections
 
-Allow for memory circuits to form.
+Allow for communication between pre-synaptic and post-synpatic neurons within a memory circuit, thereby making memory formation possible.
 
 #### neurotransmitters
 
-Neurotransmitters are the chemical messages that are transferred over the synapse>
+Neurotransmitters enable the encoding of memories within memory circuits and contribute to structural changes within the synapse that are important for memory formation and storage.
 
 # Learning Activity 7.4
 
 #### What is the hippocampus and where is it located?
 
-The hippocampus is a 3.5cm long tube-like cortical structure located in the medial temporal lobe of each hemisphere.
+The hippocampus is a 3.5cm long tube-like cortical structure located in the medial temporal lobe of each hemisphere. It is involved in the formation and retrieval of declarative memory.
 
 #### Who is H.M. and why is he well known to memory researchers?
 
-H.M. or Henry Molaison is a patient who in an attempt to treat severe epilepsy had the majority of his medial temporal lobe surgically removed. Due to his very specific circumstances he is of interest to neurologists and psychologists studying memory.
+H.M., or Henry Molaison is a patient who in an attempt to treat severe epilepsy had the majority of his medial temporal lobe surgically removed. As a result of the surgery, H.M. experienced serious memory problems. Due to his very specific circumstances he is of interest to neurologists and psychologists studying memory.
 
 #### List the STM and LTM memory impairments experienced by H.M. after his surgery and what these indicate about the roles played and not played by the hippocampus in memory
 
-Molaison's STM was not impaired in any significant way, however, Molaison lost the ability to store new long-term declarative memories. He did however retain the ability to retrieve and learn new procedural memories, as well as retrieve previously learn declarative memories (although a large portion of approximately 2 years before his surgery were lost). This indicates that the hippocampus is likely to have a role in the consolidation of new declarative memories.
+Molaison's STM was not impaired in any significant way, however, Molaison lost the ability to store new long-term declarative (explicit) memories - the process of transferring memories from STM to LTM with rehearsal was affected. He did however retain the ability to retrieve and learn new procedural memories, as well as retrieve previously learnt declarative memories (although a large portion of approximately 2 years in length was lost). This indicates that the hippocampus is likely to have a role in the consolidation of new declarative memories.
 
 #### What does the H.M. case study suggest about where LTMs are stored in the brain? Explain with reference to the case study.
 
-Henry's ability to retrieve the majority of his existing memories suggests that memories are actually stored in the hippocampus or the amygdala, but instead in other areas of the brain.
+Henry's ability to retrieve the majority of his existing memories suggests that memories are not actually stored in the hippocampus or the amygdala, but instead in other areas of the brain.
 
 # Learning Activity 7.5
 
@@ -66,11 +66,11 @@ The amygdala is located at the front of the hippocampus in a small bulb like sha
 
 #### What role(s) does the amygdala play in implicit memory?
 
-Contributes to the creation of conditioned emotional responses.
+Contributes to the creation of conditioned emotional or fear responses.
 
 #### What role(s) does the amygdala play in explicit memory?
 
-May contribute to the activation of the hippocampus to stimulate memory storage.
+Contributes to the formation of explicit declarative memories by activating of the hippocampus. This attaches significance to episodic memories, stimulating the hippocampus to store emotional details.
 
 #### Why are conditioned emotional responses said to involve implicit memory?
 
@@ -82,7 +82,7 @@ Heightened concerntrations of the neurotransmitter norepinephrine in the amygdal
 
 #### What role does the hippocampus play in the formation of emotional memories?
 
-The hippocampus strengthens the emotional memories in long-term storage.
+The hippocampus encodes the emotional details of an event in the memory trace.
 
 #### Identify the independent and dependent variables in the study by Antoine Bechara and colleagues (1995)
 
@@ -109,17 +109,17 @@ Callie would see the dog, not recognise it but experience an emotional response.
 
 #### Briefly describe consolidation theory
 
-Consolidation theory suggests that physical changes occur when memory becomes permanently established.
+Consolidation theory suggests that for information to be successfully transferred to LTM, time must pass without interruption and a physical change must occur.
 
 #### What three conditions are necessary for memory to be consolidated and therefore permanentyl stored?
 
 - Enough time (at least 30 minutes) to consolidate the memory
 - No disruption should occur during consolidation
-- ? Check notes
+- Physical change must occur (increased number of synaptic sites)
 
 #### Use consolidation theory to explain why a rugby player who is knocked unconscious during a game may be unable to remember how he was knocked unconscious.
 
-The player's memory up until the point of his impact were effected by his collision, causing him to not successfully consolidate memories in the 30 minutes before being knocked unconscious>
+The player's memory up until the point of his impact were effected by his collision, causing him to not successfully consolidate memories in the 30 minutes before being knocked unconscious.
 
 #### Give an example of research evidence for the hippocampus having a crucial role in consolidation
 
@@ -127,25 +127,25 @@ Henry Molaison who was an epilepsy patient who had his hippocampus surgically re
 
 #### Construct a research hypothesis for the experiment conducted by Hudspeth, McGaugh and Thomson (1964). Ensure you operationalise the variables.
 
-It was hypothesised that rats who experienced ECT sooner after learning to complete a maze would remember less of the maze when retested compared to rats who experienced a greater delay before administration of ECT.
+It was hypothesised that rats given ECT immediately after learning how to complete a maze would remember less of the maze when retested compared to rats who experienced a greater delay before administration of ECT.
 
 ---
 
 #### Briefly describe reconsolidation theory.
 
-When memories are accessed, they must be consolidated again in order to be stored.
+Reconsolidation theory proposes that after memories are accessed they must be consolidated again in order to be stored back in LTM.
 
 #### Explain how reconsolidation may account for retrieval of distorted memories.
 
-When memories are accessed they may not be reconsolidated in an identical manner, leading them to change and morph into distorted accounts of the original memory.
+When memories are accessed they may not be reconsolidated in an identical manner. The memory may be influenced by new information leading them to change into distorted reproductions of the original memory.
 
 #### Reconsolidation theory suggests that a drug could be developed to erase unwanted or inappropriate memories. Suggest how a drug might be used for memory erasure with reference to reconsolidation theory.
 
-A drug that changes the mood of an individual while they consolidate memory could potentially modify that memory.
+A patient may be asked to retrieve a troubling memory and then a drug is administered to interfere with the proper reconsolidation of that memory.
 
 #### Give an example of an ethical issue that may be relevant to intentional memory erasure
 
-Withdrawl rights and consent may be difficult to give.
+Withdrawal rights and consent may be difficult to give.
 
 # Learning Activity 7.7
 
