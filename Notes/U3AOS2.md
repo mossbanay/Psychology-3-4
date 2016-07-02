@@ -39,7 +39,7 @@ This suggests that while iconic memory is unlimited in capcity, the duration is 
 
 ---
 
-**Cowan et al. 2000)** asks participants to focus their attention on reading a story while a list of numbers is read aloud. Upon hearing a tone, participants were required to attempt to recall the numbers that they heard. As the delay between hearing numbers and the tone increased, the accuracy of recall reduced.
+**(Cowan et al. 2000)** asks participants to focus their attention on reading a story while a list of numbers is read aloud. Upon hearing a tone, participants were required to attempt to recall the numbers that they heard. As the delay between hearing numbers and the tone increased, the accuracy of recall reduced.
 
 #### Comparison between types of sensory memory
 
@@ -275,6 +275,17 @@ The impact of age on STM depends on the type of task being assessed. Typically i
 Typically, **procedural memory is the most resistant types of memory**, often never becoming inacessible or lost regardless of age.
 
 Episodic memories in particular prospective memory (remembering to do things in the future) is often impaired in the elderly.
+
+| Type of memory | Changes associated with age |
+| --- | --- |
+| Short-term memory | For simple tasks, short-term memory is relatively unaffected, although when completing complex tasks (requiring manipulation of memory or attention being divided between tasks), there is a noticeable reduction in performance. Decline in visuo-spatial sketchpad - progressive loss of ability to follow directions. The nervous system of older people is generally less efficient at transferring information and therefore the rate at which information can be stored or retrieved is slowed. |
+| Procedural memories | Procedural memories are mostly resistant to ageing and do not deteriorate |
+| Episodic memories | Prospective episodic memory tends to become less effective as an individual grows older however retrospective memory is relatively stable |
+| Semantic memories |  |
+
+#### What causes age-related memory decline?
+
+There are several explanations for the cause of the decline in memory as ageing occurs. Perhaps the most simple refers to a loss confidence in one's memory. Older people typically believe that their memory is growing ineffective, and subsequently behave as though that holds true. Another suggestion made to explain changes in memory is a lack of motivation for older people to memorise content in psychological experiments (such as nonsense syllables) as they have often already 'seen the world'. Thirdly, the measure of retention used to remember information changes greatly how the memory of an individual performs. Elderly performed at a similar level to younger participants in recognition tasks but significantly worse in recall tasks. Finally, the most researched hypothesis for changes in memory over the lifespan is physiological changes such as the shrinking of the frontal lobe and slowing of the CNS. These changes to the brain can lead to cognitive slowing.
 
 ---
 
