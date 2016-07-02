@@ -155,19 +155,21 @@ Amnesia is the partial or complete inability to access memory temporarily or per
 
 #### Explain the meaning of the phrase 'amnesia resulting from brain trauma and neurodegenerative disease'.
 
-Amnesia that is caused by damage to neural tissue either by brain trauma or neurodegenerative diseases.
+Amnesia that is caused by damage to neural tissue either by brain trauma (any type of brain damage) or neurodegenerative diseases (a result of a progressive decline in the structure, activity and function of brain tissue).
 
 #### Why are Alzheimer's disease and Korsakoff's syndrome considered to be neurodegenerative diseases?
 
-They both cause a progressive decline in the structure and function of brain tissue.
+They are both characterised by a progressive decline in the structure and function of brain tissue.
 
-#### Distinguish between amnesia that may result from an inflicted brain injury or from an accquired brain injury.
+#### Distinguish between amnesia that may result from an inflicted brain injury or from an acquired brain injury.
 
-Amnesia caused by an inflicted brain injury may arise from violent shaking of the head or an inentional blow to the head whereas amnesia caused by an acquired brain injury some time after birth may arise from stroke, brain infection, alcoholism or neurogenerative diseases.
+Amnesia caused by an inflicted brain injury may arise from violent shaking of the head or an intentional blow to the head whereas amnesia caused by an acquired brain injury some time after birth may arise from stroke, brain infection, alcoholism or neurodegenerative diseases.
 
 #### Distinguish between anterograde amnesia and retrograde amnesia, with reference to an example.
 
-Anterograde amnesia refers to the loss of the ability to form new memories following brain trauma, whereas retrograde amnesia refers to the loss of the ability to retrieve memories that occured prior to the brain trauma.
+Anterograde amnesia refers to the loss of the ability to form new memories following brain trauma. It is observed in patients with Korsakoff's syndrome.
+
+Retrograde amnesia refers to the loss of the ability to retrieve memories that occured prior to the brain trauma. It is observed in patients who have suffered inflicted brain injuries.
 
 ---
 
@@ -179,39 +181,40 @@ Voula may find herself unable to remember the names of doctors and those who she
 
 #### If Voula suffered retrograde amnesia, what memory problems is she likely to experience?
 
-Voula may be unable to recall her accident or in severe cases who she is.
+Voula may be unable to recall memories from her accident or up to a few months before the accident.
 
 # Learning Activity 7.8
 
 #### Explain what dementia is with reference to commonly described early and latter stage symptoms
 
-Dementia is an umbrella term for a set of diseases that cause a decline in mental abilities that is not typical of normal aging. Symptoms of dementia include moderate memory loss in the early stages to severe memory loss, personality changes and confusion in the latter stages.
+Dementia is an umbrella term for a set of diseases that cause a progressive decline in mental abilities that is not typical of normal aging. Symptoms of dementia include occasional memory loss, a decline in mental abilities and mild behaviour changes in the early stages to severe memory loss, impaired ability to function independently and confusion in the latter stages.
 
 ---
 
 #### What is Alzheimer's disease?
 
-Alzheimer's disease is the most common form of dementia.
+Alzheimer's disease is the most common form of dementia characterised by gradual and widespread deterioration of neural tissue, memory loss, a decline in social skills and personality changes.
 
 #### Why is Alzheimer's disease irreversible?
 
-Alzheimer's disease is caused by damage to the structure of brain tissue caused by amyloid plaques and neurofibrillary tangles. The brain matter lost by the damage caused cannot be regrown by the body and is consequently permanent.
+Alzheimer's disease is caused by damage to the structure of brain tissue caused by amyloid plaques and neurofibrillary tangles. The brain matter lost by the damage caused cannot be regrown by the body and the damage is consequently permanent.
 
 #### Why is Alzheimer's disease attributable to neurological factors?
 
-Postmortems of people who have died with Alzheimer's disease have shown that up to 75% shrinkage in areas such as the hippocampus. This illustrates that the severity of the disease depends upon the amount of neurological damage caused.
+Postmortems of people who have died with Alzheimer's disease have shown that up to 75% shrinkage in areas such as the hippocampus. This illustrates that the severity of the disease depends upon the amount of neurological damage caused. Brain matter removed from patients who had Alzheimer's disease also contained amyloid plaques and neurofibrillary tangles.
 
 #### Why does Alzheimer's disease ultimately lead to an earlier death?
 
-The brain slowly reduces in functionality until it cannot support the body.
+The brain slowly reduces in functionality until it cannot support the body in regards to coordinating bodily functions.
 
 # Learning Activity 7.9
 
-| Type of memory | Changes |
+| Type of memory | Changes associated with age |
 | --- | --- |
-| Short-term memory | For simple tasks, short-term memory is relatively unaffected, although when completing complex tasks, there is a noticeable reduction in performance |
-| Procedural memories | Procedural memories are mostly resistant to ageing and to not deteriorate |
+| Short-term memory | For simple tasks, short-term memory is relatively unaffected, although when completing complex tasks (requiring manipulation of memory or attention being divided between tasks), there is a noticeable reduction in performance. Decline in visuo-spatial sketchpad - progressive loss of ability to follow directions. The nervous system of older people is generally less efficient at transferring information and therefore the rate at which information can be stored or retrieved is slowed. |
+| Procedural memories | Procedural memories are mostly resistant to ageing and do not deteriorate |
 | Episodic memories | Prospective episodic memory tends to become less effective as an individual grows older however retrospective memory is relatively stable |
+| Semantic memories |  |
 
 ---
 
