@@ -74,8 +74,8 @@ Not being able to remember someones name a week after meeting them at a party.
 
 | Strengths | Limitations |
 | --- | --- |
-| Useful explanation for why when we sometimes know that we know information but it cannot be immediately retrieved (TOT) | Not able to account for the inaccessiblility of anxiety-laden memories |
-| Supported somewhat by the semantic network theory | Not able to account for the inaccessiblity of memory caused by brain trauma or a neurodegenerative disease |
+| Useful explanation for why when we sometimes know that we know information but it cannot be immediately retrieved (TOT) | Not able to account for the inaccessibility of anxiety-laden memories |
+| Supported somewhat by the semantic network theory | Not able to account for the inaccessibility of memory caused by brain trauma or a neurodegenerative disease |
 | --- | Unable to explain interference between memories |
 
 ---
