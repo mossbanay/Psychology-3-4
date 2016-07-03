@@ -439,6 +439,13 @@ Retrieval is the process of locating and recovering the stored information from 
 
 A retrieval cue is any stimuli that assists in the process of locating information stored in memory.
 
+Examples of different types of retrieval cues for the term 'dachshund':
+
+- Semantic cue: a type of dog, a German breed
+- Phonetic cue: starts with a 'd', two syllables
+- Physical appearance: short dog, little legs, floppy ears
+- Phonological cue: sounds like dash-hound
+
 ### Retrieval failure theory
 
 Retrieval failure theory suggests that memories become inaccessible due lack of correct cues that lead to the information stored in LTM.

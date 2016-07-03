@@ -2,13 +2,13 @@
 
 #### How is forgetting defined in psychology?
 
-Forgettting is the inability to access previously stored memories.
+Forgettting is the inability to access previously stored information.
 
 ---
 
 #### Explain the meaning of availability and accessibility of information in relation to memory and forgetting.
 
-Availability refers to the presence of information in memory whereas accessibility refers to whether or not that information can be located and retrieved.
+Availability refers to the presence of information stored in memory whereas accessibility refers to whether or not that information can be located and retrieved and therefore brought into consciousness.
 
 #### Create a definition of forgetting that refers to both availability (or available) and accessibility (or accessible).
 
@@ -18,7 +18,7 @@ Forgetting refers to the inaccessibility of available memories.
 
 #### In what way(s) is forgetting from both STM (or working memory) and LTM adaptive?
 
-Removing certain traumatic episodes from memory may help an individuals sanity.
+Being able to recall every single event or fact that enters your mind would become overwhelming and prevent the brain from processing more important information such as threats to livelihood and other survival related roles.
 
 #### What effect could a participant's past experience have on the results of an experiment on forgetting?
 
@@ -28,11 +28,11 @@ If any information has a meaningful link to something already known or experienc
 
 #### What is a forgetting curve?
 
-A forgetting curve refers to a plot of the percentage of information retained in memory over time.
+A forgetting curve is a graph showing the pattern or rate and amount of forgetting that occurs over time.
 
 #### Describe the pattern of forgetting indicated by a typical forgetting curve, referring to the rate and amount of forgetting over time.
 
-Within the first hour information is lost from memory at the greatest rate, dropping to approximately 60% of the information recalled at this point. This rate slows when reaching the 24 hour point, and the remaining 40% or thereabouts is nearly indefinitely retained.
+Within the first hour information is lost from memory at the greatest rate, with more than half of the original content being lost. This rate slows when reaching the 8 hour point, and the remaining 35% or thereabouts is stable.
 
 ---
 
@@ -52,41 +52,47 @@ As the material was learnt over a longer period of time, it would be expected th
 
 #### Define the term retrieval cue with reference to examples of different types of retrieval cues
 
-A retrieval cue is any stimulus that assists in the process of accesssing information stored in memory. An example of a retrieval cue may be a word that reminds of certain information like someones name. Another example of a retrieval cue is a picture of a family member.
+A retrieval cue is any stimulus that assists in the process of locating and retrieving information stored in memory. A retrieval cue may be semantic, phonological, phonetic or concerning physical appearance. Retrieval cues may also relate to the physical surroundings (context-dependent) or to a particular emotional state (state-dependent).
 
 ---
 
 #### What is retrieval failure theory?
 
-Retrieval failure theory suggests that information stored in memory becomes inaccessible due to a lack of appropriate cues to lead to the location of the information.
+Retrieval failure theory suggests that information stored in memory becomes inaccessible due to a lack or failure to use appropriate cues to locate the information in LTM.
 
 #### Why is retrieval failure theory sometimes called cue-dependent forgetting?
 
-Retrieval failure theory is sometimes called cue-dependent forgetting as it refers to information becoming inacessible due to the 'forgetting' of cues.
+Retrieval failure theory is sometimes called cue-dependent forgetting as it refers to information becoming inacessible due to a failure to use the correct cues.
 
 ---
 
-#### Give an example of retrieval failure not reffered to in the text
+#### Give an example of retrieval failure not referred to in the text
 
 Not being able to remember someones name a week after meeting them at a party.
 
 #### Outline the strengths and limitations of retrieval failure theory
 
-Retrieval failure theory does explain the loss of memory that results from head trauma or the inability to access anxiety-laden memories however it is supported by semantic network theory and the TOT phenomenon.
+| Strengths | Limitations |
+| --- | --- |
+| Useful explanation for why when we sometimes know that we know information but it cannot be immediately retrieved (TOT) | Not able to account for the inaccessiblility of anxiety-laden memories |
+| Supported somewhat by the semantic network theory | Not able to account for the inaccessiblity of memory caused by brain trauma or a neurodegenerative disease |
+| --- | Unable to explain interference between memories |
 
 ---
 
 #### What is the tip-of-the-tongue (TOT) phenomenon?
 
-TOT is the feeling of being confident that you are able to remember a piece of information however at the present time you are unable to remember the information.
+TOT is the feeling of being confident that you are able to remember a piece of information however you are unable to remember the information at that point in time. When the information is recalled, it tends to occur suddenly as if it was 'popping' into consciousness, often when the individual is not consciously thinking about it.
 
 #### Give a psychological and physiological explanation of why TOT occurs
 
-TOT occurs when only some of appropriate retrieval cues are located, leading to partial retrieval of the information.
+During TOT, generally some of the details of the information can be retrieved (e.g the first letter of a name) and these details cue the retrieval of other parts of the information until all of the information becomes accessible. The process suggests that information is stored in LTM in an organised way in a variety of forms.
+
+Since memory recall involves a number of areas in the brain, if complete recall does not occur then it demonstrates a failure to access one or more of these areas.
 
 #### What does TOT suggest about LTM storage?
 
-Since TOT only effects specific types of information, it suggests that memories are stored in a variety of forms and in an oraganised way. TOT also suggests that retrieval is not an all-or-nothing process and that pieces of information can be retrieved.
+Since TOT only effects specific types of information, it suggests that memories are stored in a variety of forms and in an oraganised way. TOT also suggests that retrieval is not an all-or-nothing process and that pieces of information can be retrieved. TOT also suggests that information already recalled (such as the first letter of someones name) can act as a retrieval cue to locate the rest of the information. TOT also suggests that information stored in LTM is inaccessible without the correct cues.
 
 ---
 
