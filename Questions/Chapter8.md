@@ -108,7 +108,9 @@ The interference theory of forgetting suggests that a failure to retrieve inform
 
 #### Define retroactive interference and proactive interference
 
-Retroactive interference refers to new information interfering with old information whereas proactive interference refers to old information interfering with new information.
+Proactive interference occurs when previously learnt information interferes with the retrieval of newly learnt information.
+
+Retroactive interference occurs when newly learnt information interferes with the retrieval of previously learnt information.
 
 #### Explain the key feature that distinguishes retroactive interferences from proactive interference
 
@@ -132,17 +134,17 @@ Suppose you meet Harry and Emma on your first day of a vacation at a Gold Coast 
 
 #### Which type of interference would cause you to forget Emma's room number? What information caused the interference?
 
-Retroactive interference caused by Emma's room number.
+Proactive interference caused by Harry's room number.
 
 #### Which type of interference would cause you to forget Harry's room number? What information caused the interference?
 
-Proactive interference caused by Harry's room number.
+Retroactive interference caused by Emma's room number.
 
 ---
 
 #### Can forgetting caused by interference be explained in terms of retrieval failure? If so, how? If not, why not?
 
-Yes, as the retrieval cues leading to pieces of information may be changed during the learning of other information or be unable to change in the case of proactive interference.
+Yes, as the retrieval cues leading to pieces of information may be changed during the learning of other information or be unable to change in the case of proactive interference. Moreover, similar but incorrect cues may be followed while attmepting to retrieve information.
 
 #### Can forgetting caused by retrieval failure be explained in terms of interference? If so, how? If not, why not?
 
@@ -152,7 +154,11 @@ No?
 
 #### Outline the strengths and limitations of interference theory
 
-Limitation -> most experiments to study interference theory have used recall which is an especially vulunerable measure of retention to interference
+| Strengths | Limitations |
+| --- | --- |
+| Supported by considerable empirical evidence | Most experiments studying interference theory use recall which is especially vulunerable to interference |
+| Useful for explaining the difficulity distinguishing between similar memories | Doesn't account for forgetting due to our use of inappropriate or faulty retrieval cues, failure to access anxiety-laden memories or memories lost as a result of head trauma or neurodegenerative diseases |
+| Useful explanation of time as a variable impacting on the interference-based forgetting | |
 
 # Learning Activity 8.7
 
@@ -162,7 +168,7 @@ The green line as it is labelled for the normal waking activities.
 
 #### Suggest an explanation of the results in terms of interference.
 
-Group A who went to sleep immediately after the learning of the nonsense syllables limited the degree to which new information learnt during normal waking activity interfers with the sbility to retrieve the syllables. However, Group B did not undergo such prevention and were consequently more effected more interference with other information and performed worse on recall as a result.
+Group A who went to sleep immediately after the learning of the nonsense syllables limited the degree to which new information learnt during normal waking activity could interfere with the memory of the syllables. However, Group B did not undergo such prevention and consequently experienced more interference with other information and performed worse on recall as a result.
 
 #### Construct a research hypothesis for the experiment.
 
@@ -170,12 +176,15 @@ It was hypothesised that first-year university students who slept immediately af
 
 #### Identify the operationalised variables.
 
-Whether the participant's sleep was delayed or not.
+IV: Whether the participant's sleep was delayed or not.
+DV: % of recall of nonsense syllables
 
 #### Suggest two extraneous or confounding variables that may not have been adequately controlled and explain your choice of each variable.
 
 - Natural memory ability or tendency to fall asleep (individual participant differences)
 - Participants in Group B were tested 30 minutes longer from the learning section of the experiment than those in Group A
+- Group A may have used the falling asleep period to rehearse the syllables
+- Group A had more sleep than Group B
 
 #### Write a possible conclusion for the experiment, ensuring that you refer to your answers above.
 
@@ -209,20 +218,25 @@ Suppresion is primarly a conscious action whereas repression occurs unconsciousl
 
 #### Outline the strengths and limitations of motivated forgetting theory.
 
-- Difficult to study, as there is often no way to corroborate repressed memories.
-- There is a general lack of experimental research to challenge or support Freud's theory due to ethical issues in the creation of repressed memories>
+| Strengths | Limitations |
+| --- | --- |
+| Explains the inability to recall anxiety-laden memories | Very difficult to experimentally study the existance of repressed memories |
+| Some empirical evidence (primarily for suppression) | Investigating repressed memories raises ethical considerations |
+| --- | No way to confirm the validity of a represed memory |
 
 ---
 
 #### Briefly describe the decay theory of forgetting.
 
-The decay theory of forgetting suggests that forgetting occurs from a period of time throughout which the neurological representation of memories (called a memory trace) are not accessed and as a result weaken.
+The decay theory of forgetting suggests that forgetting occurs as the neurological representation of a memory (called a memory trace) fades over time through disuse.
 
 #### What evidence or experiences suggests that 'information' in LTM may decay through disuse?
 
-- (Wittlinger, 1975) showed that participants were able to recognise names and faces of people from their childhoood at a comparable level 50 years between tests
+Anderson (1995) when a pattern of rapid and then more gradual deactivation of neural pathways in the hippocampus was observed, it was proposed as a possible physiological base for decay in sensory memory, in STM and in LTM, due to the passage of time passing (but not just due to time alone).
 
 #### What evidence or experiences suggests that 'information' in LTM does not necessarily fade through disuse?
+
+(Wittlinger, 1975) showed that participants were able to recognise names and faces of people from their childhoood at a comparable level 50 years between tests
 
 - Decay theory is unable to explain the resilience of procedural memory
 - Decay theory has been unable to account for the sudden recollection of cues that sometimes occurs in the elderly.
@@ -243,7 +257,12 @@ Information can be constructed in a randomised way such that no interference can
 
 #### Outline the strengths and limitations of decay theory.
 
-- Decay theory is unable to explain recollection of memories that were apparently 'lost'. For example, when seeing a friend who you have not seen in many years, you may be prompted to remember events or parties experienced with them that were otherwise inaccessible.
+| Strengths | Limitations |
+| --- | --- |
+| Explains some forgetting | Little empirical evidence in support of LTM forgetting due to the mere passing of time and disuse; when cues are provided, 'decayed' memories can usually be recovered |
+| --- | Doesn't account for the failure to access anxiety-laden memories |
+| --- | Doesn't account for the loss of memories resulting from head trauma or neurodegenerative diseases |
+| --- | More relevant to STM and sensory memory than LTM |
 
 #### Read box 8.6 on comparing theories of forgetting and suggest a relevant example for retrieval failure theory.
 
