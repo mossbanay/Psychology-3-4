@@ -4,27 +4,27 @@ For each of the following examples, identify one or more measures of retention t
 
 ##### Remembering a friend's mobile phone number with no cues
 
-SR
+SR, FR
 
 ##### Playing 'Hangman'
 
-RG
+CR
 
 ##### Using photos from a trip to describe your experiences
 
-CR
+CR, RG
 
 ##### Identifying a friend who appears in a news report
 
-CR
+RG
 
 ##### Remembering the directions to a friend's house
 
-CR, RG
+SR
 
 ##### Writing out the words of a song from memory
 
-FR, SR
+SR
 
 ##### Reading back over your textbook before an exam
 
@@ -32,7 +32,7 @@ RL
 
 ##### Writing out the words of a song with the music of the song playing in the background
 
-RG
+CR
 
 # Learning Activity 9.2
 
@@ -42,17 +42,17 @@ A measure of retention is a tool that allows the level of retained information t
 
 #### Briefly describe the three different measures of retention, with reference to examples not used in the text.
 
-- **Recall** involves reproduction of information stored in memory.
-- **Recognition** involves identifying the correct piece of information around alternatives
-- **Relearning** learning information again that has been previously learned and stored in LTM
+- **Recall** involves reproduction of information stored in memory without retrieval cues.
+- **Recognition** involves identifying the correct piece of information around alternatives.
+- **Relearning** learning information again that has been previously learned and stored in LTM.
 
 #### List the three measures of rentention in order of sensitivity
 
 Ascending order of sensitivity
 
-- Recall
-- Recognition
-- Relearning
+- Recall (least)
+- Recognition (middle)
+- Relearning (most)
 
 #### Choose one concept you have studied this semester and write a question requiring the recall method and a question requiring the recognition method.
 
@@ -71,11 +71,11 @@ Ahmed took 30 minutes to learn a list of ten Spanish words when they were first 
 
 #### Using a method of savings formula, calculate the amount of retention of information from the first learning session to the second learning session.
 
-savings = (30 - 10) / (30) * 100 = 66.67%
+savings = (30 - 5) / (30) * 100 = 83.33%
 
 #### Explain what this figure means in terms of Ahmed's retention of Spanish words.
 
-A savings score of 66.67% means that 66.67% of the original learned information was retained.
+A savings score of 83.33% means that 83.33% of the original learned information was retained and as a result it took him about one sixth of the original amount of time it took to learn the list to relearn the list.
 
 ---
 
@@ -95,7 +95,7 @@ Participants are more likely to drop-out which is counter-productive for a long-
 
 #### Name the sampling procedure
 
-Convience sampling
+Convenience sampling
 
 #### What question about the ethical value of justice could be raised in relation to the study?
 
@@ -105,7 +105,7 @@ Are the group of psychology students unfairly baring the burden of the psycholog
 
 #### Explain the difference between context dependent and state dependent retrieval cues with reference to an example
 
-State dependent cues rely on the context or external environmental of the learner being the same during retrieval as it was during learning whereas context dependent cues rely on the state or internal environment of the learner being the same during retrieval as it was during learning. An example of context dependent cues is walking down the street where you first met a partner. An example of state dependent cues is being under the influence of alcohol and remembering the first time you got drunk.
+State dependent cues rely on the context or internal environmental of the learner being the same during retrieval as it was during learning whereas context dependent cues rely on the state or external environment of the learner being the same during retrieval as it was during learning. An example of a context dependent cue is walking down the street where you first met a partner. An example of a state dependent cue is being under the influence of alcohol and remembering the first time you got drunk.
 
 #### Give an example of an everyday life situation involving both context and state dependent cues
 
@@ -119,11 +119,11 @@ Subtle changes in the encoding of the memories under different contexts and stat
 
 #### What is a mnemonic device?
 
-A mnemonic device is a technique that is used to improve the capacity or longevity of memory.
+A mnemonic device is a technique that is used to enhance or improve memory.
 
 #### How do mnemonic devices improve memory?
 
-Mnemonic devices improve memory by providing cues for recall or by adding meaningful links between pieces information, allowing them to be more deeply encoded.
+Mnemonic devices improve retrieval from LTM by creating links between new information and information already stored in LTM by elaborative rehearsal. This means that the newly learnt information is better organised into LTM and therefore easier to retrieve.
 
 ---
 
