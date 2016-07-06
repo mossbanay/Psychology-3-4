@@ -1,3 +1,66 @@
+# Learning Activity 10.1
+
+L - learned behaviour
+R - reflexive behaviour
+FAP - fixed-action pattern
+M - behaviour due to maturation
+
+#### Emotional attachment by an infant to a caregiver
+
+?
+
+#### Speaking in high-pitched 'baby talk' to an infant
+
+Learned behaviour
+
+#### Being scared of snakes
+
+?
+
+#### Scratching an itch
+
+Reflexive behaviour
+
+#### Nodding in agreement
+
+?
+
+#### Smoking cigarettes
+
+?
+
+#### Perceiving an illusion
+
+?
+
+#### Whistling
+
+?
+
+#### Walking
+
+Behaviour due to maturation
+
+#### Playing
+
+?
+
+#### Curiosity
+
+?
+
+#### Sleeping
+
+Behaviour due to maturation
+
+#### Loving
+
+Fixed-action pattern
+
+#### Roller-skating
+
+Learned behaviour
+
 # Learning Activity 10.2
 
 #### Define the meaning of the term learning.
