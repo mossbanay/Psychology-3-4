@@ -285,6 +285,10 @@ Korsakoff's disease is a form of neurodegenerative disease often observed in alc
 
 A leading question has content or is phrased in such a way as to suggest what answer is desired or to lead you to the desired answer.
 
+### Learning
+
+Learning is a relatively permanent change in behaviour that occurs as a result of experience.
+
 ### Lesion
 
 An area of an organ which has suffered some sort of trauma or injury.
