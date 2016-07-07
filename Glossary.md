@@ -81,6 +81,10 @@ The influence of the effects made by a previous treatment or task on a participa
 Examples include:
 - In an experiment concerning the affect of alcohol on driving performance, it is important to give the participants alcohol after the sober test but before the second test.
 
+### Cell assemblies
+
+Canadian psychologist Donald Hebb proposed that learning results in the creation of **cell assemblies**, groups of interconnected neurons that form networks or pathways.
+
 ### Central nervous system
 ##### Also known as CNS
 

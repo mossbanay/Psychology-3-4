@@ -38,3 +38,35 @@ Maturation refers to **sequential changes** that the body is genetically program
 - Crawling
 - Standing
 - Walking
+
+### Biological basis of learning
+
+Learning occurs through the release of neurotransmitter between neurons which leads to changes in the neural pathways within our brain. Existing connections between neurons can be reorganised in structure, changing their function by 'rewiring' themselves. Our pathways may be strengthened, making communication along a pathway easier in the future.
+
+These physical changes that take place within the brain when learning occurs, are the biological basis or foundation of learning.
+
+Canadian psychologist Donald Hebb proposed that learning results in the creation of **cell assemblies**, groups of interconnected neurons that form networks or pathways. Neurons within a network can send messages to other networks via the neurons in their network since a single neuron may belong to many different networks. This also suggests that a single neuron may play a role in more than one function.
+
+**Hebbian learning** learning can be summarised by 'neurons that fire together, wire together', suggesting that LTP is necessary for learning to occur.
+
+#### Types of neurotransmitter
+
+##### Glutamate
+
+When released during learning, glutamate **initiates activity in the postsynaptic neuron** and is believed to contribute to **synaptic formation** and the **strengthening of existing synapses**.
+
+##### Dopamine
+
+Generally accepted as a neurotransmitter that strengthens a neural connection, dopamines more researched role is related to the **pleasure system**. As a result, dopamine is heavy studied in conjunction with **reward-based learning**. Dopamine is often secreted after winning while gambling, eating a tasty food or when achieving a high score on a video game. the release of the dopamine provides a pleasurable experience, which in turn motivates the individual to repeat the action.
+
+Dopamine is also associated with memory formation.
+
+##### Serotonin
+
+Associated with mood, low levels in patients with depression.
+
+##### Acetylcholine
+
+While the function of acetylcholine is largely unknown, patients with Alzheimer's disease are often found to have very low concerntrations of acetylcholine within their cerebral cortex.
+
+##### Norepinephrine
