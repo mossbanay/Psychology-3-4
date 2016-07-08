@@ -13,16 +13,16 @@ The term used to describe any state of consciousness that is distinctly differen
 
 ### Amnesia
 
-A term used to refers to the partial or complete loss of memory that is either temporary or permamnent. There are two forms of amnesia: anterograde amnesia and retrograde amnesia.
+A term used to refers to the partial or complete loss of memory that is either temporary or permanent. There are two forms of amnesia: anterograde amnesia and retrograde amnesia.
 
 ### Amygdala
 
 TODO
 
-### Anterograde amensia
-##### See also amensia
+### Anterograde amnesia
+##### See also amnesia
 
-Anterograde amensia is a particular amensia in which memories after damage has occured to the brain cannot be recalled, that is to say there is a disruption in establishment or encoding of new memories. Henry Molaison is a famous example of a patient with anterograde amensia.
+Anterograde amnesia is a particular amnesia in which memories after damage has occurred to the brain cannot be recalled, that is to say there is a disruption in establishment or encoding of new memories. Henry Molaison is a famous example of a patient with anterograde amnesia.
 
 ### Anosognosia
 
@@ -30,7 +30,7 @@ Anosognosia is a deficit of self-awareness, a condition in which a person who su
 
 ### Aphasia
 
-A condition characterised by speech impairment. This is often a result of damage to Broca's area or Werenicke's area.
+A condition characterised by speech impairment. This is often a result of damage to Broca's area or Wernicke's area.
 
 ### Attention
 ##### See also selective attention, divided attention
@@ -62,7 +62,7 @@ The tube-like extension from the soma that carries information away from the neu
 An umbrella term for any brain damage that impairs the functioning of the brain temporarily or permanently.
 
 There are two types of brain trauma: inflicted brain trauma and acquired brain trauma.
- Inflicted brain trauma is trauma casued by direct damage to the head whereas acquired brain trauma is caused by damage to other parts of the body such as long-term alcoholism, stroke or neurodegenerative diseases.
+ Inflicted brain trauma is trauma caused by direct damage to the head whereas acquired brain trauma is caused by damage to other parts of the body such as long-term alcoholism, stroke or neurodegenerative diseases.
 
 ### Broca's aphasia
 ##### Also known as non-fluent aphasia
@@ -71,7 +71,7 @@ A condition in which language production is severely impaired as a result to dam
 
 ### Broca's area
 
-A small area in the frontal lobe which is reasonable for coordinating the muscles needed speech production. Damage to Broca's area results in Broca's aphasia (also known as expressive aphasia). Broca's area is found in th e left hemisphere for 95% of patients.
+A small area in the frontal lobe which is reasonable for coordinating the muscles needed speech production. Damage to Broca's area results in Broca's aphasia (also known as expressive aphasia). Broca's area is found in the left hemisphere for 95% of patients.
 
 ### Carry-over effects
 ##### See also order effects
@@ -101,17 +101,17 @@ The cerebral cortex is the 2-4mm outer layer of the brain. Typically it is split
 ### Cocktail-party effect
 ##### See also selective attention
 
-You may find sometimes that when having a conversation with one group at a party or other social gathering, your attention may suddenly shift when you hear your name being used in a conversation somewhere else. Even though you weren't specifically giving that seperate conversation attention, your body still processes it.
+You may find sometimes that when having a conversation with one group at a party or other social gathering, your attention may suddenly shift when you hear your name being used in a conversation somewhere else. Even though you weren't specifically giving that separate conversation attention, your body still processes it.
 
 ### Confounding variables
 ##### See also extraneous variables
 
 A confounding variable refers to any variable other than the IV that has an unwanted effect on the DV, *making it impossible to determine what has caused the DV.*
 
-A confounding variable is different to an EV as it has a systematic/measureable effect.
+A confounding variable is different to an EV as it has a systematic/measurable effect.
 
 Examples include:
-- In an experiment looking at the difficulty of two video game levels, participants are asked to play both levels taking a short break between. However when playing level 1, the participants sat only 3m away from the tv, while when playing level they sat 6m away from the tv. The mean score for level 1 was higher than the mean score for level 2. However, the distance that the participants sat from the tv is a confounding variable, and the experimenters have no way of telling to what degree sitting further away from the tv made.
+- In an experiment looking at the difficulty of two video game levels, participants are asked to play both levels taking a short break between. However when playing level 1, the participants sat only 3m away from the TV, while when playing level they sat 6m away from the TV. The mean score for level 1 was higher than the mean score for level 2. However, the distance that the participants sat from the TV is a confounding variable, and the experimenters have no way of telling to what degree sitting further away from the TV made.
 - If a repeated measures experimental design has been used but proper counterbalancing wasn't used.
 
 ### Corpus callosum
@@ -151,7 +151,7 @@ An umbrella term for neurodegenerative diseases that cause a progressive decline
 
 ### Dendrites
 
-Dendrites are the thin extensions from the soma that recieve neurotransmitters from other neurons and transmit it to the soma.
+Dendrites are the thin extensions from the soma that receive neurotransmitters from other neurons and transmit it to the soma.
 
 ### Descriptive statistics
 
@@ -176,13 +176,13 @@ Examples include:
 ### Episodic memory
 ##### See also declarative memory
 
-Episodic memory refers memories about a specific time or place that was personally experienced. This includes details on the time, place, psychological and physiological state, as well as when the event occured.
+Episodic memory refers memories about a specific time or place that was personally experienced. This includes details on the time, place, psychological and physiological state, as well as when the event occurred.
 
 Episodic memory can be split into two groups, retrospective memory (memories from the past) and prospective memory (memories of things that are to be done in the future)
 
-### Elaborative rehersal
+### Elaborative rehearsal
 
-Elaborative rehresal is linking new info in a meaningful way with other new info, or old info already stored in LTM. This form of rehersal is far more effective than maintainance rehersal when attempting to store information in long-time memory.
+Elaborative rehearsal is linking new info in a meaningful way with other new info, or old info already stored in LTM. This form of rehearsal is far more effective than maintenance rehearsal when attempting to store information in long-time memory.
 
 ### Electroencephalograph (EEG)
 ##### See also polysomnography
@@ -215,7 +215,7 @@ Examples include:
 ### Experimenter effect
 ##### See also confounding variables, extraneous variables
 
-The experimenter effect refers to the possiblility of actions, biases or expectations made by an experimenter causing a change in a participants response. This is a potentially confounding variable if not controlled for.
+The experimenter effect refers to the possibility of actions, biases or expectations made by an experimenter causing a change in a participants response. This is a potentially confounding variable if not controlled for.
 
 Notable studies:
 - Lenore Jacobson (1968)
@@ -258,7 +258,7 @@ TODO
 ### Individual participant differences
 ##### See also confounding variables, extraneous variables
 
-Individual participant differences are differences in the the individual participants that could lead to change in the outcome of the experiment due to personal characteristics.
+Individual participant differences are differences in the individual participants that could lead to change in the outcome of the experiment due to personal characteristics.
 
 Examples include:
 - Age
@@ -283,7 +283,7 @@ Interneurons perform the important function of making the connection between sen
 
 ### Korsakoff's syndrome
 
-Korsakoff's disease is a form of neurodegenerative disease often observed in alcoholics in which major damage is caused to the thalamus, often leading to anterograde amensia.
+Korsakoff's disease is a form of neurodegenerative disease often observed in alcoholics in which major damage is caused to the thalamus, often leading to anterograde amnesia.
 
 ### Leading question
 
@@ -303,12 +303,12 @@ TODO
 
 ### Longitudinal fissure
 
-The deep groove that appears to seperate the two cerebral hemispheres of the brain.
+The deep groove that appears to separate the two cerebral hemispheres of the brain.
 
-### Maintainance rehersal
-##### See also elaborative rehersal
+### Maintenance rehearsal
+##### See also elaborative rehearsal
 
-Repeating info over and over without adding meaning, and without linking to other info already in memory. An example over maintainance rehersal repeating a phone number from the yellow pages to yourself over and over while walking to the telephone.
+Repeating info over and over without adding meaning, and without linking to other info already in memory. An example over maintenance rehearsal repeating a phone number from the yellow pages to yourself over and over while walking to the telephone.
 
 ### Measures of retention
 
@@ -320,7 +320,7 @@ TODO
 
 ### Memory
 
-Memory is defined as the processing, storage and retrival of information accquired through learning, i.e a neurological representation of a past event.
+Memory is defined as the processing, storage and retrieval of information acquired through learning, i.e a neurological representation of a past event.
 
 ### Mnemonic device
 
@@ -352,6 +352,10 @@ Examples of neurodegenerative diseases include:
 - Alzheimer's disease
 - Korsakoff's syndrome
 - Other forms of dementia
+
+### Neuroplasticity (plasticity, neural plasticity)
+
+Neuroplasticity is the ability of the brain's neural structure or function to be change by experience throughout the lifespan.
 
 ### Neuron
 
@@ -435,7 +439,7 @@ Short for "receives, analyses and interprets".
 
 The recency effect refers to the superior recall of items at the end of a list. This occurs because the last few items are likely to still be in STM. As a result of this, the superior recall is not apparent when delayed recall occurs.
 
-### Rehersal
+### Rehearsal
 
 The process of consciously manipulating information so that it can aid retrieval
 
@@ -458,20 +462,20 @@ Examples of different types of retrieval cues for the term 'dachshund':
 
 Retrieval failure theory suggests that memories become inaccessible due lack of correct cues that lead to the information stored in LTM.
 
-### Retrograde amensia
+### Retrograde amnesia
 ##### See also amnesia
 
-Retrograde amensia is a particular amensia in which memories before damage has occured to the brain cannot be recalled, that is to say there is a disruption in retrieval of old memories. This may be seen in patients who have had a knock to the head and cannot remember an hour or so before their incident.
+Retrograde amnesia is a particular amnesia in which memories before damage has occurred to the brain cannot be recalled, that is to say there is a disruption in retrieval of old memories. This may be seen in patients who have had a knock to the head and cannot remember an hour or so before their incident.
 
 ### Selective attention
 ##### See also divided attention
 
-Selective attention is a content limitation. Selective attention is an example of when you are concerntrating very hard on one task at hand. It is important to note that the inattention on other topics is a subconscious effect, and you have no control until willing yourself to concentrate on something else.
+Selective attention is a content limitation. Selective attention is an example of when you are concentrating very hard on one task at hand. It is important to note that the inattention on other topics is a subconscious effect, and you have no control until willing yourself to concentrate on something else.
 
 Selective attention is impacted when in an alcohol-induced state or while daydreaming.
 
 Examples include:
-- A diver concerntrating when about to make a complex dive
+- A diver concentrating when about to make a complex dive
 - A chef when plating delicate food
 
 ### Self-fulfilling prophecy
@@ -490,7 +494,7 @@ Semantic memory stores information about facts and general knowledge that is not
 
 ### Semantic network theory
 
-First proposed by Allan Collins in 1969, the semantic network theory is based on the idea of concepts called nodes being linked together through meaningful connections to create a hiearchical structure called a network.
+First proposed by Allan Collins in 1969, the semantic network theory is based on the idea of concepts called nodes being linked together through meaningful connections to create a hierarchical structure called a network.
 
 ### Sensation
 
@@ -503,7 +507,7 @@ Sensory memory is the entry point of memory where new incoming memory is stored 
 ### Sensory neurons
 ##### Also known as afferent neurons
 
-Sensory neurons are specialised nerve cells that recieve and carry sensory messages.
+Sensory neurons are specialised nerve cells that receive and carry sensory messages.
 
 ### Serial position effect
 
@@ -511,12 +515,12 @@ The serial position refers to the finding that free recall is better for items a
 
 ### Short-term memory (STM)
 
-Short-term memory (STM) is a memory system with limited storage capcity in which information is stored for a relatively short time, unless renewed in some way.
+Short-term memory (STM) is a memory system with limited storage capacity in which information is stored for a relatively short time, unless renewed in some way.
 
 ### Sleep
-##### See also alterted state of consciousness
+##### See also altered state of consciousness
 
-Sleep is a naturally occuring ASC often characterised by a loss of conscious awareness. Sleep is often studied by use of polysomnography.
+Sleep is a naturally occurring ASC often characterised by a loss of conscious awareness. Sleep is often studied by use of polysomnography.
 
 ### Soma
 
@@ -538,7 +542,7 @@ Spatial Neglect is an attentional disorder in which the person affected systemat
 ### Split-brain surgery
 ##### Also known as commissurotomy
 
-A surgery in which the corpus callosum is severed, effectively seperating the two cerebral hemispheres.
+A surgery in which the corpus callosum is severed, effectively separating the two cerebral hemispheres.
 
 ### Spreading activation
 
@@ -582,7 +586,7 @@ TODO
 
 ### Synaptic gap (synaptic cleft)
 
-The small seperation between the pre-synaptic neuron and the post-synaptic neuron.
+The small separation between the pre-synaptic neuron and the post-synaptic neuron.
 
 ### Tachistoscope
 
@@ -592,11 +596,11 @@ A specialised projector used to project images on a screen for a precise period 
 
 TOT is the feeling of being confident that you are able to remember a piece of information however at the present time you are unable to remember the information.
 
-### Werenicke's aphasia
+### Wernicke's aphasia
 ##### Also known as fluent aphasia
 
-A condition in which comprehension of language is severely impaired as a result to damage of Werenicke's area (usually by a stroke).
+A condition in which comprehension of language is severely impaired as a result to damage of Wernicke's area (usually by a stroke).
 
-### Werenicke's area
+### Wernicke's area
 
 Wernicke's area is the primary area for the cognition and understanding of language. Damage to Wernicke's area from for example a stroke may result in Wernicke's aphasia.
