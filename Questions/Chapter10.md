@@ -114,7 +114,7 @@ LTP allows neural pathways to become more sensitive and fire more often which in
 
 #### Explain the meaning of 'neural pathway of learning'
 
-
+Neural pathways are what cause our behaviour and as a result for learning to occur neural pathways must change to accomodate a change in behaviour.
 
 #### Learning has been described as a process of modifying existing pathways or building new neural pathways. Comment on the accuracy of this description.
 
@@ -124,5 +124,43 @@ This is mostly accurate, however it is also important to note that the disuse of
 
 #### Suggest a reason to explain why neural mechanisms of learning and memory are so alike that it can be difficult to isolate and differentiate between them.
 
+Memory and learning both relate to changes that are caused by previous experiences. It can become difficult to distinguish between the two as inherently linked as you learn from your memories of events.
+
 # Learning Activity 10.5
+
+#### Aim:
+
+To determine the effects of a stimulating environment on brain growth in rats.
+
+#### Hypothesis:
+
+It was hypothesised that rats who lived in a more stimulating environment would exhibit more brain growth than those who were in a standard condition or an environment with less than normal stimulation.
+
+#### Operationalised variables:
+
+IV: Whether a rat was placed into the impoverished environment, control or enriched environment.
+DV: The weight of the rats brains and the number of synapses.
+
+#### Different conditions of experiment:
+
+Impoverished condition: A single rat alone in a standard cage
+Control condition: Three rats in a standard cage
+Enriched condition: Ten-twelve rats in a larger cage with new stimuli added daily
+
+#### Experimental design:
+
+Independent groups.
+
+#### Procedure of allocation:
+
+Random allocation.
+
+#### Results:
+
+It was found that rats from the enriched group showed the most brain development while rats from the impoverished group showed the least brain development.
+
+#### Conclusion:
+
+Living in a stimulating environment promotes the development of new neural pathways and strengthens existing neural pathways.
+
 # Learning Activity 10.6
