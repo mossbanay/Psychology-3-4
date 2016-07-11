@@ -9,7 +9,7 @@ An **acronym is a shortened or abbreviated phrase** made into a **pronounceable*
 ### Adaptive plasticity
 ##### See also developmental plasticity
 
-Adaptive plasticity occurs duuring recovery from trauma deu to brain injury.
+Adaptive plasticity occurs during recovery from trauma due to brain injury.
 
 ### Altered state of consciousness (ASC)
 ##### See also normal waking consciousness
