@@ -6,6 +6,11 @@ An **acronym is a shortened or abbreviated phrase** made into a **pronounceable*
 
 **Acrostics** are words formed by **taking the first letter** from a series of words and stringing them together to form a phrase. If trying to remember the letters T A L F, one might construct an acrostic that reads "That's a large flower".
 
+### Adaptive plasticity
+##### See also developmental plasticity
+
+Adaptive plasticity occurs duuring recovery from trauma deu to brain injury.
+
 ### Altered state of consciousness (ASC)
 ##### See also normal waking consciousness
 
@@ -135,6 +140,11 @@ Context dependent cues are cues that are triggered by a person's external enviro
 
 Controlled processes are processes that require total concentration and selective attention.
 
+### Critical period
+##### See also sensitive period
+
+A critical period is a specific period in development which an organism is most vulnerable to the deprivation or absence of certain environmental stimuli or experiences.
+
 ### Daydreaming
 ##### See also altered state of consciousness
 
@@ -162,6 +172,11 @@ Descriptive statistics include:
 - Range
 - Standard deviation
 - Variance
+
+### Developmental plasticity
+##### See also adaptive plasticity
+
+Developmental plasticity refers to the changes in the brain's neural structure in response to experience during its growth and development which proceeds according to its maturational blueprint. For the most part developmental plasticity concludes at the end of adolescence.
 
 ### Divided attention
 ##### See also selective attention
@@ -443,6 +458,10 @@ The recency effect refers to the superior recall of items at the end of a list. 
 
 The process of consciously manipulating information so that it can aid retrieval
 
+### Rerouting
+
+Rerouting refers to the tendency for undamaged neurons that have lost a connection with another neuron to seek out a new neuron to connect with. Rerouting often occurs during adaptive plasticity.
+
 ### Retrieval
 
 Retrieval is the process of locating and recovering the stored information from memory so that we are consciously aware of it.
@@ -500,6 +519,11 @@ First proposed by Allan Collins in 1969, the semantic network theory is based on
 
 A sensation is the information from a sensory input with any interpretation.
 
+### Sensitive period
+##### See also critical period
+
+A sensitive period is a period in development when an organism is more responsive to certain environmental stimuli or experiences.
+
 ### Sensory memory
 
 Sensory memory is the entry point of memory where new incoming memory is stored for a very brief period.
@@ -548,6 +572,10 @@ A surgery in which the corpus callosum is severed, effectively separating the tw
 
 Spreading activation (introduced by Collins and Loftus in 1975) suggests that activation of a single node in a semantic network increases the likelihood of neighbouring nodes also being activated.
 
+### Sprouting
+
+Sprouting refers to the growth of new bushier nerve fibres with more branches to make new neural connections. Sprouting occurs during adaptive plasticity - where the brain attempts to repair damaged connections.
+
 ### State dependent cues
 ##### Also see context dependent cues
 
@@ -587,6 +615,14 @@ TODO
 ### Synaptic gap (synaptic cleft)
 
 The small separation between the pre-synaptic neuron and the post-synaptic neuron.
+
+### Synaptic pruning
+
+Synaptic pruning is the process of removing synaptic connections.
+
+### Synaptogenesis
+
+Synaptogenesis is the forming of new synapses.
 
 ### Tachistoscope
 
