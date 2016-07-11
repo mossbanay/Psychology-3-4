@@ -24,8 +24,9 @@ A fixed-action pattern is an inborn **predisposition to behave in a certain way*
 
 ##### Examples of fixed-action patterns
 
+- Funnel-web spiders spinning tubular webs to catch prey (very specific)
+- Male bowerbird creating a blue coloured mound of twigs to attract a female.
 - Salmon swimming upstream to spawn
-- Spiders spinning webs to catch prey
 - Bees dancing to show others where nectar is
 - Species of birds which know what time of the year to migrate
 
@@ -35,9 +36,10 @@ Maturation refers to **sequential changes** that the body is genetically program
 
 ##### Examples of behaviour dependent on maturation
 
+- Onset of walking
+- Onset of talking
 - Crawling
 - Standing
-- Walking
 
 ### Biological basis of learning
 
