@@ -103,6 +103,10 @@ The prominent fold between the frontal and parietal lobe as well as the primary 
 
 The cerebral cortex is the 2-4mm outer layer of the brain. Typically it is split into four lobes for research purposes, although all lobes interact during normal operation.
 
+### Classical conditioning
+
+Classical conditioning refers to a type of learning that occurs through the repeated association of two (or more) different stimuli.
+
 ### Cocktail-party effect
 ##### See also selective attention
 
