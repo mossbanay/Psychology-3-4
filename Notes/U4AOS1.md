@@ -72,3 +72,18 @@ Associated with mood, low levels in patients with depression.
 While the function of acetylcholine is largely unknown, patients with Alzheimer's disease are often found to have very low concerntrations of acetylcholine within their cerebral cortex.
 
 ##### Norepinephrine
+
+TODO
+
+## Neural plasticity
+
+### Developmental plasticity
+
+#### Synaptogenesis
+#### Synaptic pruning
+
+![Example of synaptic pruning](http://4.bp.blogspot.com/-5cMXnTC7qIE/T6LA62p0XaI/AAAAAAAAAKE/Lo1Uc5tLi5U/s400/SynapticDensity.gif)
+
+### Adaptive plasticity
+
+### Critical and sensitive periods of development
