@@ -164,3 +164,71 @@ It was found that rats from the enriched group showed the most brain development
 Living in a stimulating environment promotes the development of new neural pathways and strengthens existing neural pathways.
 
 # Learning Activity 10.6
+
+#### Explain the meaning of plasticity in relation to the brain.
+
+Plasticity refers to the ability of the brain's neural structure to change and adapt as a result of experience throughout the lifespan.
+
+#### Explain why the brain is considered to have plasticity with reference to two key points.
+
+The brain changes during adolescence (developmental plasticity) and can repair damage caused by trauma due to brain injury (adaptive plasticity).
+
+#### Explain the meaning of developmental plasticity with reference to learning
+
+Developmental plasticity refers to learning that occurs according to progression along a maturational schedule of development.
+
+#### In what way do synaptogenensis and synaptic pruning demonstrate the plasticity of the brain?
+
+In the initial years of a child's life, synaptogenesis (the formation of new synapses) causes the brain to become overloaded with neurons. The brain then removes these neurons (synaptic pruning) causing the brain to change its function by discarding neurons which are not needed.
+
+---
+
+#### What is adaptive plasticity?
+
+Adaptive plasticity refers to changes made to the brain's neural structure in order to recover from trauma caused by brain injury.
+
+#### In what way is adaptive plasticity similar to and different from developmental plasticity?
+
+Both adaptive plasticity and developmental plasticity can account for a change in the function and structure of neurons and can also repair damage to the brain. However, developmental plasticity occurs in the period from birth until the end of adolescence whereas adaptive plasticity remains for the whole lifespan.
+
+#### Describe three neural processes that indicate and enable adaptive plasticity.
+
+- Rerouting, in which undamaged neurons who have lost connections with damaged neurons find new neurons to connect with.
+- Sprouting, in which the growth of new bushier nerve fibres with more branches to make connections occurs.
+- Synaptogenesis? It seems more like there is only two neural processes
+
+---
+
+#### Give an example of research findings that support the occurrence of adaptive plasticity in response to everyday experience
+
+Adults who learnt to juggle were found to have their hippocampal area grow during the time they were learning to juggle when compared to a control group.
+
+#### Give an example of research findings that support the occurrence of adaptive plasticity in response to recovery from brain damage
+
+A successful piano player who lost control of her right hand as a result of damage caused by a stroke to the left hemisphere regained control of her right hand after several months of rehabilitation.
+
+---
+
+#### Explain how adaptive plasticity enables compensation for lost brain function and/or maximises remaining functions in the event of brain damage
+
+After serious trauma occurs the brain will reorganise itself in order to compensate for the lost function. If a finger is lost for example, the neurons which were previously used to receive sensory information for that finger will over time become more sensitive to sensory input from other fingers, maximising the usefulness of that area of neural matter.
+
+---
+
+#### In what way is the 'timing of experiences' relevant to brain plasticity for learning?
+
+Depending on the amount an individual has progressed through their maturational schedule, learning can occur either more easily or more difficultly.
+
+#### Distinguish between sensitive periods and critical periods for learning with reference to two key points and a relevant example of each concept.
+
+Sensitive periods are periods during which the brain is more responsive to learning and undergo more changes whereas critical periods are periods during which the development will not progress in a normal way unless experience occurs.
+
+An example of a sensitive period is humans will be able to learn language with the most ease up until the ages 12 years.
+
+An example of a critical period is during the first 5 years of life is when the visual cortex is most vulnerable to deprivation of visual experiences.
+
+#### Distinguish between experience-expectant learning and experience-dependent learning with reference to an example.
+
+Experience-expectant learning that takes place due to an experience which is expected by the brain. If such an experience does not occur when expected then brain development may not occur as it should. This includes the learning of language and visual stimulation.
+
+Experience-dependent learning refers to learning that requires exposure to a particular experience at any time in an individual's development. This includes learning the piano, cooking.
