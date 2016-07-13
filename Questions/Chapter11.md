@@ -38,3 +38,30 @@ The CS and UCS are repeatedly exposed together, eventually causing both the UCS 
 #### At what point in the process of classical conditioning can it be said that a response has been learned?
 
 A response is said to have been learnt when the CS reliably produces a CR that was not previously present.
+
+# Learning Activity 11.3
+# Learning Activity 11.4
+# Learning Activity 11.5
+# Learning Activity 11.6
+# Learning Activity 11.7
+# Learning Activity 11.8
+# Learning Activity 11.9
+# Learning Activity 11.10
+# Learning Activity 11.11
+# Learning Activity 11.12
+# Learning Activity 11.13
+# Learning Activity 11.14
+# Learning Activity 11.15
+# Learning Activity 11.16
+# Learning Activity 11.17
+# Learning Activity 11.18
+# Learning Activity 11.19
+# Learning Activity 11.20
+# Learning Activity 11.21
+# Learning Activity 11.22
+# Learning Activity 11.23
+# Learning Activity 11.24
+# Learning Activity 11.25
+# Learning Activity 11.26
+# Learning Activity 11.28
+# Learning Activity 11.30
