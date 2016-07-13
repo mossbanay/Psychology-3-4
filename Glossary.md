@@ -1,3 +1,7 @@
+### Acquisition
+
+Acquisition is the overall process during which an organism learns to associate two events.
+
 ### Acronym
 
 An **acronym is a shortened or abbreviated phrase** made into a **pronounceable** word. Examples of acronyms include NASA (National Aeronautics and Space Administration), ANZAC (Australian New Zealand Army Corps) and ASCII (American Standard Code for Information Interchange).
@@ -252,6 +256,10 @@ Examples include:
 - Particular facial expressions made towards one group but not another
 - Giggling or particular interest for one group
 - Any difference in behaviour made by the experimenter between a control and experimental group
+
+### Extinction
+
+Extinction is the gradual decrease in the strength of the CR that occurs when the UCS is no longer presented.
 
 ### Extraneous variables
 ##### See also confounding variables
@@ -572,6 +580,10 @@ Spatial Neglect is an attentional disorder in which the person affected systemat
 
 A surgery in which the corpus callosum is severed, effectively separating the two cerebral hemispheres.
 
+### Spontaneous recovery
+
+Spontaneous recovery is the reappearance of a CR when the CS is presented, following a rest period after the CR appears to have been extinguished.
+
 ### Spreading activation
 
 Spreading activation (introduced by Collins and Loftus in 1975) suggests that activation of a single node in a semantic network increases the likelihood of neighbouring nodes also being activated.
@@ -606,6 +618,14 @@ There are also several physiological changes associated with states of conscious
 - Heart rate
 - Core body temperature
 - Electrical conductivity of skin
+
+### Stimulus discrimination
+
+Stimulus discrimination occurs when an organism responds only to its CS. For example it may respond to its CS (a clap) but not to a similar sound (a hi5).
+
+### Stimulus generalisation
+
+Stimulus generalisation occurs when an organism responds to stimuli that are similar to the CS but not the same. For example the CS may be a knock on a door but an organism may still respond to a knock on the floor.
 
 ### Storage
 
