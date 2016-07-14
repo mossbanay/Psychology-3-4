@@ -87,3 +87,50 @@ TODO
 ### Adaptive plasticity
 
 ### Critical and sensitive periods of development
+
+## Classical conditioning
+
+Classical conditioning first researched in 1899 by Ivan Pavlov, a Russian physiologist.
+
+### Key components in classical conditioning
+
+Classical conditioning consists of four major components:
+
+- UCS: The **original** stimulus that produces an involuntary response
+- UCR: The **original** (involuntary) response to the UCS
+- CS: The **conditioned** stimulus that produces an involuntary response after conditioning occurs
+- CR: The **conditioned** (involuntary) response to the CS
+
+It is important to note that the CS is a **neutral stimulus** before conditioning occurs. After the CS produces a CR, **conditioning is said to have occurred**. It is also important to note that while the CR may be similar to the UCR, **the CR and UCR are not identical**.
+
+### Steps in classical conditioning
+
+1. Acquisition
+
+⋅⋅⋅During acquisition **an association between the UCS and the CS is established**. This occurs by repeated presentations of the UCS and CS **simultaneously**, this timing is important.
+
+⋅⋅⋅For example in Pavlov's experiments, he studied dogs which **involuntarily salivated** to meat powder. To condition the dogs, **a bell was rung while meat powder was presented** to the dogs. This caused them to associate the sound of the bell ringing with the meat powder being brought out. After a number of trials to strengthen the association, **when the bell was rung alone** the dogs **would still salivate**. At this point **conditioning is said to have occurred**.
+
+2. Extinction
+
+⋅⋅⋅TODO
+
+3. Spontaneous recovery
+
+⋅⋅⋅TODO
+
+### Stimulus generalisation and stimulus discrimination
+
+Stimulus generalisation occurs when an organism responds to stimuli that are similar to the CS but not the same. For example the CS may be a knock on a door but an organism may still respond to a knock on the floor.
+
+Stimulus discrimination occurs when an organism responds only to its CS. For example it may respond to its CS (a clap) but not to a similar sound (a hi5).
+
+### Summary
+
+| Name of process | Description of process | Example of process | Key factors influencing the process |
+| --- | --- | --- | --- |
+| Acquisition | The association of an UCS and CS to create a CR by repeated presentations of the UCS and CS together | Playing a buzzer and a administering an electric shock simultaneously | The timing between the presentation of the UCS and CS (should be minimised <1/2 second) |
+| Extinction | The gradual decrease in the strength of the CR after the UCS is no longer presented | The lessening levels of salivation in response to the bell in Pavlov's dogs after the meat powder was no longer brought out | The strength of the existing conditioning |
+| Spontaneous recovery | The reappearance of the CR after a rest break (when the CS was not presented) when the CR appeared to have been extinguished | Pavlov's dogs salivating in response to a bell the day after an experiment where towards the end the dogs did not salivate in response to the bell | The time since the last exposure of the CS, the strength of the conditioning |
+| Stimulus generalisation | A response occurs when a stimulus similar to the CS is presented | A response occurs to a knock on a wooden floor when the CS is a knock on a wooden door | The uniqueness of the CS |
+| Stimulus discrimination | A response does not occur when a stimulus similar to the CS is presented | A response does not occur to a knock on a wooden floor when the CS is a knock on a wooden door | The uniqueness of the CS |
