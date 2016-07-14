@@ -159,6 +159,15 @@ The following week in their Psychology class, Elke accidentally tapped her penci
 The appearance of CR after some amount of time since the CR was believed to have been extinguished suggests that spontaneous recovery may have occurred.
 
 # Learning Activity 11.6
+
+| Name of process | Description of process | Example of process | Key factors influencing the process |
+| --- | --- | --- | --- |
+| Acquisition | The association of an UCS and CS to create a CR by repeated presentations of the UCS and CS together | Playing a buzzer and a administering an electric shock simultaneously | The timing between the presentation of the UCS and CS (should be minimised <1/2 second) |
+| Extinction | The gradual decrease in the strength of the CR after the UCS is no longer presented | The lessening levels of salivation in response to the bell in Pavlov's dogs after the meat powder was no longer brought out | The strength of the existing conditioning |
+| Spontaneous recovery | The reappearance of the CR after a rest break (when the CS was not presented) when the CR appeared to have been extinguished | Pavlov's dogs salivating in response to a bell the day after an experiment where towards the end the dogs did not salivate in response to the bell | The time since the last exposure of the CS, the strength of the conditioning |
+| Stimulus generalisation | A response occurs when a stimulus similar to the CS is presented | A response occurs to a knock on a wooden floor when the CS is a knock on a wooden door | The uniqueness of the CS |
+| Stimulus discrimination | A response does not occur when a stimulus similar to the CS is presented | A response does not occur to a knock on a wooden floor when the CS is a knock on a wooden door | The uniqueness of the CS |
+
 # Learning Activity 11.7
 # Learning Activity 11.8
 # Learning Activity 11.9
