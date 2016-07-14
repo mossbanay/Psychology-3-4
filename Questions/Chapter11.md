@@ -113,6 +113,51 @@ Stimulus generalisation occurs when an organism responds to stimuli that are sim
 Stimulus discrimination occurs when an organism responds only to its CS. For example it may respond to its CS (a clap) but not to a similar sound (a hi5).
 
 # Learning Activity 11.5
+
+When she was about eight years old, Elizabeth decided to help her mother at the florist's store where her mother worked. She first helped on Valentine's Day. Elizabeth did such a good job bringing in all the red roses for her mother to arrange that she was paid $20. But at the end of the day, nearly every finger on Elizabeth's hands was bleeding  because of the thorns on the red roses. On Mother's Day that year, Elizabeth worked at the florist's store again. Although she earned another $20, her hands were again very sore at the end of the day from the thorns on the red roses.
+
+The following week when her mother asked Elizabeth to assist with preparing flowers for a large wedding, Elizabeth replied that she would help as long as there were no red flowers involved.
+
+#### Elizabeth's refusal to handle red flowers is an example of what?
+
+Elizabeth was conditioned to feel nervous around handling red flowers as she on two separate occasions injured her hands when handling red roses.
+
+---
+
+One group of dogs was exposed to two different experimental conditions:
+- In condition 1, an experimenter who always wore a white coat regularly fed the dogs.
+- In condition 2, an experimenter who always wore a black coat prepared the food and got the feed bowls ready, but another experimenter then came in and actually gave the food to the dogs.
+
+The dogs were exposed to these conditions in random order twice daily for ten days. The amount of saliva produced by the dogs each time the experimenter approached was measured and recorded. These results, together with the baseline data that were collected before the experiment began, are shown in the table below.
+
+| Baseline condition (before conditioning) | Experimental condition 1 (white coat) | Experimental condition 2 (black coat) |
+| --- | --- | --- |
+| 3.2mL | 6.8mL | 3.5mL |
+
+#### The results in the table show that the dogs demonstrated what?
+
+The dogs demonstrated that they had associated the sight of the experimenter in the white coat with getting food.
+
+---
+
+In attempting to classically condition an eye-blink response to the sound of a pencil tap, Elke was the experimenter and Peta was the participant. Elke noticed that Peta's conditioned response (CR) (the eye-blink to the pencil tap alone) was becoming stronger as the number of pairing of two the stimuli increased.
+
+#### In this experiment, what stage of classical conditioning was Peta in?
+
+At that point in the experiment Peta was still in the acquisition phase of classical conditioning as the CR was growing in strength over time.
+
+Once the experiment was over, Elke was concerned that Peta might continue to blink every time she heard a pencil tap.
+
+#### Elke made sure this wouldn't happen by presenting the pencil tap alone for some time until she was sure that the stage of what had been achieved.
+
+Elke would make sure that extinction had occurred and that the CR had been successfully extinguished before leaving Peta.
+
+The following week in their Psychology class, Elke accidentally tapped her pencil and noticed that Peta blinked.
+
+#### This suggests that what may have occurred?
+
+The appearance of CR after some amount of time since the CR was believed to have been extinguished suggests that spontaneous recovery may have occurred.
+
 # Learning Activity 11.6
 # Learning Activity 11.7
 # Learning Activity 11.8
