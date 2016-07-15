@@ -215,6 +215,22 @@ A flashing light suddenly appearing on the control panel triggers a burst of adr
 During the pilots training, they learn to associate the flashing light (CS) with the possibility of danger, causing a rush of adrenaline (CR).
 
 # Learning Activity 11.8
+
+#### To which objects did Albert demonstrate stimulus generalisation?
+
+White rabbit, sealskin coat and a dog.
+
+#### Consider Watson and Rayner's (1920) study from an ethical perspective. To what extent were ethical principles for psychological research applied in the 'Little Albert' experiment? Explain with reference to procedures used by Watson and Rayner.
+
+During the period the study was completed, ethical guidelines were not properly established , and as a result the research was conducted without consultation to a board for ethical consideration. Albert was however screened to be a healthy child, and it was believed that no lasting harm or psychological damage would be imposed on Albert. Other researchers from the time period however claim that Watson and Rayner did not take steps towards ensuring that Albert would not have lasting damage, and it is unclear as to whether informed consent by Albert's mother was given, as well as whether withdrawal rights were able to be executed.
+
+#### Suggest an ethically acceptable procedure involving classical conditioning that could be used to extinguish Albert's fear response to white furry objects. Indicate the CS, UCS, CR and UCR.
+
+UCS: A rub on the belly
+UCR: Fondness / happiness from being rubbed on the belly
+CS: Presentation of a white furry object
+CR: Fondness / happiness
+
 # Learning Activity 11.9
 # Learning Activity 11.10
 # Learning Activity 11.11
