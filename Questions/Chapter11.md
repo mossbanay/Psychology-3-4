@@ -169,6 +169,51 @@ The appearance of CR after some amount of time since the CR was believed to have
 | Stimulus discrimination | A response does not occur when a stimulus similar to the CS is presented | A response does not occur to a knock on a wooden floor when the CS is a knock on a wooden door | The uniqueness of the CS |
 
 # Learning Activity 11.7
+
+#### Explain why Pavlov actually used the term conditioned reflex rather than conditioned response
+
+The actions that are made as a result of classical conditioning appear so natural and automatic that Pavlov referred to them as conditioned reflexes. The responses are in truth reflexes, as they are involuntary actions made by the individual.
+
+---
+
+A person under treatment for a gambling addiction often feels an urge to play the pokies whenever he again encounters cues such as driving past a gambling venue where he experienced a huge 'buzz' after hitting a jackpot, and hearing about someone else's big win on the machines.
+
+#### How may classical conditioning account for acquisition of the conditioned response in the scenario?
+
+During their gambling time, the person associated the gambling venue with the huge 'buzz' (CR) that they would feel when they see someone winning a jackpot, or when winning one themselves. This leads them to still feel urges to visit the venue when driving past (CS).
+
+---
+
+After swimming in the lake near his home one day, Glen emerged from the water covered with slimy blood-sucking leeches all over his back and legs. He was revolted as he removed the leeches. The next time he swam there, a leech attached itself to his cheek. Now, every time he passes the lake, Glen shudders in disgust.
+
+#### How may classical conditioning account for acquisition of the conditioned response in the scenario?
+
+On the two occasions Glen went swimming in the lake, he associated the lake with the feeling of the blood-sucking leeches on him. Now when driving past the lake (CS), Glen is reminded of the feeling of the leeches again and feels disgusted (CR).
+
+---
+
+When Mardi and her sisters were toddlers, their mother frequently used their nap time to vacuum. Now when Mardi and her sisters hear vacuum cleaners, they feel sleepy.
+
+#### How may classical conditioning account for acquisition of the conditioned response in the scenario?
+
+While toddlers, Mari and her sisters associated the sound of the vacuum cleaner (CS) with the act of falling asleep. This causes them to still feel sleepy (CR) when hearing the sound of the vacuum cleaner.
+
+---
+
+Every time three-year-old Sienna heard the doorbell ring, she raced to open the front door. On Halloween night, Sienna answered the doorbell and encountered a scary monster that intentionally startled her. Sienna screamed in fear and ran away. Her parents calmed her down but it happened again later that evening. Now Sienna whimpers and hides whenever the doorbell rings.
+
+#### How may classical conditioning account for acquisition of the conditioned response in the scenario?
+
+Sienna associated the sound of the doorbell (CS) with seeing the startling monster. Now when she hears the doorbell she whimpers and hides (CR).
+
+---
+
+A flashing light suddenly appearing on the control panel triggers a burst of adrenaline in a plane pilot.
+
+#### How may classical conditioning account for acquisition of the conditioned response in the scenario?
+
+During the pilots training, they learn to associate the flashing light (CS) with the possibility of danger, causing a rush of adrenaline (CR).
+
 # Learning Activity 11.8
 # Learning Activity 11.9
 # Learning Activity 11.10
