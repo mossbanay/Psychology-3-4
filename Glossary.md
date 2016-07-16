@@ -273,6 +273,10 @@ Examples include:
 
 Forgetting refers to the inability to retrieve previously stored memories.
 
+### Graduated exposure (exposure therapy)
+
+Graduation exposure or exposure therapy refers to therapy that involves presentation of progressively similar stimuli to a CS which produces an unwanted response. For example when treating acrophobia (the fear of heights) a clinician may exposure the patient to standing on a table, looking over a bridge, climbing a ladder and then finally looking out from a tall building (CS).
+
 ### Hemispheric specialisation
 ##### Also known as hemispheric lateralisation, hemispheric dominance
 
@@ -281,6 +285,11 @@ The idea that the majority of processing of particular tasks occurs in a particu
 ### Hippocampus
 
 TODO
+
+### Imaginal exposure
+##### See also graduated exposure
+
+Imaginal exposure refers to imagining a situation using visual imagery to expose oneself to a particular stimulus.
 
 ### Individual participant differences
 ##### See also confounding variables, extraneous variables
@@ -307,6 +316,11 @@ Inferential statistics include:
 ##### Also known as connecting neurons
 
 Interneurons perform the important function of making the connection between sensory and motor neurons. Interneurons are found exclusively in the CNS, and are most abundant in the brain.
+
+### In vivo exposure
+##### See also graduated exposure
+
+In vivo exposure refers to real-life exposure to a stimulus.
 
 ### Korsakoff's syndrome
 
