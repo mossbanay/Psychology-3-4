@@ -232,6 +232,57 @@ CS: Presentation of a white furry object
 CR: Fondness / happiness
 
 # Learning Activity 11.9
+
+#### Explain the meaning of exposure therapy with reference to the key feature of graduated exposure and that of flooding.
+
+Exposure therapy is a type of behaviour therapy which involves bringing the client into direct contact with the stimulus. When using graduated exposure, stimuli which are progressively more similar to the CS are exposed until the CS itself is presented to the subject. In flooding the client is brought into direct contact with the CS immediately and is exposed to the stimulus until the conditioned response is extinguished.
+
+---
+
+#### Define graduated exposure with reference to an example not use in the text.
+#### Construct a hierarchy of frightening situations (such as that for fear of flying in figure 11.15) for someone with one of the following fears: dogs, heights, swimming
+
+** Least frightening **
+
+Photo taken from high up
+
+Standing on a table
+
+Standing on a bridge
+
+Standing on a ladder
+
+Standing on the observation section of the Eiffel Tower
+
+** Most frightening **
+
+---
+
+#### Define flooding with reference to an example not used in the text
+
+Flooding refers to immersing a patient with a stimulus that is potentially frightening to them until the conditioned response is extinguished.
+
+#### Give an example of how flooding might be used to eliminate a conditioned response associated with your choice of fear from dogs, heights or swimming
+
+To eliminate the fear of dogs, a patient could be brought into a room of fluffy dogs and be forced to stay there until hysteria subsides.
+
+---
+
+#### Distinguish between imaginal and in vivo exposure
+
+Imaginal exposure refers to exposure that is visualised within the mind of a patient, whereas in vivo exposure refers to real-world exposure to a stimulus.
+
+---
+
+#### What is aversion therapy?
+
+Aversion therapy is a form of behaviour therapy that applies classical conditioning processes to inhibit or discourage undesirable behaviour by associating it with an aversive stimulus such as a feeling of disgust, pain or nausea.
+
+#### What are two limitations or criticisms of aversion therapy?
+
+- Long term abusers of for example alcohol would return to drinking after they stopped taking the drug which made them feel nauseous.
+- The learned aversion often fails to generalise to situations other than those under which the learning took place.
+
 # Learning Activity 11.10
 # Learning Activity 11.11
 # Learning Activity 11.12
