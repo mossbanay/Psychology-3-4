@@ -284,6 +284,28 @@ Aversion therapy is a form of behaviour therapy that applies classical condition
 - The learned aversion often fails to generalise to situations other than those under which the learning took place.
 
 # Learning Activity 11.10
+
+#### Define trial and error learning
+
+Trial and error learning involves trying many alternatives until a desired outcome is achieved.
+
+#### Give an example of trial and error learning in everyday life
+
+Learning to play a new video game without a tutorial level.
+
+#### Mardi tries several new routes to school and eventually discovers the quickest, which she decides to use every day. Explain Mardi's behaviour and discovery with reference to trial and error learning theory
+
+Mardi has a desire to get to school as quick as possible (motivation), and tries out several routes (exploration). Some are slower (incorrect response) and some are quicker (correct response). Eventually she finds a route that was quicker than her old route, meaning she can get to school faster than she previously could (reward).
+
+#### Is 'learning through mistakes' a suitable alternative name for trial and error learning? Explain your answer
+
+Trial and error learning relies on correct responses and incorrect responses being achieved. With solely mistakes, an individual won't properly learn.
+
+#### What are two key differences between classical conditioning and trial and error learning?
+
+- Classical conditioning is unable to explain learning that occurs from intentional experiences as well as learning of complex actions which aren't simply reflexive
+- Classical conditioning involves creating an association between two stimuli, whereas in trial and error learning there is only a single stimuli.
+
 # Learning Activity 11.11
 # Learning Activity 11.12
 # Learning Activity 11.13
