@@ -307,6 +307,51 @@ Trial and error learning relies on correct responses and incorrect responses bei
 - Classical conditioning involves creating an association between two stimuli, whereas in trial and error learning there is only a single stimuli.
 
 # Learning Activity 11.11
+
+#### What is operant conditioning?
+
+Operant conditioning is a learning process in which consequences which follow a response determine whether the behaviour influence will be repeated.
+
+#### Why did Skinner adopt the term operant conditioning rather than instrumental conditioning? In your answer, include a definition of an operant with reference to an example not used in the text.
+
+An operant is any response (or set of responses) that acts ('operates') on the environment to produce some kind of consequence. Examples of an operant may be moving from one room to another, pulling a lever or some other action. Skinner adopted the term operant conditioning as the consequence which leads learning in the animal is dependent on the operant response made.
+
+#### What is the main difference between an antecedent and a consequence in relation to timing?
+
+The antecedent occurs before the operant response whereas the consequence occurs after the operant response.
+
+#### Briefly describe the three-phase model of operant conditioning.
+
+1. Discriminative stimulus
+2. Operant response
+3. Consequence
+
+---
+
+#### What is a discriminative stimulus?
+
+A discriminative stimulus is a stimulus (object or event) which precedes a particular response.
+
+#### In what way does a discriminative stimulus influence the occurrence of a particular response?
+
+The discriminative stimulus signals the probable consequence and therefore influences the occurrence of the response.
+
+---
+
+Sienna experienced the 'runner's high' (due to endorphin release) when she ran a mini-marathon and as a result has started running 10 kilometres three times a week.
+
+#### Explain Sienna's changed behaviour using the three-phase model of operant conditioning.
+
+- Discriminative stimulus - Mini-marathon
+- Operant response - Running
+- Consequence - Feeling good
+
+---
+
+Consider toddler Alex who is being toilet-trained by her parents using operant conditioning. Her parents wait until after Alex has had a drink and her bladder is full, then put her on a potty seat and wait for nature to take its course. When Alex urinates in the potty, her parents provide a verbal praise ('What a good girl you are, Alex!') or even some stickers that she loves. She is also punished when she has a wetting accident by verbal disapproval ('Mummy is very disappointed in you, Alex'). Gradually, Alex learns enough bladder control to recognise when urination is imminent, and to withhold the response long enough for a quick trip to the potty seat - thus obtaining a reward and avoiding punishment. Eventually the behaviour becomes automatic enough that Alex continues to use the potty seat.
+
+#### Explain Alex's successful toilet training using the three-phase model of operant conditioning. Ensure you refer to each component with reference to the relevant aspect(s) of Alex's toilet training.
+
 # Learning Activity 11.12
 # Learning Activity 11.13
 # Learning Activity 11.14
