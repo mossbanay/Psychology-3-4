@@ -90,7 +90,7 @@ TODO
 
 ## Classical conditioning
 
-Classical conditioning first researched in 1899 by Ivan Pavlov, a Russian physiologist.
+Classical conditioning was first researched in 1899 by Ivan Pavlov, a Russian physiologist. Classical conditioning refers to a type of learning that occurs through the **repeated association** of two (or more) different stimuli.
 
 ### Key components in classical conditioning
 
@@ -134,3 +134,11 @@ Stimulus discrimination occurs when an organism responds only to its CS. For exa
 | Spontaneous recovery | The reappearance of the CR after a rest break (when the CS was not presented) when the CR appeared to have been extinguished | Pavlov's dogs salivating in response to a bell the day after an experiment where towards the end the dogs did not salivate in response to the bell | The time since the last exposure of the CS, the strength of the conditioning |
 | Stimulus generalisation | A response occurs when a stimulus similar to the CS is presented | A response occurs to a knock on a wooden floor when the CS is a knock on a wooden door | The uniqueness of the CS |
 | Stimulus discrimination | A response does not occur when a stimulus similar to the CS is presented | A response does not occur to a knock on a wooden floor when the CS is a knock on a wooden door | The uniqueness of the CS |
+
+## Operant conditioning
+
+Operant conditioning is a learning process in which the **consequences** which follow a response determine whether the behaviour will be repeated. A key distinguishing difference between operant conditioning and classical conditioning is the **choice** in operant conditioning.
+
+Behaviour will likely be repeated when **reinforced**.
+
+Behaviour will not be likely to be repeated when **punished**.

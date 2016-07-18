@@ -186,6 +186,11 @@ Descriptive statistics include:
 
 Developmental plasticity refers to the changes in the brain's neural structure in response to experience during its growth and development which proceeds according to its maturational blueprint. For the most part developmental plasticity concludes at the end of adolescence.
 
+### Discriminative stimulus (antecedent)
+##### See also operant conditioning
+
+The discriminative stimulus is the stimulus (object or event) that precedes a particular response, signals the probable consequence for the response and therefore influences the occurrence of the response.
+
 ### Divided attention
 ##### See also selective attention
 
@@ -410,6 +415,14 @@ The chemical messages sent between neurons.
 ##### See also altered states of consciousness (ASC)
 
 Normal waking consciousness is a state of consciousness in which you are alert and aware of stimuli such as feelings, thoughts, and perceptions
+
+### Operant
+
+An operant is any response (or set of responses) that acts ('operates') on the environment to produce some kind of consequence.
+
+### Operant conditioning
+
+Operant conditioning is a learning process in which the **consequences** which follow a response determine whether the behaviour will be repeated.
 
 ### Order effect
 ##### See also confounding variables
