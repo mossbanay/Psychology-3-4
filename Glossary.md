@@ -189,7 +189,7 @@ Developmental plasticity refers to the changes in the brain's neural structure i
 ### Discriminative stimulus (antecedent)
 ##### See also operant conditioning
 
-The discriminative stimulus is the stimulus (object or event) that precedes a particular response, signals the probable consequence for the response and therefore influences the occurrence of the response.
+The discriminative stimulus is the environmental stimulus (object or event) that precedes a operant response and indicates the probable consequence for the response.
 
 ### Divided attention
 ##### See also selective attention

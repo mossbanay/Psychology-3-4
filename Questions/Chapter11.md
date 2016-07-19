@@ -342,7 +342,7 @@ Sienna experienced the 'runner's high' (due to endorphin release) when she ran a
 
 #### Explain Sienna's changed behaviour using the three-phase model of operant conditioning.
 
-- Discriminative stimulus - Advertisment showing the mini-marathon
+- Discriminative stimulus - Advertisement showing the mini-marathon
 - Operant response - Participated in mini-marathon
 - Consequence - Sienna experienced the 'runner's high'
 
@@ -361,6 +361,34 @@ Consider toddler Alex who is being toilet-trained by her parents using operant c
 - Consequence - Scolding by parents
 
 # Learning Activity 11.12
+
+#### Briefly outline a procedure for an experiment using a Skinner box to operantly condition a rat to produce a particular response.
+
+To operantly condition a rat to press a button, whenever the button is pressed, food could be dispensed. This provides positive reinforcement for the behaviour, making it more likely to be repeated.
+
+#### Briefly outline a procedure for an experiment using a Skinner box to operantly condition a rat not to produce a particular response.
+
+To operantly condition a rat to avoid walking on a pad in the box, an electric shock could be administered whenever the rat walked over the pad. This provides positive punishment, making it less likely for the behaviour to be repeated.
+
+---
+
+#### In Skinner's view, what are the main driving forces behind behaviour?
+
+Skinner believed that behaviour could be understood in terms of environmental, or external, influences without any consideration of the internal mental processes.
+
+---
+
+#### Identify the operationalised IVs and DVs in Skinner's (1938) experiment with the hungry rat outlined on pages 426-427.
+
+IV - whether the food was provided upon a lever press
+DV - the frequency which the lever was pressed
+
+#### Explain the rat's learning through operant conditioning using the three-phase model of conditioning.
+
+- Discriminative stimulus - Being placed in the box
+- Operant response - Pressing the lever
+- Consequence - Food
+
 # Learning Activity 11.13
 # Learning Activity 11.14
 # Learning Activity 11.15
