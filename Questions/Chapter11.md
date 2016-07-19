@@ -342,15 +342,23 @@ Sienna experienced the 'runner's high' (due to endorphin release) when she ran a
 
 #### Explain Sienna's changed behaviour using the three-phase model of operant conditioning.
 
-- Discriminative stimulus - Mini-marathon
-- Operant response - Running
-- Consequence - Feeling good
+- Discriminative stimulus - Advertisment showing the mini-marathon
+- Operant response - Participated in mini-marathon
+- Consequence - Sienna experienced the 'runner's high'
 
 ---
 
 Consider toddler Alex who is being toilet-trained by her parents using operant conditioning. Her parents wait until after Alex has had a drink and her bladder is full, then put her on a potty seat and wait for nature to take its course. When Alex urinates in the potty, her parents provide a verbal praise ('What a good girl you are, Alex!') or even some stickers that she loves. She is also punished when she has a wetting accident by verbal disapproval ('Mummy is very disappointed in you, Alex'). Gradually, Alex learns enough bladder control to recognise when urination is imminent, and to withhold the response long enough for a quick trip to the potty seat - thus obtaining a reward and avoiding punishment. Eventually the behaviour becomes automatic enough that Alex continues to use the potty seat.
 
 #### Explain Alex's successful toilet training using the three-phase model of operant conditioning. Ensure you refer to each component with reference to the relevant aspect(s) of Alex's toilet training.
+
+- Discriminative stimulus - Feeling of needing to urinate
+- Operant response - Urination
+- Consequence - Praise by parents
+
+- Discriminative stimulus - Feeling of needing to urinate
+- Operant response - No urination
+- Consequence - Scolding by parents
 
 # Learning Activity 11.12
 # Learning Activity 11.13
