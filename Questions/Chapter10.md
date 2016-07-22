@@ -7,7 +7,7 @@ M - behaviour due to maturation
 
 #### Emotional attachment by an infant to a caregiver
 
-?
+FAP
 
 #### Speaking in high-pitched 'baby talk' to an infant
 
@@ -15,7 +15,7 @@ Learned behaviour
 
 #### Being scared of snakes
 
-?
+L
 
 #### Scratching an itch
 
@@ -23,19 +23,19 @@ Reflexive behaviour
 
 #### Nodding in agreement
 
-?
+L
 
 #### Smoking cigarettes
 
-?
+L
 
 #### Perceiving an illusion
 
-?
+R
 
 #### Whistling
 
-?
+L
 
 #### Walking
 
@@ -43,11 +43,11 @@ Behaviour due to maturation
 
 #### Playing
 
-?
+M
 
 #### Curiosity
 
-?
+M
 
 #### Sleeping
 
