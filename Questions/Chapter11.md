@@ -390,6 +390,26 @@ DV - the frequency which the lever was pressed
 - Consequence - Food
 
 # Learning Activity 11.13
+
+#### Define the term reinforcement with reference to an example
+
+Reinforcement refers to a consequence which encourages a operant response to be repeated in the future.
+
+#### Define term terms positive reinforcement and negative reinforcement
+
+Positive reinforcement refers to consequences that encourage behaviour to be repeated in the future by addition of a desirable stimulus.
+Negative reinforcement refers to consequences that encourage behaviour to be repeated in the future by removal of a undesirable stimulus.
+
+#### In what way are positive reinforcers and rewards similar and in what way are they different?
+
+?
+
+---
+
+#### What do positive and negative reinforcers have in common in terms of their consequences?
+#### Identify three positive and negative reinforcers that you have observed teachers use in the classroom and three that you have observed in other real-life contexts.
+#### How are positive and negative reinforcers different?
+
 # Learning Activity 11.14
 # Learning Activity 11.15
 # Learning Activity 11.16
