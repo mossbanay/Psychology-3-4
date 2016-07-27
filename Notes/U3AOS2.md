@@ -35,7 +35,7 @@ Sensory memory can be encoded into short-term memory via **attention**. If not a
 
 Sperling then played a tone with a small delay after flashing the letters. The pitch of the tone indicated the row from which the participant should read out. It was observed that participants were able to do so accurately approximately 75% of the time, unlike what would be expected from the previous experiments.
 
-This suggests that while iconic memory is unlimited in capcity, the duration is so short that by the time participants reach the 4th or 5th item, the rest are forgotten.
+This suggests that while iconic memory is unlimited in capacity, the duration is so short that by the time participants reach the 4th or 5th item, the rest are forgotten.
 
 ---
 
@@ -58,27 +58,27 @@ Memories leave short term memory by either **displacement** or **decay**.
 
 | Function | Capacity | Duration | Encoding | Forgetting | Example |
 | --- | --- | --- | --- | --- | --- |
-| Recevies information from sensory memory; receives information from long-term memory; sending information to long-term memory | 7 ± 2 items | ~20 seconds | Mostly acoustic; Attention and rehersal will help store info in STM | Displacement and interference; Possibility of decay | --- |
+| Receives information from sensory memory; receives information from long-term memory; sending information to long-term memory | 7 ± 2 items | ~20 seconds | Mostly acoustic; Attention and rehearsal will help store info in STM | Displacement and interference; Possibility of decay | --- |
 
 #### Serial position effect
 
-The serial position effect refers to the **better recall observed for words at the start and end** of a list than those in the middle. In the serial position effect, there are two major effects that are occuring. The **primacy effect** is the tendency for the words at **the start of the list** to be recalled better (due to more attention being paid to them) whereas the **recency effect** is the tendency for words at the **end of the list** to be recalled better (as they are unlikely to have been displaced or decayed when immediate free recall is used).
+The serial position effect refers to the **better recall observed for words at the start and end** of a list than those in the middle. In the serial position effect, there are two major effects that are occurring. The **primacy effect** is the tendency for the words at **the start of the list** to be recalled better (due to more attention being paid to them) whereas the **recency effect** is the tendency for words at the **end of the list** to be recalled better (as they are unlikely to have been displaced or decayed when immediate free recall is used).
 
 The serial position effect provides evidence of the separation between STM and LTM as it suggests that words may be stored in different areas.
 
-#### Rehersal
+#### Rehearsal
 
-##### Elaborative rehersal
+##### Elaborative rehearsal
 
-Elaborative rehersal links information in a meaningfully way that **creates cues** to you locate and retrieve the memory later. It's a **more active** process than maintenance rehresal and uses a **'deeper' level of encoding** (refer to the Levels of processing theory).
+Elaborative rehearsal links information in a meaningfully way that **creates cues** to you locate and retrieve the memory later. It's a **more active** process than maintenance rehearsal and uses a **'deeper' level of encoding** (refer to the Levels of processing theory).
 
-Elaborative rehersal is the preferred method of rehersal to move memories from STM to LTM as it is **more effective** than maintenance rehersal.
+Elaborative rehearsal is the preferred method of rehearsal to move memories from STM to LTM as it is **more effective** than maintenance rehearsal.
 
-##### Mainenance rehersal
+##### Maintenance rehearsal
 
-Maintenance rehersal is the process of **repeating information** to yourself in order to remember it. This may be vocally (speaking the words aloud), sub-vocal (speaking words in your head), visualising (keeping an image in your head) or muscularly (imaging how it feels to perform an action). Once maintenance rehersal stops, the memory will typically be **lost after about 20 seconds**.
+Maintenance rehearsal is the process of **repeating information** to yourself in order to remember it. This may be vocally (speaking the words aloud), sub-vocal (speaking words in your head), visualising (keeping an image in your head) or muscularly (imaging how it feels to perform an action). Once maintenance rehearsal stops, the memory will typically be **lost after about 20 seconds**.
 
-Maintenance rehersal is very helpful when trying to keep information in short term memory.
+Maintenance rehearsal is very helpful when trying to keep information in short term memory.
 
 #### Long-term memory
 
@@ -90,7 +90,7 @@ Long-term memory works by linking memories to one another in a semantic web. Exp
 There are different types of memories stored in long term memory.
 
 | Function | Capacity | Duration | Encoding | Forgetting | Example |
-| --- | Potentially unlimited | Relatively premanent | Elaborative rehersal & maintenance rehersal | Incorrect cues, interference with other info, motivation, decay | --- |
+| --- | Potentially unlimited | Relatively permanent | Elaborative rehearsal & maintenance rehearsal | Incorrect cues, interference with other info, motivation, decay | --- |
 
 ##### Procedural (explicit) memory
 
@@ -116,7 +116,7 @@ Semantic memory stores information about facts and general knowledge that is not
 
 ###### Episodic memory
 
-Episodic memory refers memories about a specific time or place that was personally experienced. This includes details on the time, place, psychological and physiological state, as well as when the event occured.
+Episodic memory refers memories about a specific time or place that was personally experienced. This includes details on the time, place, psychological and physiological state, as well as when the event occurred.
 
 Episodic memories are also split into two types: prospective memories (future) and retrospective memories (past).
 
@@ -128,7 +128,7 @@ Episodic memories are also split into two types: prospective memories (future) a
 
 The semantic network theory was first developed by Alan Collins in 1969. The theory contends that long-term memory is organised by **linking** different **concepts** (called nodes) in **meaningful** ways to form a **hierarchical structure** called a network.
 
-When an individual needs to recall something, they begin by searching a 'region' of memory, and then follow cues until they remember the information they required. This theory is also not only efficient in terms of accesibility but also storage, as attributes shared between concepts do not need to be duplicated.
+When an individual needs to recall something, they begin by searching a 'region' of memory, and then follow cues until they remember the information they required. This theory is also not only efficient in terms of accessibility but also storage, as attributes shared between concepts do not need to be duplicated.
 
 The length of links determine the relevance between topics. Typically the longer a link the longer the duration it takes for that information to be accessed.
 
@@ -147,7 +147,7 @@ TOT suggests that information is linked in a relatively logical manner within th
 
 ### Baddeley and Hitch's model of memory
 
-Devleoped by Alan Baddeley and Graham Hitch in 1974, the Baddeley and Hitch's model of memory focuses on the concept of **working memory** and describes a proposed structure and functioning of theorised components that make up working memory.
+Developed by Alan Baddeley and Graham Hitch in 1974, the Baddeley and Hitch's model of memory focuses on the concept of **working memory** and describes a proposed structure and functioning of theorised components that make up working memory.
 
 The 4 components that compose this model of memory are:
 - Central executive
@@ -181,7 +181,7 @@ It is important to note when discussing components of Alan Baddeley and Graham H
 
 Craik and Lockhart's levels of processing theory model of memory suggests that long-term memory is not a single store in which all information can be recalled equally well, but instead that some memories can be retrieved easier than others as a result of being more **deeply encoded**. Memory storage in other words is a **continuous dimension** in which memories are **encoded related to the ease of retrieval**.
 
-Although memories are stored in a continuous dimension, the study design seperates memories into three general levels of encoding: shallow, moderate and deep.
+Although memories are stored in a continuous dimension, the study design separates memories into three general levels of encoding: shallow, moderate and deep.
 
 Shallow memories are typically encoded based on their appearance or **structural encoding**. Examples relating to words are, "is the word written in uppercase", "does the word contain two consecutive o's". Shallow memories are typically **recalled the worst** out of all levels of encoding.
 
@@ -262,7 +262,7 @@ Long-term potentiation (or LTP for short) refers to the long-lasting enhancement
 
 ### Memory over the lifespan
 
-Memory as a whole is expected to undergo changes across the lifespan, with older individual's showing the biggest changes. After infancy and infantile amensia, memory is relatively stable until elderly age.
+Memory as a whole is expected to undergo changes across the lifespan, with older individual's showing the biggest changes. After infancy and infantile amnesia, memory is relatively stable until elderly age.
 
 Elderly people often lose faith in their memory, leading to the perceived loss of memory.
 
@@ -272,7 +272,7 @@ The impact of age on STM depends on the type of task being assessed. Typically i
 
 #### Changes in LTM over the lifespan
 
-Typically, **procedural memory is the most resistant types of memory**, often never becoming inacessible or lost regardless of age.
+Typically, **procedural memory is the most resistant types of memory**, often never becoming inaccessible or lost regardless of age.
 
 Episodic memories in particular prospective memory (remembering to do things in the future) is often impaired in the elderly.
 
@@ -303,7 +303,7 @@ Retrieval failure does not tend to effect procedural memories.
 
 ##### Evidence for retrieval failure theory
 
-- Retrieval failure theory is corroborated by TOT phenomenom in which people know they have a memory of something but are unable to access it
+- Retrieval failure theory is corroborated by TOT phenomenon in which people know they have a memory of something but are unable to access it
 - Retrieval failure theory does not explain the failure to access certain anxiety-laden memories
 - Retrieval failure theory does not explain the failure to access memories lost as a result of head trauma
 
@@ -315,7 +315,7 @@ Decay theory suggests that **memory traces in the brain will fade over time** th
 
 - Decay theory has been unable to account for the sudden recollection of cues that sometimes occurs in the elderly
 - Decay theory is unable to explain the resilience of procedural memory
-- (Wittlinger, 1975) showed that participants were able to recognise names and faces of people from their childhoood at a comparable level 50 years between tests
+- (Wittlinger, 1975) showed that participants were able to recognise names and faces of people from their childhood at a comparable level 50 years between tests
 
 #### Interference theory
 
@@ -333,13 +333,13 @@ Two helpful mnemonics to remember how to distinguish between proactive interfere
 ##### Evidence for interference theory
 
 - Semantic memories such as comprehension of a book or other text are much less prone to interference
-- Most experiments used to test interference theory have used recall in the experiment, which is especially vulunerable to interference over more sensitive measures of retention like recognition and relearning
+- Most experiments used to test interference theory have used recall in the experiment, which is especially vulnerable to interference over more sensitive measures of retention like recognition and relearning
 
 #### Motivated forgetting theory
 
 Motivated forgetting occurs when **an individual has a strong urge** or want to forget a memory. There are two types of motivated forgetting: repression and suppression. Motivated forgetting was first proposed by **Sigmund Freud**. He suggested that repressed memories lie inaccessible without special conditions such as triggering videos, music or hypnosis.
 
-**Repression** occurs when unwanted memories are subconsciously pushed out of the mind and consequently the person is unable to acknowledge the existance such memories.
+**Repression** occurs when unwanted memories are subconsciously pushed out of the mind and consequently the person is unable to acknowledge the existence such memories.
 
 **Suppression** occurs when an individual ignores a memory, although it remains accessible.
 
@@ -358,11 +358,11 @@ A handy acronym for remembering these two types of motivated forgetting is **SCR
 
 ---
 
-### Amensia
+### Amnesia
 
-Amensia is the term used for the **partial or complete loss of memory that occurs temporarily or permanently**. Amensia can be caused by a number of things such as impacts to the head and neurodegenerative diseases.
+Amnesia is the term used for the **partial or complete loss of memory that occurs temporarily or permanently**. Amnesia can be caused by a number of things such as impacts to the head and neurodegenerative diseases.
 
-In general there are three major types of amensia: infantile amensia, anterograde amensia and retrograde amnesia.
+In general there are three major types of amnesia: infantile amnesia, anterograde amnesia and retrograde amnesia.
 
 **Anterograde amnesia** refers to the inability to recall **new information**.
 
@@ -374,7 +374,7 @@ In general there are three major types of amensia: infantile amensia, anterograd
 
 ### Dementia
 
-Dementia is an umbrella term used to a variety of symptoms relating to **neurodegenerative diseases**. Dementia is **not a normal part of aging**. The most common form of dementia is Alzheimer's disease. Typically dementia is observed to progress through different stages, with the onset normally being when a patient is 80 years or older but cases have been observed where the onset of dementia has occured as young as 30 years old.
+Dementia is an umbrella term used to a variety of symptoms relating to **neurodegenerative diseases**. Dementia is **not a normal part of aging**. The most common form of dementia is Alzheimer's disease. Typically dementia is observed to progress through different stages, with the onset normally being when a patient is 80 years or older but cases have been observed where the onset of dementia has occurred as young as 30 years old.
 
 The most common symptoms include those relating to a reduction in mental capacity including:
 
@@ -387,7 +387,7 @@ Dementia **cannot be conclusively diagnosed without an autospy** in which micros
 
 #### Alzheimer's disease
 
-Alzheimer's disease is the most common form of dementia, with approximately 100,000 australians surffering each year. In the early stages of Alzheimer's disease, the patient is likely to be able to live with minimal assistance, only experiencing moderate memory loss and confusion. As the disease progresses, cortical tissue in the brain degenerates and mental function drops. Both retrograde and anterograde amnesia can be observed, a distinguishing feature of Alzheimer's disease.
+Alzheimer's disease is the most common form of dementia, with approximately 100,000 Australians suffering each year. In the early stages of Alzheimer's disease, the patient is likely to be able to live with minimal assistance, only experiencing moderate memory loss and confusion. As the disease progresses, cortical tissue in the brain degenerates and mental function drops. Both retrograde and anterograde amnesia can be observed, a distinguishing feature of Alzheimer's disease.
 
 The two major causes of damage in the brain in Alzheimer's disease are **amyloid plaques** and **neurofibrillary tangles**.
 
@@ -395,7 +395,7 @@ The two major causes of damage in the brain in Alzheimer's disease are **amyloid
 
 #### Korsakoff's syndrome
 
-Caused by long-term deficiency in thiamine (Vitamin-B) and alcohol abuse, Korsakoff's syndrome is characterised by severe anterograde amnesia. While the damage of the disease is caused over long periods of alcohol abuse, the onset of the syndrome occurs over a period of only a few days and is irreverisble. Prevention of worsening conditions can be achieved by administration of thiamine intravenously.
+Caused by long-term deficiency in thiamine (Vitamin-B) and alcohol abuse, Korsakoff's syndrome is characterised by severe anterograde amnesia. While the damage of the disease is caused over long periods of alcohol abuse, the onset of the syndrome occurs over a period of only a few days and is irreversible. Prevention of worsening conditions can be achieved by administration of thiamine intravenously.
 
 #### Huntington's disease
 
