@@ -50,17 +50,17 @@ A response is said to have been learnt when the CS reliably produces a CR that w
 
 #### Scenario 2
 
-- UCS: 9/11
+- UCS: Witnessing the planes crash into the WTC
 - CS: The sight or sound of low-flying planes
-- UCR: Witnessing the planes crash into the WTC
+- UCR: Shock and terror from seeing 9/11
 - CR: Anxiety and nervousness
 
 #### Scenario 3
 
 - UCS: An electric shock
 - CS: The sound of a buzzer
-- UCR: The movement of the participants hand
-- CR: The movement of the participants hand
+- UCR: The movement of the participants hand in response to the electric shock
+- CR: The movement of the participants hand in response to the buzzer
 
 # Learning Activity 11.4
 
