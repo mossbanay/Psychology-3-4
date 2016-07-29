@@ -372,6 +372,26 @@ In general there are three major types of amnesia: infantile amnesia, anterograd
 
 ---
 
+### Comparison between amnesia and interference
+
+Both amnesia and interference are processes that may cause memory loss, or a reduction in the efficiency of memory processes.
+
+#### Using examples, compare and contrast the processes of amnesia and interference as they apply to memory formation and retrieval.
+
+Interference occurs when information previously learnt impedes on the ability to learn new information or when newly learnt information impedes on the ability to retrieve previously learnt information. Interference occurs particularly if the two pieces of information are similar in content. Interference is supported by interference theory. Interference is split into two different types, proactive and retroactive interference. Proactive interference occurs when previously learnt information interferes with the learning of new information. Retroactive interference occurs when newly learnt information interferes with the retrieval of previously learnt information.
+
+An example of proactive interference is difficulty that may be experienced when learning italian after having learnt spanish. Since the words used in each language are very similar, you may struggle remembering the spanish word and get them mixed up with italian words.
+
+An example of retroactive interference is difficulty that may be experienced remembering someones maiden name after having learnt their married name.
+
+Amnesia occurs often as a result of some form of head trauma. Amnesia is supported by consolidation theory which suggests that when proper consolidation has not occurred, memories may be lost. This is best fitting to the case of retrograde amnesia, in which there is an inability to recall old information. Anterograde amnesia however involves not being able to remember new information that is being learnt (for example not being able to remember the names of people you meet after having had a blow to the head at a soccer match.
+
+An example of retrograde amnesia is not being able to recall the person who knocked you out during a soccer match.
+
+Both interference and amnesia can be responsible for the inability to retrieve memories or the inability to form new memories. Amnesia is usually caused by brain trauma whereas interference is usually caused by learning similar pieces of information in a certain order.
+
+---
+
 ### Dementia
 
 Dementia is an umbrella term used to a variety of symptoms relating to **neurodegenerative diseases**. Dementia is **not a normal part of aging**. The most common form of dementia is Alzheimer's disease. Typically dementia is observed to progress through different stages, with the onset normally being when a patient is 80 years or older but cases have been observed where the onset of dementia has occurred as young as 30 years old.
