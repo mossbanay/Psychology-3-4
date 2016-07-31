@@ -407,8 +407,18 @@ Negative reinforcement refers to consequences that encourage behaviour to be rep
 ---
 
 #### What do positive and negative reinforcers have in common in terms of their consequences?
+
+The consequence that occurs will likely lead to the operant response occurring again in the future.
+
 #### Identify three positive and negative reinforcers that you have observed teachers use in the classroom and three that you have observed in other real-life contexts.
+
+- Lollies to students who perform well on tests (positive reinforcement)
+- Special stamps to students who perform well on tests (positive reinforcement)
+- No pestering for completion of homework once homework is done (negative reinforcement)
+
 #### How are positive and negative reinforcers different?
+
+Positive reinforcers refer to when something pleasant is experienced after the operant response whereas negative reinforcers refer to the removal of an unpleasant stimulus after the operant response.
 
 # Learning Activity 11.14
 # Learning Activity 11.15
