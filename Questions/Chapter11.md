@@ -421,6 +421,70 @@ The consequence that occurs will likely lead to the operant response occurring a
 Positive reinforcers refer to when something pleasant is experienced after the operant response whereas negative reinforcers refer to the removal of an unpleasant stimulus after the operant response.
 
 # Learning Activity 11.14
+
+#### Define the term punishment.
+
+Punishment refers to the delivery of unpleasant consequence following a response which in turn reduces the likelihood of that response being repeated.
+
+#### Explain what punishment involves and why it is used, with reference to an example not used in the text.
+
+An example of punishment may be being yelled at by a lifeguard when running around a pool. This is used to minimise repetition of the behaviour (running around a pool) in the future.
+
+---
+
+#### Distinguish between positive and negative punishment with reference to an example not used in the text.
+
+Positive punishment involves the addition of an unpleasant stimulus whereas negative punishment involves the removal of a pleasant stimulus.
+
+---
+
+#### What is response cost?
+
+Response cost refers to the removal of a valued stimulus.
+
+#### Explain why is is a form of negative punishment with reference to an example not used in the text.
+
+The valued stimulus is often a pleasant stimulus, removal of the stimulus therefore disincentivises the behaviour, leading to negative punishment.
+
+#### Does response cost always involve something of monetary value? Explain.
+
+Response cost is not always some monetary value, it can be for example the grade on a school assignment. The grade is desired by the student and losing it presents discouragement.
+
+---
+
+#### How does punishment differ from negative reinforcement? Explain with reference to an example.
+
+Punishment discourages repetition of a particular behaviour whereas negative reinforcement encourages repetition of behaviour by removing an unpleasant stimulus.
+
+#### How does punishment differ from extinction? Explain with reference to an example.
+
+?
+
+#### Describe three key factors involved in effective punishment.
+
+- Order of presentation
+- Timing
+- Appropriateness
+
+---
+
+#### Describe a situation in which a punisher might reinforce a behaviour rather than weaken it or reduce its frequency.
+
+- Kid talking back in class
+
+#### Describe a situation where an effective punisher could reduce the incidence of behaviour recurring.
+
+---
+
+#### Describe three ways in which punishment may be used ineffectively.
+#### Suggest practices other than punishment that could be used by a parent to deal with a child who persistently engages in one of the following behaviours: teasing, swearing, keeping their bedroom messy, being late home.
+
+---
+
+#### What was Skinner's view on the use of punishment in everyday life?
+
+Skinner believed that positive reinforcement should be used where possible in place of punishment to encourage a change in behaviour.
+
 # Learning Activity 11.15
 # Learning Activity 11.16
 # Learning Activity 11.17
