@@ -470,14 +470,23 @@ Punishment discourages repetition of a particular behaviour whereas negative rei
 
 #### Describe a situation in which a punisher might reinforce a behaviour rather than weaken it or reduce its frequency.
 
-- Kid talking back in class
+A child wanting attention in class may increase their talking back to a teacher when yelled at as they are getting attention even though the yelling by the teacher was intended to decrease the amount of talking back.
 
 #### Describe a situation where an effective punisher could reduce the incidence of behaviour recurring.
+
+When a policeman catches a youth speeding after being getting their provisional license they may lose their license for 3 months. This would decrease the likelihood of the youth speeding in the future.
 
 ---
 
 #### Describe three ways in which punishment may be used ineffectively.
+
+- A punishment may not be appropriate
+- The timing of a punishment may not be effective
+- The order of the punishment and the behaviour may not be effective
+
 #### Suggest practices other than punishment that could be used by a parent to deal with a child who persistently engages in one of the following behaviours: teasing, swearing, keeping their bedroom messy, being late home.
+
+A parent could give their child a chocolate each time they clean their room, this is positive reinforcement.
 
 ---
 
