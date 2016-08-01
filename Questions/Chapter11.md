@@ -509,6 +509,15 @@ Identify the operant conditioning process that is being illustrated in each of t
 7. Negative punishment
 
 # Learning Activity 11.16
+
+| Concept | Description | Example |
+| --- | --- | --- |
+| Positive reinforcement | The addition of a pleasant stimulus leading to increased likelihood of a behaviour being repeated | Giving a student a lolly as a reward for scoring a high mark |
+| Negative reinforcement | The removal of an unpleasant stimulus leading to increased likelihood of a behaviour being repeated | Giving a child chocolate to stop them from screaming |
+| Positive punishment | The addition of an unpleasant stimulus leading to decreased likelihood of a behaviour being repeated | Giving someone an electric shock when pressing a button |
+| Negative punishment | The removal of a pleasant stimulus leading to decreased likelihood of a behaviour being repeated | Having your phone taken away after spending too much time on Facebook |
+| Response cost | The removal or loss of a valued stimulus | Being fined for speeding |
+
 # Learning Activity 11.17
 # Learning Activity 11.18
 # Learning Activity 11.19
