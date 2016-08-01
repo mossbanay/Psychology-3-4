@@ -495,6 +495,19 @@ A parent could give their child a chocolate each time they clean their room, thi
 Skinner believed that positive reinforcement should be used where possible in place of punishment to encourage a change in behaviour.
 
 # Learning Activity 11.15
+
+Identify the operant conditioning process that is being illustrated in each of the following examples. Choose from positive reinforcement (PR), negative reinforcement (NR), positive punishment (PP), and negative punishment (NP).
+
+#### Write the initials of the correct responses in the space below.
+
+1. Positive reinforcement
+2. Negative reinforcement
+3. Positive punishment
+4. Positive punishment
+5. Negative reinforcement
+6. Positive punishment
+7. Negative punishment
+
 # Learning Activity 11.16
 # Learning Activity 11.17
 # Learning Activity 11.18
