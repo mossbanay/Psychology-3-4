@@ -560,25 +560,46 @@ During the initial acquirement, earlier on in the conditioning process.
 ---
 
 #### What are some possible effects of a long delay in the presentation of a reinforcer?
+
+Extinction or reduced likelihood of a correct response could occur.
+
 #### At what stage of the learning process should a reinforcer be presented to be most effective? Explain your answer.
+
+During acquisition to ensure that the effect relationship between the response and the consequence is most strongly learnt.
+
 #### How might the use of an inappropriate reinforcer affect the learning process?
+
+If an inappropriate reinforcer is used it may have the reverse effect on the learner and instead decrease the likelihood of a correct response being shown in the future.
 
 ---
 
 A toddler cries in the middle of the night. A parent wakes and responds by bringing the toddler into the parent's bed. The parent would prefer the toddler to sleep in her own bedroom but the toddler continues crying unless moved to the parent's room.
 
 #### Explain, with reference to the three-phase model, how this situation may have developed.
+
+Each time the toddler has cried in the past he has been taken into his parents room and been given attention. They have then associated waking and the response of crying with being given attention by their parents (a pleasurable stimulus). Waking up in the middle of the night is the antecedent, crying is the behaviour and the parents coming to comfort is the consequence.
+
 #### Describe a reinforcement strategy the parent could use to change the unwanted behaviour of their toddler.
+
+?
 
 ---
 
 Refer to the learning curves produced by four different schedules of reinforcement, as shown in figure 11.33.
 
 #### Do the curves indicate continuous or partial reinforcement? Explain your answer.
+
+The curves are all for partial reinforcement.
+
 #### Which schedule of reinforcement is the most effective for the quickest acquisition of a desired response. Which is least effective? Explain each answer with reference to relevant curves and theory on the schedules.
+
+Fixed ratio for most effective acquisition
+Variable interval for least effective acquisition
+
 #### Assuming the graph shows the learning curves of four different pigeons reinforced for pecking responses, suggest which pigeon's behaviour will be most resistant to extinction (cessation or elimination) and which pigeon's behaviour will be least resistant. Explain each answer.
 
-
+Variable ratio is most resistant to extinction
+Fixed interval is least resistant to extinction
 
 # Learning Activity 11.18
 # Learning Activity 11.19
