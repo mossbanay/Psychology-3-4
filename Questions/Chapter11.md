@@ -519,6 +519,67 @@ Identify the operant conditioning process that is being illustrated in each of t
 | Response cost | The removal or loss of a valued stimulus | Being fined for speeding |
 
 # Learning Activity 11.17
+
+#### What does the term schedule of reinforcement refer to?
+
+A schedule of reinforcement is a program that dictates the frequency and way in which reinforcement is given for a desired response.
+
+---
+
+#### Distinguish between continuous and partial reinforcement with reference to a relevant example in a laboratory setting.
+
+Continuous reinforcement is the process of giving reinforcement whenever a correct response occurs, e.g giving a rat food pellets whenever they press a button. Partial reinforcement is the process of reinforcing some correct responses but not all of them. For example giving a pigeon food pellets every fifth time it pecks a button.
+
+#### Give two examples of continuous and partial reinforcement in everyday life.
+
+| Partial reinforcement | Continuous reinforcement |
+| --- | --- |
+| Giving a dog a treat every third time it completes a trick. | A primary school student getting a gold star for each book they read |
+| Slot machines giving a payout after a random number of spins | Commission based sales |
+
+
+#### Which is more effective in strengthening a response once it has been acquired: continuous or partial reinforcement? Explain your answer with reference to research findings.
+
+Partial reinforcement is more likely to strengthen a response once it occurs consistently. This was first observed by Skinner (1956) who found that after rats had been trained to press a button, when only reinforced some of the time, they were found to be less likely to undergo extinction.
+
+#### When in the operant conditioning process is it most advantageous to use continuous reinforcement?
+
+During the initial acquirement, earlier on in the conditioning process.
+
+---
+
+#### Construct a table in which you summarise and distinguish between the four basic schedules of reinforcement. Include two examples of each schedule in your table.
+
+| Schedule of reinforcement | Description | Example |
+| --- | --- | --- |
+| Fixed ratio | Reinforcement given after a set and known number of responses | Homework that has a set number of questions to do |
+| Fixed interval | Reinforcement given after a set and known amount of time | A parent always checks their child's room on a Sunday to see if it's clean |
+| Variable ratio | Reinforcement given after a changing and unknown number of responses | Slot machines |
+| Variable interval | Reinforcement given after a changing and unknown amount of time | Facebook notifications |
+
+---
+
+#### What are some possible effects of a long delay in the presentation of a reinforcer?
+#### At what stage of the learning process should a reinforcer be presented to be most effective? Explain your answer.
+#### How might the use of an inappropriate reinforcer affect the learning process?
+
+---
+
+A toddler cries in the middle of the night. A parent wakes and responds by bringing the toddler into the parent's bed. The parent would prefer the toddler to sleep in her own bedroom but the toddler continues crying unless moved to the parent's room.
+
+#### Explain, with reference to the three-phase model, how this situation may have developed.
+#### Describe a reinforcement strategy the parent could use to change the unwanted behaviour of their toddler.
+
+---
+
+Refer to the learning curves produced by four different schedules of reinforcement, as shown in figure 11.33.
+
+#### Do the curves indicate continuous or partial reinforcement? Explain your answer.
+#### Which schedule of reinforcement is the most effective for the quickest acquisition of a desired response. Which is least effective? Explain each answer with reference to relevant curves and theory on the schedules.
+#### Assuming the graph shows the learning curves of four different pigeons reinforced for pecking responses, suggest which pigeon's behaviour will be most resistant to extinction (cessation or elimination) and which pigeon's behaviour will be least resistant. Explain each answer.
+
+
+
 # Learning Activity 11.18
 # Learning Activity 11.19
 # Learning Activity 11.20
