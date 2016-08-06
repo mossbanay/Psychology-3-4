@@ -607,6 +607,23 @@ Fixed interval is least resistant to extinction
 # Learning Activity 11.21
 # Learning Activity 11.22
 # Learning Activity 11.23
+
+Operant conditioning - When the likelihood of a particular behaviour occurring is determined by the consequences of that behaviour
+Discriminative stimulus - An object or event that sets the occasion for an appropriate response and signals the response to be made or withheld
+Negative punishment - Removal of a stimulus and thereby decreasing the likelihood of a response occurring again
+Negative reinforcement - Removal of a negative stimulus following a response in order to increase the likelihood of the response occurring again
+Positive reinforcement - Introducing a stimulus that increases the likelihood of a response occurring again
+Fixed-interval reinforcement -  When a reinforcer is given after a specific time period has lapse since the previous reinforcer
+Operant - A response that may occur in the absence of a specific stimulus but has an effect on the environment in some way
+Token economy - A system of providing reinforcers that can be exchanged for other reinforcers
+Variable-ratio reinforcement - When a reinforcer is given after an unpredictable number of correct response
+Stimulus discrimination - Detecting the difference between two stimuli that are similar
+Stimulus generalisation - The correct response is made to another stimulus that is similar to the stimulus that was present when the conditioned response was reinforced
+Spontaneous recovery - The reappearance of a conditioned response following apparent extinction
+Extinction - The gradual decrease in strength or rate of a conditioned response following absence of the UCS or consistent non-reinforcement of the response
+Positive punishment - Presentation of a stimulus that decreases the likelihood of a response recurring
+Shaping - When a response that is closer to the desired response is reinforced
+
 # Learning Activity 11.24
 # Learning Activity 11.25
 # Learning Activity 11.26
