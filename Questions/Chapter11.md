@@ -602,6 +602,18 @@ Variable ratio is most resistant to extinction
 Fixed interval is least resistant to extinction
 
 # Learning Activity 11.18
+
+- Variable ratio
+- Fixed ratio
+- Variable interval
+- Fixed ratio
+- Continuous
+- Variable ratio
+- Continuous
+- Continuous
+- Variable interval
+- Fixed ratio
+
 # Learning Activity 11.19
 # Learning Activity 11.20
 # Learning Activity 11.21
