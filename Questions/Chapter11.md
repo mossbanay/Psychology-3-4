@@ -744,7 +744,67 @@ A workplace may provide free or cheap secure parking to those who register as ca
 *Shaping* - When a response that is closer to the desired response is reinforced
 
 # Learning Activity 11.24
+
+| Feature | Classical conditioning | Operant conditioning |
+| --- | --- | --- |
+| Process of acquisition | Repeated associations of a neutral stimulus and an unconditioned stimulus | Repeated reinforcement or punishment as a consequence of some operant action made in response to a non-discriminative stimulus |
+| Extinction | | |
+| Stimulus generalisation | | |
+| Stimulus discrimination | | |
+| Spontaneous recovery | | |
+| Role of learner | Passive | Active |
+| Timing of stimulus and response | Response occurs before stimulus | Response occurs after stimulus |
+| Nature of response (reflexive/voluntary) | Reflexive | Voluntary |
+
 # Learning Activity 11.25
 # Learning Activity 11.26
 # Learning Activity 11.28
 # Learning Activity 11.30
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
