@@ -615,6 +615,59 @@ Fixed interval is least resistant to extinction
 - Fixed ratio
 
 # Learning Activity 11.19
+
+#### Explain the role of a discriminative stimulus in stimulus discrimination
+
+The discriminative stimulus is the stimulus that is intended to produce a response.
+
+---
+
+Which of the following scenarios involve stimulus generalisation? Which involve stimulus discrimination?
+
+#### Lauren asks Gino out on a date but he declines. Lauren decides that she won't ask another boy out again.
+
+Stimulus generalisation
+
+#### Toula is paid for doing chores around the home and expects to be paid for doing chores at her aunty's place when she stays there.
+
+Stimulus generalisation
+
+#### Jackson is scared of the sound of a lawnmower but not the sound of an electric toothbrush.
+
+Stimulus discrimination
+
+#### Sam is scared of the sound of his dad's electric drill. When his dad stops using the drill Sam relaxes. Sam's dad then reaches for the electric saw. As soon as Sam sees this, he is scared and runs inside.
+
+Stimulus generalisation
+
+---
+
+Mr Ying is a young, handsome Psychology teacher who has just been appointed to a girl's college. Unfortunately his Psychology class is so distracted by his appearance that they find it difficult to focus on their work and on his instructions. There is a lot of giggling, whispering and a general lack of attention. Mr Ying is determined to make a good impression with his classroom control and with his teaching methods. He decides to use detention as a means of pulling the girls' behaviour into line. He runs a lunchtime detention for six girls whose behaviour has been the worst. In the next class, not only do these six girls misbehave, but they are joined at the next detention by four others. This trend continues until almost the entire class is on detention.
+
+#### Which operant conditioning process is Mr Ying trying to use to change the girls' behaviour?
+
+Positive punishment.
+
+#### Provide a description of its effectiveness and an explanation as to why this is so.
+
+The punishment is ineffective as a lunchtime detention simply provides the students more time to look at Mr Ying and is therefore inappropriate.
+
+#### How could Mr Ying change his strategy with the girls and still use operant conditioning?
+
+Have a less attractive teacher run the detention sessions.
+
+---
+
+Maria had enjoyed attending the same P-12 college for ten years. Quite suddenly this year, her friendship group drifted away from her. She is now being bullied by some other girls because she has become a 'loner'. After an unsuccessful attempt to solve her problems by speaking with her year-level coordinator, Maria started to take days off school, telling her mother she wasn't feeling well. Her absenteeism increased. Although she was concerned about missing school, she couldn't face the unpleasant actions of the bullies.
+
+#### Which operant conditioning process explains the increase in Maria's behaviour of deceiving her mother and staying home from school? Explain how this process worked in Maria's situation.
+
+Maria was negatively reinforced when skipping school as she would not have to face the bullies and therefore avoided an unpleasant experience.
+
+#### Which operant conditioning process describes the consequence of the bullying behaviour for Maria? Explain its effect on Maria's attendance behaviour.
+
+Maria was positively punished when attending school as she would have to face the bullies and therefore experience an unpleasant stimulus.
+
 # Learning Activity 11.20
 # Learning Activity 11.21
 # Learning Activity 11.22
