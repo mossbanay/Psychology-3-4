@@ -669,7 +669,47 @@ Maria was negatively reinforced when skipping school as she would not have to fa
 Maria was positively punished when attending school as she would have to face the bullies and therefore experience an unpleasant stimulus.
 
 # Learning Activity 11.20
+
+#### Define the term shaping
+
+Shaping involves the reinforcement of progressive approximations of a desired behaviour.
+
+#### Under what circumstances would shaping be used to promote learning?
+
+Shaping is used to promote the learning of complex behaviour that would not occur normally and therefore cannot be reinforced.
+
+#### Give an example of when you have used shaping to modify either a person's or an animal's behaviour and describe the shaping procedure used.
+
+Giving treats when a dog puts its paw up in the air when training it to shake hands.
+
+---
+
+#### What is a token economy? Explain with reference to key operant conditioning principles and processes.
+
+A token economy involves the use of reinforcers that can be exchanged for other reinforcers.
+
+#### Under what circumstances might the use of a token economy be ineffective?
+
+A token economy may not be effective as they do not always change the underlying cause of a behaviour. They may also be ineffective when the learner feels manipulated.
+
+---
+
+Throughout his career, Skinner proposed numerous applications of operant conditioning. For example, during World War II, he developed the idea of 'Project Pigeon'. This was a secret project in which he conditioned pigeons to guide missiles towards an enemy target. The birds were placed in the nose of a missile, harnessed in front of a screen on which the moving image of a target flashed. When the missile was in flight, the pigeons would peck the moving image, which produced corrective signals that would keep the missile on course. The US Department of Defense determined that pigeons could play an effective role, but they were never used in actual warfare because the development of electronic missile guidance systems made it unnecessary.
+
+#### Suggest how shaping may have been used to train the pigeon to be comfortable within the confines of a missile nose and to peck at the correct target on a screen to keep the missile on the required flight path.
+
+The pigeon may have been reinforced when first pecking the screen in any spot, then within a certain margin to the target and then when on the target.
+
 # Learning Activity 11.21
+
+** Increase the number of people who use public transport **
+
+The public transport commission could begin to fine those who use cars to get to work. The non-discriminative stimulus is the need to get to work, the behaviour is driving a car and the consequence is receiving a fine. This is a form of response cost (negative punishment) as the learner loses money.
+
+** Increase the number of people who use a car-pooling arrangement to travel to and from work **
+
+A workplace may provide free or cheap secure parking to those who register as car-pooling. The non-discriminative stimulus is driving.
+
 # Learning Activity 11.22
 # Learning Activity 11.23
 
