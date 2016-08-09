@@ -702,11 +702,11 @@ The pigeon may have been reinforced when first pecking the screen in any spot, t
 
 # Learning Activity 11.21
 
-** Increase the number of people who use public transport **
+**Increase the number of people who use public transport**
 
 The public transport commission could begin to fine those who use cars to get to work. The non-discriminative stimulus is the need to get to work, the behaviour is driving a car and the consequence is receiving a fine. This is a form of response cost (negative punishment) as the learner loses money.
 
-** Increase the number of people who use a car-pooling arrangement to travel to and from work **
+**Increase the number of people who use a car-pooling arrangement to travel to and from work**
 
 A workplace may provide free or cheap secure parking to those who register as car-pooling. The non-discriminative stimulus is driving.
 
