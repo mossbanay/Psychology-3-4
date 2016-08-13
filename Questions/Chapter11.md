@@ -768,9 +768,13 @@ Sally experiences an involuntary response when she sees a dog.
 She has associated the sound of hearing a dog barking with her hand being bitten.
 
 UCS - Barking and biting dog
+
 UCR - Crying in response to having her hand bitten
+
 NS - Hearing a dog barking
+
 CS - Hearing a dog barking
+
 CR - Crying in response to hearing the dog barking
 
 #### Hamish's ex-girlfriend always wore a musk perfume. Hamish still cringes whenever he comes across someone wearing musk perfume.
@@ -780,9 +784,13 @@ Classical conditioning
 Hamish experiences an involuntary feeling of cringe when smelling musk perfume as he has associated that smell with his ex-girlfriend.
 
 UCS - His ex-girlfiend
+
 UCR - Feeling cringe in response to his ex-girlfriend
+
 NS - Musk perfume
+
 CS - Musk perfume
+
 CR - Feeling cringe in response to the smell of musk perfume
 
 #### A father refuses to let his daughter borrow his car after she has 'borrowed' it previously and returned it with a near-empty petrol tank.
@@ -792,7 +800,9 @@ Operant conditioning
 The father associated his daughter taking his car out with the stimulus of having a near-empty petrol tank. This provided negative punishment (response cost) and decreased the likelihood of him wanting to let his daughter take his car out again in the future.
 
 Antecedent - Daughter asking the dad if she can borrow his car
+
 Behaviour - Dad letting daughter borrow his car
+
 Consequence - Having a near-empty petrol tank when she comes back
 
 #### Emilia arrives home on time after having been grounded for being home late the last time she went out with her friends.
@@ -802,7 +812,9 @@ Operant conditioning
 Having previously been grounded for coming home late (response cost) Emilia decided not to repeat her behaviour from the week before.
 
 Antecedent - ?
+
 Behaviour - Coming home late after going out
+
 Consequence - Being grounded for a week
 
 # Learning Activity 11.26
