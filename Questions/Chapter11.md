@@ -749,7 +749,7 @@ A workplace may provide free or cheap secure parking to those who register as ca
 | --- | --- | --- |
 | Process of acquisition | Repeated associations of a neutral stimulus and an unconditioned stimulus | Repeated reinforcement or punishment as a consequence of some operant action made in response to a non-discriminative stimulus |
 | Extinction | | |
-| Stimulus generalisation | | |
+| Stimulus generalisation | A stimulus provided may similar to the CS and produce the CR | A stimulus provided may be similar to the antecedent and produce the operant response |
 | Stimulus discrimination | | |
 | Spontaneous recovery | | |
 | Role of learner | Passive | Active |
@@ -757,54 +757,54 @@ A workplace may provide free or cheap secure parking to those who register as ca
 | Nature of response (reflexive/voluntary) | Reflexive | Voluntary |
 
 # Learning Activity 11.25
+
+Consider each of the following scenarios and state whether the behaviour that is described is best explained by classical conditioning, operant conditioning or a combination of both these types of learning. Give a reason for each answer.
+
+#### Sally cries whenever she hears a barking dog. Before this, Sally had reached out to pat a stray dog and the dog barked and bit her hand. The next time Sally tried to pat the dog, it barked and bit her hand.
+
+Classical conditioning
+
+Sally experiences an involuntary response when she sees a dog.
+She has associated the sound of hearing a dog barking with her hand being bitten.
+
+UCS - Barking and biting dog
+UCR - Crying in response to having her hand bitten
+NS - Hearing a dog barking
+CS - Hearing a dog barking
+CR - Crying in response to hearing the dog barking
+
+#### Hamish's ex-girlfriend always wore a musk perfume. Hamish still cringes whenever he comes across someone wearing musk perfume.
+
+Classical conditioning
+
+Hamish experiences an involuntary feeling of cringe when smelling musk perfume as he has associated that smell with his ex-girlfriend.
+
+UCS - His ex-girlfiend
+UCR - Feeling cringe in response to his ex-girlfriend
+NS - Musk perfume
+CS - Musk perfume
+CR - Feeling cringe in response to the smell of musk perfume
+
+#### A father refuses to let his daughter borrow his car after she has 'borrowed' it previously and returned it with a near-empty petrol tank.
+
+Operant conditioning
+
+The father associated his daughter taking his car out with the stimulus of having a near-empty petrol tank. This provided negative punishment (response cost) and decreased the likelihood of him wanting to let his daughter take his car out again in the future.
+
+Antecedent - Daughter asking the dad if she can borrow his car
+Behaviour - Dad letting daughter borrow his car
+Consequence - Having a near-empty petrol tank when she comes back
+
+#### Emilia arrives home on time after having been grounded for being home late the last time she went out with her friends.
+
+Operant conditioning
+
+Having previously been grounded for coming home late (response cost) Emilia decided not to repeat her behaviour from the week before.
+
+Antecedent - ?
+Behaviour - Coming home late after going out
+Consequence - Being grounded for a week
+
 # Learning Activity 11.26
 # Learning Activity 11.28
 # Learning Activity 11.30
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
