@@ -897,3 +897,29 @@ The upbringing that a particular child is exposed to may lead them to be more or
 
 
 # Learning Activity 11.30
+
+#### Construct a research hypothesis that could have been tested in the experiment
+
+Children who see an adult act charitably tend to also act charitably regardless of what the adult says compared to children who see an adult act selfishly.
+
+#### Identify the operationalised variables
+
+The particular group a child was placed into, one of the following
+
+1. Model preached charity and behaved charitably
+2. Model preached charity but behaved selfishly
+3. Model preached selfishness and behaved selfishly
+4. Model preached selfishness but behaved charitably
+
+#### Name the experimental design
+
+Independent groups
+
+#### Explain whether the results support the hypothesis
+
+The hypothesis is support as both conditions where the adult acted charitably saw much higher rates of charitable behaviour in comparison to the conditions in which the adult acted selfishly.
+
+#### Are the results consistent with Bandura's observational learning theory? Explain your answer
+
+The results are consistent in that the children repeated the actions that the adults made and not what the adults claimed was best.
+
