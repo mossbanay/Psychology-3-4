@@ -818,5 +818,44 @@ Behaviour - Coming home late after going out
 Consequence - Being grounded for a week
 
 # Learning Activity 11.26
+
+#### Define observational learning with reference to an example
+
+Observational learning occurs when someones behaviour is guided by the result of watching someone else's behaviour. An example of observational learning is watching someone else playing pong and then being able to play pong yourself.
+
+#### Why is observational learning also referred to as modelling?
+
+Observational learning occurs by the learner watching a model. As a result of watching the model's behaviour, the learner's behaviour is guided to mold the set of actions made by the model.
+
+#### What are two key assumptions of Bandura's social learning theory?
+
+- The learner is attentive and focuses on the behaviour and its consequences
+- The learner saves a mental representation of the behaviour
+- The learner has the physical and intellectual ability able to complete the behaviour
+- The learner motivated to reproduce the behaviour
+- The learner believes that reinforcement will be arise from completing the behaviour
+
+#### What does vicarious conditioning involve when observing a model?
+
+Vicarious conditioning involves watching a model be either reinforced or punished for producing a certain behaviour. This leads the learner to then perform the behaviour in the same way, a modified way or avoid performing the behaviour altogether depending on the consequences observed after the model performs the behaviour.
+
+#### Distinguish between a live model and a symbolic model with reference to relevant examples
+
+A live model is someone in the flesh in front of the learner performing an action whereas a symbolic model may be a fictional or real person portrayed in a movie, TV show or book. An example of a live model may be a parent chopping up vegetables at dinner. An example of a symbolic model may be watching a man on TV get hit by a car after jay walking.
+
+#### Describe three different responses you probably learned through observational learning. Try to think of a variety of behaviours; for example, actions, cognitions or emotions ranging from relatively simple to more complex. For each response, what model did you observe, what did you observe and how similar were you responses to theirs.
+
+I've learnt particular details of form in completing freestyle by watching videos of other athletes completing in freestyle races. I then formed a mental representation of the correct actions. I've known I'm able to complete that actions and want to. I've then gone on to reproduce that same behaviour and be reinforced by swimming better times.
+
+I've learnt to make pancakes by watching my mother make them. I store a mental representation of the necessary ingredients and steps to make the batter and how to cook them. I'm old enough to be able to use the pan and stove. I'm hungry so I'll make the pancakes and be reinforced by satisfying my hunger.
+
+I've learnt how to paint by watching videos of Bob Ross painting. I store a mental representation of the actions necessary to create a painting, and am able to reproduce it. When I want to, I'll knock out a painting that is likely to then reinforce me by receiving compliments on my artwork.
+
+#### Give two examples of learned behaviours that are not acquired through observational learning. Explain your choice of examples.
+
+Learning not to touch hot objects. After having touched many hot objects (e.g soldering irons, pans, ovens) I have associated the stimulus of something hot with pain via CC.
+
+Learning to complete homework. After choosing to increase the amount of homework I complete each day I was reinforced by seeing my grades rise in my subjects.
+
 # Learning Activity 11.28
 # Learning Activity 11.30
