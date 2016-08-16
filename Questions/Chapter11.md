@@ -710,7 +710,48 @@ The public transport commission could begin to fine those who use cars to get to
 
 A workplace may provide free or cheap secure parking to those who register as car-pooling. The non-discriminative stimulus is driving.
 
-# Learning Activity 11.22
+# Learning Activity 11.22a
+
+#### What is the purpose of baseline data?
+
+The purpose of baseline data is to ensure that there is a way to compare the results of the experiment to what is considered 'normal' and therefore be able to tell whether a change in behaviour has occurred.
+
+#### Explain the difficulties experienced by the teacher with reference to three operant conditioning principles.
+
+The teacher did not provide reinforcement to those who chose to act in an appropriate manner.
+
+The teacher would not give out appropriate punishments, he punished the whole class instead of particular students, perhaps leading more students to talk out of line since they believe they would be kept in anyway.
+
+The teacher never went through on his threats (e.g detention) and therefore the students never associated a consequence with the act of talking during class time.
+
+#### Make two suggestions involving operant conditioning principles to help the teacher overcome the difficulties with his class.
+
+When the students come into class and spend the first 40 minutes of class time working hard and focusing, the teacher could give them free time for the remaining 10 minutes of the period. This associates the classroom, with the behaviour of working hard, with the consequence of free time. This positive reinforcement will increase the likelihood of the children continuing to focus during class time.
+
+When students come into class and after settling down continue to talk and act rudely then they will be handed out yard duty detentions. This associates the classroom, with the act of talking during class, with the consequence of a detention. This response cost of losing their valued lunchtime will decrease the likelihood of them repeating their behaviour of talking during class.
+
+# Learning Activity 11.22b
+
+#### What is the operationalised independent variable?
+
+Whether or not the girl was provided with praise when interacting with her peers instead of adults.
+
+#### On which days was the 'control' condition conducted? What was the purpose of this?
+
+Day 1 and 3, in order to provide baseline measurements to which the experimental condition can be compared to.
+
+#### Identify the key elements of operant conditioning evident in this scenario.
+
+The girl was positively reinforced when she chose to interact with other children while at preschool. This increased the likelihood that she would continue to do interact with them instead of interacting with adults.
+
+#### In which condition was the young girl's interaction with other children at its lowest? At its highest? What do these data tell you about the success or failure of the program devised by the team of psychologists and undertaken by the teachers?
+
+Initially her interaction with children is at its lowest since the girl has been provided no incentive to interact with her peers. It is highest during acquisition as the praise is continually given to the girl. The result suggest that the program was successful in increasing the proportion of the time spent interacting with other children compared to adults as the normal rate of interaction was quadrupled in the experimented condition (~15% compared to ~60%).
+
+#### Why did the teachers stop using praise with the young girl for a time and then recommence its use?
+
+To test whether the increased interaction with children was due to the praise being given or other factors.
+
 # Learning Activity 11.23
 
 *Operant conditioning* - When the likelihood of a particular behaviour occurring is determined by the consequences of that behaviour
