@@ -858,4 +858,42 @@ Learning not to touch hot objects. After having touched many hot objects (e.g so
 Learning to complete homework. After choosing to increase the amount of homework I complete each day I was reinforced by seeing my grades rise in my subjects.
 
 # Learning Activity 11.28
+
+#### Distinguish between learning and performance. Explain with reference to an example not use in the text.
+
+Learning refers to gaining the ability to produce a behaviour whereas performance refers to actual completion of an action. You may learn how to play downball by watching your friends play but you until you take part in the game you have not performed the behaviour, and only have a stored representation of it.
+
+#### What is the role of the learner in observational learning?
+
+The role of the learner is to watch and think about the actions made by the model and then understand the consequences and whether they themselves should reproduce the behaviour.
+
+#### Describe and explain each of the processes of observational learning with reference to an example not used in the text.
+
+The following table lays out the example of a competitive swimmer learning to swim butterfly by watching videos of Michael Phelps
+
+| Step | Description | Example |
+| --- | --- | --- |
+| 1 | The learner is attentive and focuses on the behaviour and its consequences | The swimmer watches how Michael moves his arms underwater and how he kicks his legs The swimmer also sees that Michael places first in almost all of his races |
+| 2 | The learner saves a mental representation of the behaviour | The swimmer can visualise how Michael's body moves through the water and where his hands move at the start and end of each stroke |
+| 3 | The learner has the physical and intellectual ability able to complete the behaviour | The swimmer trains in the gym often and is smart enough to spot key details in the form of the stroke |
+| 4 | The learner motivated to reproduce the behaviour | The swimmer wants to get faster themselves |
+| 5 | The learner believes that reinforcement will be arise from completing the behaviour | The swimmer knows that if they swim like Michael Phelps they will beat all of their friends |
+
+#### Explain, with reference to its processes, why observational learning is referred to as a form of cognitive learning.
+
+Observational learning requires much more cognitive processing to understand the details of the behaviour being made by a model and the consequences that follow. During the first process in observational learning, the learner watches closely and focuses on the behaviour being made by the model, this requires the cognitive process of attention. During retention the learner requires the usage of memory another cognitive process. The learner also is guided to either repeat or avoid the behaviour by vicarious reinforcement, a learning process. Since observational learning encompasses both cognitive and learning attributes, it is said to be a form of cognitive learning.
+
+---
+
+Many people believe that violent behaviour is learnt by observing violence in television programs, movies and other media, and/or through playing violent computer games.
+
+#### What does research evidence suggest about such learning?
+
+Research suggests that people can learn from watching violent movies and playing computer games in methodology laid out by the stages of observational learning. The learning is still subject to the requirements of observational learning however, in that the individual must be motivated to learn the behaviours, and therefore would be predisposed to act violent even in the absence of such media.
+
+#### What other variables may impact on observational learning of violence?
+
+The upbringing that a particular child is exposed to may lead them to be more or less comfortable with violent behaviour. If domestic abuse frequently occurred within their home, the child may also tend to act violent toward other children. The amount at which the violent behaviour is learnt from video games also depends on how much the child can relate to the character within the game, for example when playing a game where space aliens box on kangaroos, the child is unlikely to identify with the character and reproduce the behaviour.
+
+
 # Learning Activity 11.30
