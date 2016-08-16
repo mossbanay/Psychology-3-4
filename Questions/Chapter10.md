@@ -7,11 +7,11 @@ M - behaviour due to maturation
 
 #### Emotional attachment by an infant to a caregiver
 
-FAP
+L
 
 #### Speaking in high-pitched 'baby talk' to an infant
 
-Learned behaviour
+L
 
 #### Being scared of snakes
 
@@ -31,15 +31,15 @@ L
 
 #### Perceiving an illusion
 
-R
+L
 
 #### Whistling
 
-L
+M
 
 #### Walking
 
-Behaviour due to maturation
+M
 
 #### Playing
 
@@ -47,19 +47,19 @@ M
 
 #### Curiosity
 
-M
+L
 
 #### Sleeping
 
-Behaviour due to maturation
+FAP
 
 #### Loving
 
-Fixed-action pattern
+L
 
 #### Roller-skating
 
-Learned behaviour
+M
 
 # Learning Activity 10.2
 
@@ -75,16 +75,19 @@ Learning is a relatively permanent change in behaviour that occurs as a result o
 
 ---
 
-#### Differentiate between a learned response, a reflex action, a fixed-action pattern and behaviour depdent on maturation and give an example of each.
+#### Differentiate between a learned response, a reflex action, a fixed-action pattern and behaviour dependent on maturation and give an example of each.
 
-In a learned response, an individual changes their behaviour as a result of experience.
+In a learned response, an individual has a relatively permanent change to their behaviour as a result of some experience.
+
 In a reflex action, the behaviour is an inborn automatic response which occurs the same way every time in response to a stimulus.
+
 In a fixed-action pattern, there is a inborn predisposition to act in a certain way in response to a stimulus, which is characteristic to a species or group.
+
 In behaviour dependent on maturation, a change in behaviour occurs as a result of genetically predetermined progressions.
 
 ---
 
-Similing, laughing and crying are all observed in deaf-blind children who cannot have learned these responses by seeing or hearing them in others. Normally, each of these behaviours is seen within several months after birth. Some psychologists view this as evidence of fixed-action patterns in humans and suggest that these behaviours are programmed by our genetic inheritance.
+Smiling, laughing and crying are all observed in deaf-blind children who cannot have learned these responses by seeing or hearing them in others. Normally, each of these behaviours is seen within several months after birth. Some psychologists view this as evidence of fixed-action patterns in humans and suggest that these behaviours are programmed by our genetic inheritance.
 
 #### Do you agree or disagree with this view? Why?
 
@@ -98,7 +101,7 @@ No, reflex responses occur involuntarily and are under the control of the autono
 
 #### Describe the most prominent changes that occur at the neuronal level when learning occurs.
 
-When learning occurs, synapses are strengthened by the release of neurotransmitters from the pre-synaptic neuron to the post-synaptic neuron. Repeated firing between the neurons leads the post-synaptic neuron to become more sensitive the the pre-synaptic neuron. Additionally, when learning occurs, new synapses between neurons are formed, also strengthening the neural pathway making it easier for the pathway to fire again in the future.
+When learning occurs, synapses are strengthened by the release of neurotransmitters from the pre-synaptic neuron to the post-synaptic neuron. Repeated firing between the neurons leads the post-synaptic neuron to become more sensitive to the pre-synaptic neuron. Additionally, when learning occurs, new synapses between neurons are formed, also strengthening the neural pathway making it easier for the pathway to fire again in the future.
 
 #### Outline the roles glutamate and dopamine have in learning.
 
@@ -108,13 +111,13 @@ Dopamine is also believed to play a role in learning but is more often researche
 
 #### Why is LTP believed to be a crucial biological process for learning to occur?
 
-LTP allows neural pathways to become more sensitive and fire more often which in turn allows for learning to occur. Without LTP, the pathways that represent a change in behaviour would not fire, and the original behaviour would persist.
+LTP allows for post-synaptic neurons to become more sensitive to pre-synaptic neurons so as to allow the neural circuit to be more enduring. LTP also allows for the strengthening between adjacent neurons within a neural pathway.
 
 ---
 
 #### Explain the meaning of 'neural pathway of learning'
 
-Neural pathways are what cause our behaviour and as a result for learning to occur neural pathways must change to accomodate a change in behaviour.
+Neural pathways are what cause our behaviour and as a result for learning to occur neural pathways must change to accommodate a change in behaviour.
 
 #### Learning has been described as a process of modifying existing pathways or building new neural pathways. Comment on the accuracy of this description.
 
@@ -171,7 +174,7 @@ Plasticity refers to the ability of the brain's neural structure to change and a
 
 #### Explain why the brain is considered to have plasticity with reference to two key points.
 
-The brain changes during adolescence (developmental plasticity) and can repair damage caused by trauma due to brain injury (adaptive plasticity).
+The brain changes during adolescence (developmental plasticity, structural change) and can repair damage caused by trauma due to brain injury (adaptive plasticity, functional change).
 
 #### Explain the meaning of developmental plasticity with reference to learning
 
@@ -195,7 +198,8 @@ Both adaptive plasticity and developmental plasticity can account for a change i
 
 - Rerouting, in which undamaged neurons who have lost connections with damaged neurons find new neurons to connect with.
 - Sprouting, in which the growth of new bushier nerve fibres with more branches to make connections occurs.
-- Synaptogenesis? It seems more like there is only two neural processes
+- Reassignment of function of a particular area (e.g after the loss of a finger)
+- Greater cortical representation of particular areas in certain individuals due to experience (e.g piano player, London cab driver)
 
 ---
 
