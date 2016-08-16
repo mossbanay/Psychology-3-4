@@ -2,7 +2,7 @@
 
 #### What observation led Pavlov to study classical conditioning?
 
-The salivation of dogs to meat powder.
+Pavlov observed how dogs fed meat powder would begin to salivate when Pavlov approached them before actually presented with the meat powder.
 
 #### Define classical conditioning and briefly describe how it occurs, without referring to any 'technical' terms.
 
@@ -27,7 +27,7 @@ The CS is initially a neutral stimulus.
 
 #### Why is it called a neutral stimulus?
 
-The CS is called a neutral stimulus because it causes no response from the organism.
+The CS is called a neutral stimulus because it causes no response from the organism before acquisition.
 
 #### Explain the relationship between the neutral stimulus and the conditioned stimulus in classical conditioning.
 
@@ -37,7 +37,7 @@ The CS and UCS are repeatedly exposed together, eventually causing both the UCS 
 
 #### At what point in the process of classical conditioning can it be said that a response has been learned?
 
-A response is said to have been learnt when the CS reliably produces a CR that was not previously present.
+A response is said to have been learnt when the CS alone reliably produces a CR that was not previously present.
 
 # Learning Activity 11.3
 
@@ -120,7 +120,7 @@ The following week when her mother asked Elizabeth to assist with preparing flow
 
 #### Elizabeth's refusal to handle red flowers is an example of what?
 
-Elizabeth was conditioned to feel nervous around handling red flowers as she on two separate occasions injured her hands when handling red roses.
+Elizabeth was conditioned to feel nervous around handling red flowers as she on two separate occasions injured her hands when handling red roses, this is an example of stimulus generalisation.
 
 ---
 
