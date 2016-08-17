@@ -172,7 +172,7 @@ The appearance of CR after some amount of time since the CR was believed to have
 
 #### Explain why Pavlov actually used the term conditioned reflex rather than conditioned response
 
-The actions that are made as a result of classical conditioning appear so natural and automatic that Pavlov referred to them as conditioned reflexes. The responses are in truth reflexes, as they are involuntary actions made by the individual.
+The response of salivation made by the dogs is in truth a reflex, hence conditioned reflex.
 
 ---
 
@@ -188,7 +188,7 @@ After swimming in the lake near his home one day, Glen emerged from the water co
 
 #### How may classical conditioning account for acquisition of the conditioned response in the scenario?
 
-On the two occasions Glen went swimming in the lake, he associated the lake with the feeling of the blood-sucking leeches on him. Now when driving past the lake (CS), Glen is reminded of the feeling of the leeches again and feels disgusted (CR).
+On the two occasions Glen went swimming in the lake, he associated the lake with the feeling of the blood-sucking leeches (UCS) on him (disgusting - UCR). Now when driving past the lake (CS), Glen is reminded of the leeches again and feels disgusted (CR).
 
 ---
 
@@ -196,7 +196,7 @@ When Mardi and her sisters were toddlers, their mother frequently used their nap
 
 #### How may classical conditioning account for acquisition of the conditioned response in the scenario?
 
-While toddlers, Mari and her sisters associated the sound of the vacuum cleaner (CS) with the act of falling asleep. This causes them to still feel sleepy (CR) when hearing the sound of the vacuum cleaner.
+While toddlers, Mari and her sisters associated the sound of the vacuum cleaner (CS) with the feeling of sleepiness (UCS) and the act of falling asleep (UCR). This causes them to still feel sleepy (CR) when hearing the sound of the vacuum cleaner.
 
 ---
 
@@ -204,7 +204,7 @@ Every time three-year-old Sienna heard the doorbell ring, she raced to open the 
 
 #### How may classical conditioning account for acquisition of the conditioned response in the scenario?
 
-Sienna associated the sound of the doorbell (CS) with seeing the startling monster. Now when she hears the doorbell she whimpers and hides (CR).
+Sienna associated the sound of the doorbell (CS) with seeing the startling monster (UCS) which terrified her (UCR). Now when she hears the doorbell she whimpers and hides (CR).
 
 ---
 
@@ -212,7 +212,7 @@ A flashing light suddenly appearing on the control panel triggers a burst of adr
 
 #### How may classical conditioning account for acquisition of the conditioned response in the scenario?
 
-During the pilots training, they learn to associate the flashing light (CS) with the possibility of danger, causing a rush of adrenaline (CR).
+During the pilots training, they learn to associate the flashing light (CS) with the possibility of danger (UCS), causing a rush of adrenaline (CR).
 
 # Learning Activity 11.8
 
@@ -222,9 +222,11 @@ White rabbit, sealskin coat and a dog.
 
 #### Consider Watson and Rayner's (1920) study from an ethical perspective. To what extent were ethical principles for psychological research applied in the 'Little Albert' experiment? Explain with reference to procedures used by Watson and Rayner.
 
-During the period the study was completed, ethical guidelines were not properly established , and as a result the research was conducted without consultation to a board for ethical consideration. Albert was however screened to be a healthy child, and it was believed that no lasting harm or psychological damage would be imposed on Albert. Other researchers from the time period however claim that Watson and Rayner did not take steps towards ensuring that Albert would not have lasting damage, and it is unclear as to whether informed consent by Albert's mother was given, as well as whether withdrawal rights were able to be executed.
+During the period the study was completed, ethical guidelines were not properly established, and as a result the research was conducted without consultation to a board for ethical consideration. Albert was however screened to be a healthy child, and it was believed that no lasting harm or psychological damage would be imposed on Albert. Other researchers from the time period however claim that Watson and Rayner did not take steps towards ensuring that Albert would not have lasting damage, and it is unclear as to whether informed consent by Albert's mother was given, as well as whether withdrawal rights were able to be executed.
 
 #### Suggest an ethically acceptable procedure involving classical conditioning that could be used to extinguish Albert's fear response to white furry objects. Indicate the CS, UCS, CR and UCR.
+
+The procedure of counter-conditioning could be used to quell Albert's fear.
 
 UCS: A rub on the belly
 UCR: Fondness / happiness from being rubbed on the belly
@@ -239,7 +241,11 @@ Exposure therapy is a type of behaviour therapy which involves bringing the clie
 
 ---
 
-#### Define graduated exposure with reference to an example not use in the text.
+#### Define graduated exposure with reference to an example not used in the text.
+
+
+Graduated exposure involves presenting successive approximations of a fear-inducing stimulus until the stimulus can be presented without inducing anxiety or fear.
+
 #### Construct a hierarchy of frightening situations (such as that for fear of flying in figure 11.15) for someone with one of the following fears: dogs, heights, swimming
 
 ** Least frightening **
@@ -304,13 +310,13 @@ Trial and error learning relies on correct responses and incorrect responses bei
 #### What are two key differences between classical conditioning and trial and error learning?
 
 - Classical conditioning is unable to explain learning that occurs from intentional experiences as well as learning of complex actions which aren't simply reflexive
-- Classical conditioning involves creating an association between two stimuli, whereas in trial and error learning there is only a single stimuli.
+- Trial and error learning is not a passive process like classic conditioning is
 
 # Learning Activity 11.11
 
 #### What is operant conditioning?
 
-Operant conditioning is a learning process in which consequences which follow a response determine whether the behaviour influence will be repeated.
+Operant conditioning is a learning process in which consequences which follow a response determine whether the behaviour is likely to be repeated.
 
 #### Why did Skinner adopt the term operant conditioning rather than instrumental conditioning? In your answer, include a definition of an operant with reference to an example not used in the text.
 
@@ -330,11 +336,13 @@ The antecedent occurs before the operant response whereas the consequence occurs
 
 #### What is a discriminative stimulus?
 
-A discriminative stimulus is a stimulus (object or event) which precedes a particular response.
+A discriminative stimulus is a stimulus (object or event) which precedes a particular response, signals the probable consequence for the response and therefore influences the occurrence of the response.
 
 #### In what way does a discriminative stimulus influence the occurrence of a particular response?
 
 The discriminative stimulus signals the probable consequence and therefore influences the occurrence of the response.
+
+The antecedent cues for the response to occur.
 
 ---
 
@@ -342,9 +350,10 @@ Sienna experienced the 'runner's high' (due to endorphin release) when she ran a
 
 #### Explain Sienna's changed behaviour using the three-phase model of operant conditioning.
 
-- Discriminative stimulus - Advertisement showing the mini-marathon
-- Operant response - Participated in mini-marathon
-- Consequence - Sienna experienced the 'runner's high'
+- Discriminative stimulus - Running a mini-marathon
+- Operant response - Experiencing 'runner's high' due to endorphin release
+- Consequence - Sienna feels good and is motivated
+- Effect on future behaviour - Sienna increases the frequency at which she goes for a run
 
 ---
 
@@ -355,10 +364,12 @@ Consider toddler Alex who is being toilet-trained by her parents using operant c
 - Discriminative stimulus - Feeling of needing to urinate
 - Operant response - Urination
 - Consequence - Praise by parents
+- Effect on future behaviour - (Positive reinforcement) More likely to use the toilet
 
 - Discriminative stimulus - Feeling of needing to urinate
-- Operant response - No urination
+- Operant response - No urination or wetting accident
 - Consequence - Scolding by parents
+- Effect on future behaviour - (Positive punishment) More likely to use the toilet
 
 # Learning Activity 11.12
 
@@ -374,7 +385,7 @@ To operantly condition a rat to avoid walking on a pad in the box, an electric s
 
 #### In Skinner's view, what are the main driving forces behind behaviour?
 
-Skinner believed that behaviour could be understood in terms of environmental, or external, influences without any consideration of the internal mental processes.
+Skinner believed that behaviour could be understood in terms of environmental, or external, influences without any consideration of the internal mental processes. Specifically, that behaviour can be explained by the stimuli that come before and after historical behaviour.
 
 ---
 
@@ -400,9 +411,11 @@ Reinforcement refers to a consequence which encourages a operant response to be 
 Positive reinforcement refers to consequences that encourage behaviour to be repeated in the future by addition of a desirable stimulus.
 Negative reinforcement refers to consequences that encourage behaviour to be repeated in the future by removal of a undesirable stimulus.
 
-#### In what way are positive reinforcers and rewards similar and in what way are they different?
+#### In what way are reinforcers and rewards similar and in what way are they different?
 
-?
+- Reinforcers strengthen behaviour regardless of whether the organism experiences pleasure or satisfaction whereas a reward will generally always involve a pleasant experience
+- Both can have satisfying consequences
+- Both can lead to the strengthening of a response
 
 ---
 
@@ -458,7 +471,7 @@ Punishment discourages repetition of a particular behaviour whereas negative rei
 
 #### How does punishment differ from extinction? Explain with reference to an example.
 
-?
+A punishment refers to the decrease in the likelihood of a behaviour as a result of discouragement whereas extinction refers to the decrease in the likelihood of a behaviour as a result of a lack of reinforcement that may have been previously given.
 
 #### Describe three key factors involved in effective punishment.
 
@@ -552,10 +565,10 @@ During the initial acquirement, earlier on in the conditioning process.
 
 | Schedule of reinforcement | Description | Example |
 | --- | --- | --- |
-| Fixed ratio | Reinforcement given after a set and known number of responses | Homework that has a set number of questions to do |
-| Fixed interval | Reinforcement given after a set and known amount of time | A parent always checks their child's room on a Sunday to see if it's clean |
+| Fixed ratio | Reinforcement given after a set and known number of responses | A loyalty card where you receive a free burger for every 5 burgers you buy |
+| Fixed interval | Reinforcement given after a set and known amount of time | A parent always checks their child's room on a Sunday to see if it's clean, a weekly pay cheque, a student is allowed to watch TV after completing 90 minutes of homework |
 | Variable ratio | Reinforcement given after a changing and unknown number of responses | Slot machines |
-| Variable interval | Reinforcement given after a changing and unknown amount of time | Facebook notifications |
+| Variable interval | Reinforcement given after a changing and unknown amount of time | Facebook notifications, staying 'on hold' when calling phone support |
 
 ---
 
@@ -565,7 +578,7 @@ Extinction or reduced likelihood of a correct response could occur.
 
 #### At what stage of the learning process should a reinforcer be presented to be most effective? Explain your answer.
 
-During acquisition to ensure that the effect relationship between the response and the consequence is most strongly learnt.
+The reinforcer should only be presented after a desired or correct response is made so as to ensure that the correct behaviour is reinforced.
 
 #### How might the use of an inappropriate reinforcer affect the learning process?
 
@@ -581,7 +594,8 @@ Each time the toddler has cried in the past he has been taken into his parents r
 
 #### Describe a reinforcement strategy the parent could use to change the unwanted behaviour of their toddler.
 
-?
+- Do not reinforce the child when it screams out in the middle of the night
+- Reinforce the child when it successfully sleeps a full night in its own bed
 
 ---
 
@@ -593,24 +607,24 @@ The curves are all for partial reinforcement.
 
 #### Which schedule of reinforcement is the most effective for the quickest acquisition of a desired response. Which is least effective? Explain each answer with reference to relevant curves and theory on the schedules.
 
-Fixed ratio for most effective acquisition
-Variable interval for least effective acquisition
+- Fixed ratio for most effective acquisition
+- Variable interval for least effective acquisition
 
 #### Assuming the graph shows the learning curves of four different pigeons reinforced for pecking responses, suggest which pigeon's behaviour will be most resistant to extinction (cessation or elimination) and which pigeon's behaviour will be least resistant. Explain each answer.
 
-Variable ratio is most resistant to extinction
-Fixed interval is least resistant to extinction
+- Variable ratio is most resistant to extinction
+- Fixed interval is least resistant to extinction
 
 # Learning Activity 11.18
 
-- Variable ratio
+- Fixed ratio
 - Fixed ratio
 - Variable interval
 - Fixed ratio
 - Continuous
 - Variable ratio
 - Continuous
-- Continuous
+- Fixed ratio
 - Variable interval
 - Fixed ratio
 
