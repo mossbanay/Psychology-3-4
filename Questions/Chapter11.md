@@ -928,11 +928,11 @@ The following table lays out the example of a competitive swimmer learning to sw
 
 | Step | Description | Example |
 | --- | --- | --- |
-| 1 | The learner is attentive and focuses on the behaviour and its consequences | The swimmer watches how Michael moves his arms underwater and how he kicks his legs The swimmer also sees that Michael places first in almost all of his races |
-| 2 | The learner saves a mental representation of the behaviour | The swimmer can visualise how Michael's body moves through the water and where his hands move at the start and end of each stroke |
-| 3 | The learner has the physical and intellectual ability able to complete the behaviour | The swimmer trains in the gym often and is smart enough to spot key details in the form of the stroke |
-| 4 | The learner motivated to reproduce the behaviour | The swimmer wants to get faster themselves |
-| 5 | The learner believes that reinforcement will be arise from completing the behaviour | The swimmer knows that if they swim like Michael Phelps they will beat all of their friends |
+| Attention | The learner is attentive and focuses on the behaviour and its consequences | The swimmer watches how Michael moves his arms underwater and how he kicks his legs The swimmer also sees that Michael places first in almost all of his races |
+| Retention | The learner saves a mental representation of the behaviour | The swimmer can visualise how Michael's body moves through the water and where his hands move at the start and end of each stroke |
+| Reproduction | The learner has the physical and intellectual ability able to complete the behaviour | The swimmer trains in the gym often and is smart enough to spot key details in the form of the stroke |
+| Motivation | The learner motivated to reproduce the behaviour | The swimmer wants to get faster themselves |
+| Reinforcement | The learner believes that reinforcement will be arise from completing the behaviour | The swimmer knows that if they swim like Michael Phelps they will beat all of their friends |
 
 #### Explain, with reference to its processes, why observational learning is referred to as a form of cognitive learning.
 
