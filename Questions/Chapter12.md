@@ -33,6 +33,27 @@ Before leaving his house, Alessio checks that all the electrical appliances are 
 Alessio's thoughts, feeling and behaviour are abnormal within modern Australian culture, classifying his thoughts as abnormal by the historical approach. His compulsive checking of his house for disaster was responsible for the loss of his job, classifying his behaviour as abnormal by the functional approach. By the situational approach, there is no reason to cause him to act in the way he does (e.g a rise in the number of burglaries in his area) and therefore his behaviour and thoughts can be considered abnormal. By the medical approach there is no clear biological cause for his behaviour, and can therefore be considered normal based on his biological state. From the statistical approach a vast minority of people exhibit such behaviour and therefore is abnormal.
 
 # Learning Activity 12.3
+
+#### Explain the meaning of mental health with reference to examples of the thinking, feeling and behaviour of a mentally healthy person.
+
+Mental health is the capacity of an individual to interact with others and the environment in ways that promote subjective wellbeing, optimal development throughout the lifespan and effective use of the person's cognitive, emotional and social abilities.
+
+#### Explain the meaning of mental illness with reference to an example that illustrates the key elements of the definition, but not an example used in the text.
+
+A mental illness is a psychological disorder that significantly interferes with an individual's cognitive, emotional and or social abilities.
+
+#### What are the differences between a mental health problem and a mental illness?
+
+Mental health problems typically are much less severe and shorter in duration whereas mental illness tend to be longer in duration.
+
+#### Does abnormal behaviour necessarily indicate the presence of mental illness? Explain your answer.
+
+Not necessarily, as behaviour that is considered abnormal with respect to traditional societal norms may still be considered normal so long as it's typical to that person.
+
+#### Distinguish between mental health and mental illness with reference to an example
+
+Mental health refers to proper functioning and the ability to go throughout the day without distress, anxiety or other difficulties whereas mental illness refers to a serious condition which disrupts the ability for someone to function normally, almost always accompanied with serious distress and anxiety.
+
 # Learning Activity 12.5
 # Learning Activity 12.7
 # Learning Activity 12.9
