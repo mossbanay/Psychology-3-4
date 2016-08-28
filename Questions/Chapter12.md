@@ -55,6 +55,51 @@ Not necessarily, as behaviour that is considered abnormal with respect to tradit
 Mental health refers to proper functioning and the ability to go throughout the day without distress, anxiety or other difficulties whereas mental illness refers to a serious condition which disrupts the ability for someone to function normally, almost always accompanied with serious distress and anxiety.
 
 # Learning Activity 12.5
+
+#### Explain the meaning of the phrase 'categorical approach to the classification of mental disorders.'
+
+The categorical approach works by grouping patients into groups based on whether or not they are classed as having a particular mental disorder.
+
+#### What are the key underlying assumptions of the categorical approach? Explain with reference to examples.
+
+The categorical approach assumes that people either have or do not have disorders, instead of considering the extent to which a disorder may be present. For example, a patient either has or does not have GAD instead of being a somewhat anxious person.
+
+#### Why is it important that categorical approaches are valid and reliable?
+
+Categorical approaches are the predominantly used classification for diagnosing mental disorders. Furthermore consistently reliable classification systems (i.e high inter-rater reliability) means that patients avoid being misdiagnosed and get the correct treatment. Validity is important for the same reason.
+
+---
+
+#### What is the DSM, who is it created for and what is it used for?
+
+The Diagnostic Statistical Manual of Mental Disorders (DSM) is created by the American Psychiatric Association and is produced for healthcare professionals for the purpose of diagnosing mental disorders.
+
+#### How many major categories of mental disorders does the current DSM have?
+
+There are 16 major categories in the DSM-IV-TR
+
+#### What is the common purpose of diagnostic, inclusion, exclusion and polythetic criteria?
+
+
+
+#### Explain the meaning of the terms course and prevalence in relation to a mental disorder
+
+
+
+#### Name each of the five axes in the DSM and briefly describe the type of information provided in each axis of information provided in each axis for classification and/or diagnostic purposes
+
+| Axis number | Name of axis | Description of axis |
+| --- | --- | --- |
+| I | Clinical disorders and other conditions that may be a focus of clinical attention | |
+| II | Personality disorders and mental retardation | |
+| III | General medical conditions | |
+| IV | Psychosocial and environmental problems | |
+| V | Global assessment of functioning | |
+
+#### What significant information about mental disorders is not provided in the DSM?
+
+The DSM does not provide information on the treatment of mental disorders, only diagnostic information.
+
 # Learning Activity 12.7
 # Learning Activity 12.9
 # Learning Activity 12.10
