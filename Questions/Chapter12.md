@@ -80,11 +80,18 @@ There are 16 major categories in the DSM-IV-TR
 
 #### What is the common purpose of diagnostic, inclusion, exclusion and polythetic criteria?
 
+The purpose for these four criteria are to assist with the distinguishing whether a patient falls into a particular disorder.
 
+- Diagnostic criteria: Criteria that indicate the symptoms that are characteristic of the disorder and therefore enable assessment of the presence of the disorder
+- Inclusion criteria: Symptoms and behaviours that must be present in order for a diagnosis of a disorder to occur
+- Exclusion criteria: Symptoms and behaviours that not be present for the diagnosis of a disorder to occur
+- Polythetic criteria: A list of symptoms and behaviours of which some must be present but not necessarily all must be present for a diagnosis to occur
 
 #### Explain the meaning of the terms course and prevalence in relation to a mental disorder
 
+The course of a disorder refers to the typical progression of a disorder.
 
+The prevalence of a disorder refers to how commonly it occurs.
 
 #### Name each of the five axes in the DSM and briefly describe the type of information provided in each axis of information provided in each axis for classification and/or diagnostic purposes
 
