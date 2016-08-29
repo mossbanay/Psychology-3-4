@@ -108,6 +108,39 @@ The prevalence of a disorder refers to how commonly it occurs.
 The DSM does not provide information on the treatment of mental disorders, only diagnostic information.
 
 # Learning Activity 12.7
+
+#### What is the ICD-10, who is it prepared for and what is it used for?
+
+The International Classification of Diseases and Related Health Problems (ICD) 
+
+#### Name the ICD chapter that specifically relates to mental disorders.
+
+Chapter V (5) - International Classification of Mental and Behaviour Disorders
+
+#### Name the Australian version of the ICD
+
+ICD-10-AM
+
+#### How many major categories of mental and behavioural disorder does the ICD-10 have?
+
+10
+
+#### What are diagnostic guidelines and what are they used for?
+
+Diagnostic guidelines indicate the symptoms typical of a disorder and therefore indicate the presence of the disorder.
+
+---
+
+#### Construct a table in which you compare key similarities and differences of the DSM and ICD-10
+
+| Criteria | DSM-IV-TR | ICD-10 |
+| --- | --- | --- |
+| Author | APA | WHO |
+| Cost | Expensive | Free |
+| Physical conditions | Excluded | Included |
+| Behavioural disorders | Umbrella term mental disorders | Distinguishes between mental and behavioural disorders |
+| Course, prognosis and prevalence | Included | Excluded |
+
 # Learning Activity 12.9
 # Learning Activity 12.10
 # Learning Activity 12.11
