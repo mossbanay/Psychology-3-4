@@ -148,6 +148,10 @@ Context dependent cues are cues that are triggered by a person's external enviro
 
 Controlled processes are processes that require total concentration and selective attention.
 
+### Course
+
+The course of a mental disorder refers to the typical progression of how that disorder develops.
+
 ### Critical period
 ##### See also sensitive period
 
@@ -473,6 +477,10 @@ The influence on performance that occurs by a participant having previously comp
 Examples include:
 - Playing a video game level under two conditions without taking a break
 - Solving a sudoku under two conditions without taking a break
+
+### Prevalence
+
+The prevalence of a mental disorder refers to how commonly it occurs.
 
 ### Primacy effect
 ##### See also Serial position effect
