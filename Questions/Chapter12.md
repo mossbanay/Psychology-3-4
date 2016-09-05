@@ -142,5 +142,37 @@ Diagnostic guidelines indicate the symptoms typical of a disorder and therefore 
 | Course, prognosis and prevalence | Included | Excluded |
 
 # Learning Activity 12.9
+
+#### Explain the meaning of the phrase 'dimensional approach to classification of mental disorders'.
+
+Dimensional approaches classify the degree to which particular disorders may be applicable to an individual.
+
+#### What are the underlying assumptions and principles of the dimensional approach? Explain with reference to examples?
+
+Dimensional approaches assume that all people can exhibit attributes of disorders to some measurable degree. There is also a key assumption that normality and abnormality are end points on the same continuum with no clear dividing line between them.
+
+#### What is a profile and what does it indicate about dimensions?
+
+A profile is a graphical representation of a number of dimensions that have been assessed for an individual. This indicates the uniqueness of the individual's particular grouping of dimensions.
+
+#### Explain the meaning of the phrase 'dimensions can be graded'.
+
+The dimensions are quantised and given some distinct numerical value. This is often done by use of a Likert scale (usually 1 to 5) on an inventory in which an individual would indicate the degree to which a statement may resonate with them. With that information it is then possible to 'grade' the degree to which a dimension is true to that person.
+
+#### Give an example of a dimensional approach and explain why it is dimensional rather than categorical
+
+Personality tests such as the big five personality test have a dimensional approach as they do not classify you unequivocally into a particular personality but instead give you a range of dimensions and your position along such a continuum. If such a test did have a categorical approach it would classify you distinctly into a specific personality type.
+
+#### Give an example of how a dimensional and categorical approach could be used together
+
+?
+
+#### Describe two strengths and two limitations of dimensional approaches to classification of mental disorders.
+
+| Strengths of dimensional approaches | Limitations of dimensional approaches |
+| --- | --- |
+| Eliminates stigmatisation of individuals with mental disorders | There is no widely accepted or standardised inventory or system that can be used (e.g the categorical approaches DSM or ICD) |
+| Takes into account a wider range of person's symptoms and characteristics | There is disagreement among health professionals about the number of dimensions to use |
+
 # Learning Activity 12.10
 # Learning Activity 12.11
