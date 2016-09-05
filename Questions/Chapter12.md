@@ -175,4 +175,40 @@ Personality tests such as the big five personality test have a dimensional appro
 | Takes into account a wider range of person's symptoms and characteristics | There is disagreement among health professionals about the number of dimensions to use |
 
 # Learning Activity 12.10
+
+| --- | Categorical | Dimensional |
+| --- | --- | --- |
+| Definition | --- | --- |
+| Principles and assumptions | --- | --- |
+| Examples | --- | --- |
+| Strengths | --- | --- |
+| Limitations | --- | --- |
+
 # Learning Activity 12.11
+
+#### What is the biopsychological framework?
+
+---
+
+#### Name and describe the three domains in the biopsychological framework with reference to relevant examples.
+#### For each domain, give two additional examples of factors not referred to in the text.
+#### Give an example of a factor that you believe does not clearly belong within a specific domain or may be relevant to more than one domain. Explain your choice.
+
+---
+
+#### Briefly describe three key characteristics of the biopsychological framework's explanation of physical and mental health.
+#### Give a reason to explain why the framework may also be described as a model or theory.
+
+---
+
+#### Consider a recent time when you had a physical illness or were feeling stressed. You do not have to name the illness or the source of your stress.
+
+| Illness or stress | Biological factors | Psychological factors | Social factors |
+| --- | --- | --- | --- |
+| Onset | --- | --- | --- |
+| Recovery | --- | --- | --- |
+
+---
+
+#### Write a series of questions a doctor or psychologist who has adopted the biopsychological framework may ask a patient or client presenting with symptoms of a physical or a mental health problem.
+#### To what extent are the DSM's multiaxial system and ICD-10 approach to diagnosing mental and behavioural disorders consistent with the biopsychological framework? Explain your answer with reference to key characteristics of the DSM, ICD and biopsychological framework.
