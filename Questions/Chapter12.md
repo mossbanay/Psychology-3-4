@@ -178,11 +178,11 @@ Personality tests such as the big five personality test have a dimensional appro
 
 | --- | Categorical | Dimensional |
 | --- | --- | --- |
-| Definition | --- | --- |
-| Principles and assumptions | --- | --- |
-| Examples | --- | --- |
-| Strengths | --- | --- |
-| Limitations | --- | --- |
+| Definition | A yes-no approach to classification of a person's symptoms in terms of which specific category of mental disorder they best fit or 'belong' to | A classification system based on how much a persons symptoms match a disorder |
+| Principles and assumptions | --- | Assumes that normality and abnormality are endpoints on a continuum |
+| Examples | Being diagnosed for schizophrenia based on the criteria in the DSM | Being diagnosed as mildly neurotic based on a personality test |
+| Strengths | Higher inter-rater reliability, conveys a large amount of information with a single diagnostic | Provides a rich amount of data to healthcare professionals treating a patient |
+| Limitations | Can introduce stigma to patients diagnosed with a particular disorder, no single category can fully describe an individual | Inconsistent opinions on the number of dimensions to include |
 
 # Learning Activity 12.11
 
