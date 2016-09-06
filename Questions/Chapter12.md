@@ -186,29 +186,56 @@ Personality tests such as the big five personality test have a dimensional appro
 
 # Learning Activity 12.11
 
-#### What is the biopsychological framework?
+#### What is the biopsychosocial framework?
+
+The biopsychosocial is an approach to describing how biological, psychological and social factors influence an individual's physical and mental health.
 
 ---
 
-#### Name and describe the three domains in the biopsychological framework with reference to relevant examples.
-#### For each domain, give two additional examples of factors not referred to in the text.
+#### Name and describe the three domains in the biopsychosocial framework with reference to relevant examples.
+
+** Biological **
+
+- Genetic traits
+- Neurochemical factors
+
+** Psychological **
+
+- Feelings
+- Behaviours
+- Ability to manage stress
+
+** Social **
+
+- Friendships
+- Relationships
+- Work
+- Support from others
+
 #### Give an example of a factor that you believe does not clearly belong within a specific domain or may be relevant to more than one domain. Explain your choice.
 
+Support from others may belong to both the psychological domain as well as the social domain as it involves both therapeutic and social considerations.
+
 ---
 
-#### Briefly describe three key characteristics of the biopsychological framework's explanation of physical and mental health.
+#### Briefly describe three key characteristics of the biopsychosocial framework's explanation of physical and mental health.
+
+?
+
 #### Give a reason to explain why the framework may also be described as a model or theory.
 
----
-
-#### Consider a recent time when you had a physical illness or were feeling stressed. You do not have to name the illness or the source of your stress.
-
-| Illness or stress | Biological factors | Psychological factors | Social factors |
-| --- | --- | --- | --- |
-| Onset | --- | --- | --- |
-| Recovery | --- | --- | --- |
+The framework is just one possible way of explaining how physical and mental illnesses come about, the theory is not 'proven' in anyway.
 
 ---
 
-#### Write a series of questions a doctor or psychologist who has adopted the biopsychological framework may ask a patient or client presenting with symptoms of a physical or a mental health problem.
-#### To what extent are the DSM's multiaxial system and ICD-10 approach to diagnosing mental and behavioural disorders consistent with the biopsychological framework? Explain your answer with reference to key characteristics of the DSM, ICD and biopsychological framework.
+#### Write a series of questions a doctor or psychologist who has adopted the biopsychosocial framework may ask a patient or client presenting with symptoms of a physical or a mental health problem.
+
+- Does your family have a genetic history of this particular disorder?
+- Have you ever been taught stress management skills such as meditation?
+- Do you find yourself being able to cope with stress?
+- Have you had any significant events in your life lately?
+- Do you find you can socialise with others easily?
+
+#### To what extent are the DSM's multiaxial system and ICD-10 approach to diagnosing mental and behavioural disorders consistent with the biopsychosocial framework? Explain your answer with reference to key characteristics of the DSM, ICD and biopsychosocial framework.
+
+The DSM assesses the psychological factors in axis I and II, social factors affecting a person in axis IV, and the medical factors (biological) in axis III. This encompasses the key characteristics and ideas of the biopsychosocial framework.
