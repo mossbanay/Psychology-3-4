@@ -18,7 +18,10 @@ Consider the different classifications of stressors.
 
 #### Give an example of an internally sourced stressor that is not psychological.
 
-Doubting your own abilities to accomplish a task.
+- Fatigue
+- Chronic pain
+- Fever
+- Physical injury
 
 #### Give an example of how a physical stimulus may be a stressor.
 
@@ -32,7 +35,11 @@ The fight-flight response is an involuntary physiological response that prepares
 
 #### What type of stimulus and/or stressor other than a threat can initiate the response?
 
-?
+The fight or flight response can be initiated by a psychological or physical stimulus.
+
+For example:
+- Sight of a spider (physical)
+- Worrying about an exam (psychological)
 
 #### Describe a fight-flight response you have experience and any physiological change you were aware of and any you were unlikely to be aware of. Refer to the text and figure 13.3 when outlining changes.
 
@@ -46,15 +53,20 @@ The fight-flight response is controlled by the autonomic nervous system, which i
 
 #### What is the HPA axis?
 
-The HPA axis is the interaction that exists between the hypothalamus, pituitary gland and the adrenal cortex during the production of cortisol in response to a stressor.
+The HPA axis is a chain of physiological reactions involving the hypothalamus, pituitary gland and the adrenal cortex/glands.
 
 #### Outline the key physiological changes involved in the HPA axis
 
-Release of ACTH from the pituitary gland, release of cortisol from the adrenal cortex.
+- The hypothalamus is activated upon seeing a threat
+- The hypothalamus activates the pituitary gland
+- The pituitary gland releases ACTH
+- ACTH travels through the blood to the adrenal cortex
+- The adrenal cortex secretes cortisol
+- Cortisol raises the energy levels within the body
 
 #### When is the HPA axis likely to be initiated?
 
-After an extended duration of stress.
+When an individual is experiencing chronic stress.
 
 ---
 
