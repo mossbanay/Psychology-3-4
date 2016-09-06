@@ -42,6 +42,60 @@ When frightened by a spider I have felt my heart-rate increase but would not hav
 
 The fight-flight response is controlled by the autonomic nervous system, which is not consciously regulated.
 
+---
+
+#### What is the HPA axis?
+
+The HPA axis is the interaction that exists between the hypothalamus, pituitary gland and the adrenal cortex during the production of cortisol in response to a stressor.
+
+#### Outline the key physiological changes involved in the HPA axis
+
+Release of ACTH from the pituitary gland, release of cortisol from the adrenal cortex.
+
+#### When is the HPA axis likely to be initiated?
+
+After an extended duration of stress.
+
+---
+
+#### What 'stress hormones' are released during the fight-flight response?
+
+Adrenaline and noradrenaline
+
+#### What 'stress hormones' are released if the fight-flight stimulus persists?
+
+Cortisol
+
+---
+
+#### Explain the role of the adrenal glands in physiological responses to stress.
+
+The adrenal glands regulate the amount of adrenaline, noradrenaline and cortisol released into the blood.
+
+---
+
+A research study measuring the effectiveness of a stress reduction course used cortisol level as their dependent variable.
+
+#### Is cortisol a valid dependent variable for this study?
+
+Yes
+
+#### If the stress reduction was effective, what would happen to the participants' cortisol levels?
+
+The levels of cortisol would reduce
+
+---
+
+You are a passenger in a car when the driver suddenly slam on the breaks to avoid hitting a dog. Outline and explain the physiological changes likely to occur during:
+
+#### the first 30 seconds
+
+Jump in adrenaline and noradrenaline, increase in cortisol
+
+#### after about 20 minutes
+
+Little to no adrenaline or noradrenaline left, decrease in cortisol down to normal levels
+
 # Learning Activity 13.3
 # Learning Activity 13.4
 # Learning Activity 13.6
