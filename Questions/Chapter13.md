@@ -129,6 +129,33 @@ Fans of horror films may experience eustress after a jump scare but those who ar
 Different responses occur as a result of the differing interpretations of a situation and whether someone can properly cope with them. The past experiences that people have also lead them to react differently in the same scenario.
 
 # Learning Activity 13.4
+
+#### Explain the meaning of the phrase 'psychological response to stress'
+
+A psychological response to stress refers to the emotional, cognitive and behavioural changes that occur as a result of stress.
+
+#### In what three ways can psychological responses to stress be distinguished from physiological responses to stress?
+
+- They are not directly observable
+
+---
+
+| Type of change | Summary |
+| --- | --- |
+| Emotional | Changes that occur in feelings. Individual's may report feeling anxious, tense, angry, irritable or helpless. These feelings are often accompanied by a negative attitude toward oneself. |
+| Cognitive | Changes that occur in an individual's mental abilities. For example difficulty concentrating, making decisions, and being more forgetful |
+| Behavioural | Changes that occur in how someone cats, talks, dresses. Changes in sleep patterns or extraversion |
+
+---
+
+#### Give an example of how prior experience may influence a psychological response to stress.
+
+Someone who has been on a lot of carnival rides may be less scared to go on a rollercoaster than someone who has never been on a rollercoaster before. The person with more experience would therefore experience a lesser stress response than the first-timer.
+
+#### Suggest how an individual's personal interpretation of a stressor may impact on their stress response
+
+A grandmaster playing chess may recognise a particularly strong move made by an opponent during a chess game whereas a rookie may not realise the significance of it. The stress response would therefore be more significant in the grandmaster than the rookie due to differing interpretations of the situation.
+
 # Learning Activity 13.6
 # Learning Activity 13.9
 # Learning Activity 13.10
