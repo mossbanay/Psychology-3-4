@@ -109,6 +109,25 @@ Jump in adrenaline and noradrenaline, increase in cortisol
 Little to no adrenaline or noradrenaline left, decrease in cortisol down to normal levels
 
 # Learning Activity 13.3
+
+#### Distinguish between eustress and distress
+
+Eustress is a positive psychological state whereas distress is a negative psychological state
+
+#### Describe two characteristics of eustress and two of distress
+
+Eustress is typically short-term and involves feeling enthusiastic and active whereas distress involves negative psychological states such as angry, anxiety and tension as well as arising from a negative response to a stressor.
+
+---
+
+#### Outline three events and/or situations that could cause eustress in one person and distress in another. Explain why the different responses can occur.
+
+A rollercoaster may give someone who enjoys going on rides eustress but someone who is afraid of heights distress.
+
+Fans of horror films may experience eustress after a jump scare but those who are easily frightened may experience distress.
+
+Different responses occur as a result of the differing interpretations of a situation and whether someone can properly cope with them. The past experiences that people have also lead them to react differently in the same scenario.
+
 # Learning Activity 13.4
 # Learning Activity 13.6
 # Learning Activity 13.9
