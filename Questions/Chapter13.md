@@ -157,6 +157,104 @@ Someone who has been on a lot of carnival rides may be less scared to go on a ro
 A grandmaster playing chess may recognise a particularly strong move made by an opponent during a chess game whereas a rookie may not realise the significance of it. The stress response would therefore be more significant in the grandmaster than the rookie due to differing interpretations of the situation.
 
 # Learning Activity 13.6
+
+#### Explain the meaning of the phrase 'psychological determinants of the stress response' with reference to an example and explain how psychological and physiological determinants differ.
+
+Psychological determinants of the stress responses are psychological factors that have an influence on the human stress response. Some of these factors include attitudes, coping skills, prior experiences with stressors and stress responses.
+
+For example if someone doubts their knowledge in a subject they may feel stressed about an upcoming test.
+
+#### Briefly describe Lazarus and Folkman's transactional model of stress and coping.
+
+The Lazarus and Folkman transactional model of stress and coping proposes that stress involves an encounter ('transaction') between an individual and their external environment, and that a stress response depends upon the individual's interpretation ('appraisal') of the stressor and their ability to cope with it.
+
+#### What role does the environment play in stress?
+
+
+
+#### What role does the individual play in stress?
+
+
+
+---
+
+#### What does appraisal involve?
+
+
+
+#### Name and describe the two major types of appraisal, according to Lazarus and Folkman.
+
+
+
+#### What is the role of reappraisal and when might it occur?
+
+
+---
+
+#### Name and describe the three types of appraisals that follow an appraisal of a stimulus as stressful
+
+
+
+---
+
+#### Explain the meaning of coping in relation to a stress response.
+
+
+
+#### Name and describe the two types of coping with reference to three examples of each type
+
+Emotional-focused coping which targets on dealing with the stressor without actually taking steps to remove it. Example strategies include wishful thinking, ignoring the stressor and talking to a friend about how you feel.
+
+
+Problem-focused coping on the other hand targets the stressor itself and how an individual can lessen its burden. Example strategies include studying for a test so you feel like stressed about it, doing mock interviews to prepare for a job interview and performing a oral speech in the mirror.
+
+---
+
+For each of the following statements, name the type of coping strategy that is being used to manage the effects of a stressor
+
+#### I talk to someone about how I feel
+
+Emotional-focused coping
+
+#### I try to come up with a strategy about what to do
+
+Problem-focused coping
+
+#### I look for something good in what is happening
+
+Emotional-focused coping
+
+#### I focus on my school work to take my mind off things
+
+Problem-focused coping
+
+#### I let my feelings out
+
+Emotional-focused coping
+
+#### I learn to live with it
+
+Emotional-focused coping
+
+
+---
+
+A friend is experiencing a stress response after submitting a SAC for two VCE subjects in the morning. Shortly after, he learns that a SAC test will be held in five days for a third subject and will therefore clash with a 700-word SAC essay for a fourth subject, which must be submitted on the same day.
+
+#### Describe a problem-focused strategy or strategies that you believe could be effective for managing your friend's stress response.
+
+The friend could focus on writing the 700-word essay and memorising it for two days, then work on revising for the surprise SAC.
+
+---
+
+#### Outline the main strengths and limitations of the transactional model of stress and coping
+
+| Strengths of the transactional model of stress | Limitations of the transactional model of stress |
+| --- | --- |
+| Takes into account that two people may appraise the same situation differently | Difficult to empirically research |
+| Focuses on the psychological determinants of stress which we have control over | Primary and secondary appraisals may overlap |
+| Proposes different methods for managing psychological responses to stressors | Individuals may not always be cognitively aware of what is causing them stress |
+
 # Learning Activity 13.9
 # Learning Activity 13.10
 # Learning Activity 13.12
