@@ -170,36 +170,47 @@ The Lazarus and Folkman transactional model of stress and coping proposes that s
 
 #### What role does the environment play in stress?
 
-
+?
 
 #### What role does the individual play in stress?
 
-
+?
 
 ---
 
 #### What does appraisal involve?
 
-
+Appraisal involves the judging of a situation.
 
 #### Name and describe the two major types of appraisal, according to Lazarus and Folkman.
 
+Primary appraisal
 
+- The initial appraisal
+- Involves deciding whether the stimulus is a threat and relevant to us
+
+Secondary appraisal
+
+- Occurs after the primary appraisal
+- Involves evaluation of coping options and resources
 
 #### What is the role of reappraisal and when might it occur?
 
+Involves with appraising the situation while taking into account the coping strategies and resources that are made available to the individual.
 
 ---
 
 #### Name and describe the three types of appraisals that follow an appraisal of a stimulus as stressful
 
-
+Harm/loss
+Threat
+Challenge
 
 ---
 
 #### Explain the meaning of coping in relation to a stress response.
 
-
+Coping is the process of 'constantly changing cognitive and behavioural efforts to manage specific internal and/or external stressors that are appraised as taxing or exceeding the resources of the person'.
 
 #### Name and describe the two types of coping with reference to three examples of each type
 
