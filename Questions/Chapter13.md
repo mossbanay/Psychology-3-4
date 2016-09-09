@@ -267,6 +267,33 @@ The friend could focus on writing the 700-word essay and memorising it for two d
 | Proposes different methods for managing psychological responses to stressors | Individuals may not always be cognitively aware of what is causing them stress |
 
 # Learning Activity 13.9
+
+#### Explain, with reference to an example, how lifestyle change and cultural change can either exacerbate or alleviate the stress response.
+
+When moving to a new country individual's may find it stressful adapting to the new types of food and customs in that country. For example a student moving from China to America for university may be overwhelmed with the amount of fast food and loud people in America.
+
+---
+
+#### Explain how crowding can exacerbate the stress response
+
+When an individual feels uncomfortable with the people around them being so close (e.g. someone sitting next to them on an otherwise empty bus) then their stress response may be exacerbated.
+
+#### Explain how crowding could alleviate the stress response
+
+?
+
+---
+
+#### Briefly describe the relationship between social, cultural and environmental factors and explain why factors from each domain are difficult to isolate and study independently.
+
+?
+
+---
+
+#### Explain, with reference to an example, how social, cultural and environmental factors can interact to influence the stress response.
+
+?
+
 # Learning Activity 13.10
 # Learning Activity 13.12
 # Learning Activity 13.13
