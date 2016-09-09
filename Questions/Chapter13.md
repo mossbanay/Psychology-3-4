@@ -295,5 +295,53 @@ When an individual feels uncomfortable with the people around them being so clos
 ?
 
 # Learning Activity 13.10
+
+#### Explain the meaning of allostasis with reference to an example.
+
+Allostasis refers to the body's ability to maintain a stable physiological environment by adjusting and changing to meet internal and external demands.
+
+#### What are the similarities and differences between allostasis and homeostasis?
+
+- Allostasis maintains a stable physiological state by changing or adapting to the environment whereas homeostasis maintains a stable physiological state by remaining constant
+- Allostasis involves the role of cognitive processes whereas homeostasis only considers biological factors
+
+---
+
+#### What is an allostatic system?
+
+An allostatic system is one of the systems that act to protect the body by responding to internal and external stimuli.
+
+#### List the main allostatic systems.
+
+- Cardiovascular system
+- Immune system
+- Metabolic system
+- HPA axis
+- The autonomic nervous system
+
+#### What role do allostatic systems have in allostasis?
+
+The allostatic systems are the way in which the body changes to maintain a stable physiological environment (i.e. allostasis)
+
+---
+
+#### Explain the meaning of allostatic load
+
+Allostatic load refers to the cumulative negative effects of the wear and tear that the body and brain experience.
+
+#### What causes allostatic load?
+
+Allostatic load is caused by repeated cycles of allostatic changes and/or the inefficient turning on and turning off of these responses.
+
+#### In what way is allostatic load the 'price we pay' for repeatedly being challenge by a variety of stressors?
+
+The more stressors that are being coped with the greater the total on the body. Accumulation of such damage can lead to allostatic overload which can lead to illness.
+
+---
+
+#### How does allostasis integrate biological, psychological and social factors to explain an individual's response to stress?
+
+The allostatic model adopts the biopsychosocial model for explaining the determinants of the stress response. More specifically, the appraisal an individual has of a potential stressor determines whether allostatic systems like the HPA axis are activated.
+
 # Learning Activity 13.12
 # Learning Activity 13.13
